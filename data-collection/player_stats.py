@@ -12,6 +12,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
+from functools import reduce
 import pandas as pd
 import time
 
@@ -38,8 +39,7 @@ year_ranges = [
 def get_url(range):
     return f"https://fbref.com/en/comps/9/{range}/stats/{range}-Premier-League-Stats"
 
-
-if __name__ == "__main__":
+def get_raw_data():
     for range in year_ranges:
         url = get_url(range)
         driver.get(url)
@@ -50,3 +50,39 @@ if __name__ == "__main__":
         # print(data.text)
         # players = pd.read_html(data.text, match= "Player Standard Stats")
         players.to_csv(f"../data/player_data_{range}.csv", index=False)
+
+def clean_data():
+    #Limit to players transferred within the premier league
+    transfers = pd.read_csv("data/prem_transfers_cleaned.csv")
+    players_names = set(transfers['player_name'].tolist())
+    print(players_names)
+    for range in year_ranges:
+        path = f"data/player_data_{range}.csv"
+        player_data = pd.read_csv(path)
+        filtered = player_data[player_data['Player'].isin(players_names)]
+        # filtered['cards'] = filtered['CrdY'] + filtered['CrdR']
+        # filtered = filtered.drop(columns=['CrdY','CrdR'])
+        rename_dict = {"Player":"player_name", "Nation":"nation", "Squad":"squad","Min":"minutes_played", "Gls":"goals", "Ast": "assists"}
+        columns_to_keep = ["Player", "Nation","Squad","Min", "Gls", "Ast","cards"]
+        filtered = filtered[columns_to_keep].rename(columns=rename_dict)
+        filtered.to_csv(path, index=False)
+
+def merge_data():
+    dataframes = []
+    for range in year_ranges:
+        path = f"data/raw_player_stats/player_data_{range}.csv"
+        dataframes.append( pd.read_csv(path))
+    df_merged = pd.concat(dataframes, ignore_index=True)
+    # Drop duplicate columns created in the merging process
+    df_merged = df_merged[[col for col in df_merged.columns if not col.endswith('_drop')]]  
+    df_aggregated = df_merged.groupby(['player_name', 'squad']).agg({
+        'nation': 'first',  # Presuming 'nation' does not change
+        'minutes_played': 'sum',
+        'goals': 'sum',
+        'assists': 'sum',
+        'cards': 'sum'}).reset_index()
+    df_aggregated.to_csv("data/aggregate_stats.csv")
+
+if __name__ == "__main__":
+    merge_data()
+    
