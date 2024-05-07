@@ -1,0 +1,936 @@
+squad,player_name,age,position,club_involved_name,transfer_period,fee_cleaned,season,nation,minutes_played_1,goals_1,assists_1,cards_1,minutes_played_2,goals_2,assists_2,cards_2
+Middlesbrough FC,Tommy Wright,26.0,Left Winger,Leicester City,Summer,0.91,1992/1993,sct SCO,0.8900584795321638,5.0,8.0,0.0,0.0014619883040935,0.0,0.0,0.0
+Sheff Utd,Mark Bright,30.0,Centre-Forward,Crystal Palace,Summer,1.7,1992/1993,eng ENG,0.5932748538011696,48.0,13.0,11.0,0.131578947368421,1.0,0.0,0.0
+Wimbledon FC,Vinnie Jones,27.0,Defensive Midfield,Chelsea FC,Summer,0.83,1992/1993,wls WAL,0.7209551656920078,11.0,12.0,55.0,0.17953216374269,1.0,0.0,1.0
+Nottm Forest,Neil Webb,28.0,Central Midfield,Man Utd,Summer,0.925,1992/1993,eng ENG,0.2350877192982456,0.0,2.0,0.0,0.0076023391812865,0.0,0.0,0.0
+Chelsea FC,Anthony Barness,19.0,Right-Back,Charlton,Summer,0.525,1992/1993,eng ENG,0.1542397660818713,0.0,0.0,1.0,0.0187134502923976,0.0,0.0,0.0
+Aston Villa,Dean Saunders,28.0,Centre-Forward,Liverpool FC,Summer,2.85,1992/1993,wls WAL,0.9545808966861596,38.0,8.0,4.0,0.1432748538011695,1.0,1.0,0.0
+Spurs,Teddy Sheringham,26.0,Centre-Forward,Nottm Forest,Summer,3.15,1992/1993,eng ENG,0.8618629908103592,98.0,44.0,21.0,0.0710526315789473,1.0,0.0,0.0
+Oldham Athletic,Darren Beckford,25.0,Centre-Forward,Norwich City,Winter,0.33,1992/1993,eng ENG,0.2679824561403509,9.0,1.0,2.0,0.1596491228070175,1.0,0.0,0.0
+Man Utd,Eric Cantona,26.0,Second Striker,Leeds United,Winter,1.8,1992/1993,fr FRA,0.7392397660818714,63.0,51.0,21.0,0.3198830409356725,6.0,5.0,3.0
+Arsenal FC,Martin Keown,26.0,Centre-Back,Everton,Winter,3.0,1992/1993,eng ENG,0.6186647173489278,4.0,7.0,65.0,0.3421052631578947,0.0,0.0,1.0
+Chelsea FC,Steve Livingstone,23.0,Centre-Forward,Blackburn Rovers,Winter,0.4,1992/1993,eng ENG,0.0105263157894736,0.0,0.0,0.0,0.0309941520467836,0.0,0.0,0.0
+Blackburn Rovers,Graeme Le Saux,24.0,Left-Back,Chelsea FC,Winter,1.05,1992/1993,eng ENG,0.6661403508771929,7.0,18.0,23.0,0.5071428571428571,4.0,22.0,28.0
+Aston Villa,Andy Townsend,29.0,Central Midfield,Chelsea FC,Summer,2.4,1993/1994,ie IRL,0.6699415204678363,8.0,21.0,29.0,1.0608187134502924,4.0,6.0,4.0
+Sheff Utd,Andy Sinton,27.0,Left Midfield,QPR,Summer,3.35,1993/1994,eng ENG,0.4400584795321636,3.0,8.0,2.0,0.9266081871345028,7.0,9.0,2.0
+Man Utd,Roy Keane,21.0,Defensive Midfield,Nottm Forest,Summer,8.5,1993/1994,ie IRL,0.6125730994152047,33.0,31.0,76.0,1.0347953216374268,6.0,2.0,7.0
+Newcastle United,Peter Beardsley,32.0,Second Striker,Everton,Summer,1.7,1993/1994,eng ENG,0.7914473684210527,46.0,26.0,15.0,1.0198830409356725,10.0,7.0,0.0
+Newcastle United,Scott Sellars,27.0,Left Midfield,Leeds United,Summer,0.7,1993/1994,eng ENG,0.3868421052631579,3.0,12.0,2.0,0.1593567251461988,0.0,0.0,0.0
+Newcastle United,Mike Hooper,29.0,Goalkeeper,Liverpool FC,Summer,0.628,1993/1994,eng ENG,0.3118421052631578,0.0,0.0,0.0,0.2292397660818713,0.0,0.0,0.0
+Ipswich Town,Steve Sedgley,26.0,Central Midfield,Spurs,Summer,1.25,1993/1994,eng ENG,0.6710526315789473,4.0,1.0,2.0,0.8147660818713451,8.0,3.0,3.0
+Ipswich Town,Ian Marshall,27.0,Centre-Forward,Oldham Athletic,Summer,1.13,1993/1994,eng ENG,0.5457602339181287,13.0,1.0,0.0,0.6871345029239766,2.0,4.0,3.0
+Arsenal FC,Eddie McGoldrick,28.0,Right Winger,Crystal Palace,Summer,1.28,1993/1994,ie IRL,0.2728070175438596,0.0,4.0,3.0,1.0064327485380118,8.0,4.0,3.0
+Leeds United,Brian Deane,25.0,Centre-Forward,Sheff Utd,Summer,4.35,1993/1994,eng ENG,0.8710526315789473,32.0,22.0,19.0,1.0742690058479532,15.0,10.0,6.0
+Sheff Utd,Willie Falconer,27.0,Centre-Forward,Middlesbrough FC,Summer,0.6,1993/1994,sct SCO,0.5450292397660819,4.0,1.0,1.0,0.5812865497076023,5.0,3.0,2.0
+Man City,Alan Kernaghan,26.0,Centre-Back,Middlesbrough FC,Summer,2.4,1993/1994,ie IRL,0.4159844054580897,1.0,1.0,6.0,0.5716374269005848,2.0,0.0,2.0
+Blackburn Rovers,Ian Pearce,19.0,Centre-Back,Chelsea FC,Summer,0.45,1993/1994,eng ENG,0.2404093567251461,2.0,0.0,5.0,0.0230994152046783,0.0,0.0,1.0
+Spurs,Jason Dozzell,25.0,Central Midfield,Ipswich Town,Summer,2.4,1993/1994,eng ENG,0.4560672514619883,13.0,4.0,12.0,1.0482456140350878,7.0,9.0,3.0
+Spurs,David Kerslake,27.0,Right-Back,Leeds United,Summer,0.563,1993/1994,eng ENG,0.2998050682261208,0.0,3.0,3.0,0.2105263157894736,0.0,1.0,0.0
+Liverpool FC,Neil Ruddock,25.0,Centre-Back,Spurs,Summer,3.0,1993/1994,eng ENG,0.573625730994152,12.0,3.0,21.0,0.9798245614035088,3.0,2.0,11.0
+Liverpool FC,Nigel Clough,27.0,Attacking Midfield,Nottm Forest,Summer,2.75,1993/1994,eng ENG,0.265204678362573,7.0,3.0,3.0,0.6412280701754385,11.0,3.0,3.0
+Liverpool FC,Julian Dicks,25.0,Left-Back,West Ham United,Summer,2.25,1993/1994,eng ENG,0.6225146198830409,3.0,1.0,1.0,0.572280701754386,21.0,6.0,25.0
+Norwich City,Neil Adams,28.0,Right-Back,Oldham Athletic,Winter,0.375,1993/1994,eng ENG,0.4589181286549707,3.0,5.0,2.0,0.471345029239766,8.0,2.0,2.0
+Newcastle United,Ruel Fox,26.0,Right Winger,Norwich City,Winter,2.5,1993/1994,ms MSR,0.4796296296296296,12.0,15.0,0.0,0.7444444444444445,11.0,15.0,0.0
+Leeds United,John Pemberton,28.0,Centre-Back,Sheff Utd,Winter,0.313,1993/1994,eng ENG,0.3864522417153995,0.0,2.0,18.0,0.3552631578947368,0.0,0.0,7.0
+Swindon Town,Brian Kilcline,31.0,Centre-Back,Newcastle United,Winter,0.113,1993/1994,eng ENG,0.2631578947368421,0.0,0.0,1.0,0.0263157894736842,0.0,0.0,0.0
+Man City,David Rocastle,26.0,Attacking Midfield,Leeds United,Winter,2.4,1993/1994,eng ENG,0.5406432748538011,2.0,2.0,3.0,0.2383040935672514,2.0,3.0,1.0
+Blackburn Rovers,Tim Flowers,26.0,Goalkeeper,Southampton,Winter,3.8,1993/1994,eng ENG,0.7673001949317739,0.0,1.0,9.0,0.7105263157894737,0.0,1.0,1.0
+Blackburn Rovers,David Batty,25.0,Defensive Midfield,Leeds United,Winter,3.78,1993/1994,eng ENG,0.4598440545808966,1.0,3.0,10.0,0.4291979949874686,1.0,9.0,33.0
+Spurs,Kevin Scott,27.0,Centre-Back,Newcastle United,Winter,1.1,1993/1994,eng ENG,0.1351851851851851,1.0,1.0,1.0,0.4736842105263157,0.0,0.0,2.0
+Spurs,Ronny Rosenthal,30.0,Left Winger,Liverpool FC,Winter,0.3,1993/1994,il ISR,0.3955409356725146,4.0,7.0,8.0,0.2214912280701754,6.0,1.0,0.0
+Spurs,Micky Hazard,33.0,Central Midfield,Swindon Town,Winter,0.055,1993/1994,eng ENG,0.2393274853801169,2.0,2.0,3.0,0.1950292397660818,0.0,0.0,0.0
+Norwich City,Jon Newsome,23.0,Right-Back,Leeds United,Summer,1.5,1994/1995,eng ENG,0.9111111111111112,3.0,2.0,5.0,0.7460526315789473,1.0,1.0,8.0
+Norwich City,Mike Sheron,22.0,Centre-Forward,Man City,Summer,1.38,1994/1995,eng ENG,0.4301169590643275,1.0,0.0,0.0,0.8396198830409356,17.0,4.0,0.0
+Norwich City,Carl Bradshaw,25.0,Right-Back,Sheff Utd,Summer,0.58,1994/1995,eng ENG,0.6166666666666667,1.0,0.0,0.0,0.7961988304093568,2.0,4.0,9.0
+QPR,Steve Hodge,31.0,Central Midfield,Leeds United,Summer,0.36,1994/1995,eng ENG,0.3663742690058479,0.0,1.0,4.0,0.18406432748538,3.0,1.0,3.0
+Leicester City,Franz Carr,28.0,Right Winger,Sheff Utd,Summer,0.12,1994/1995,eng ENG,0.2909356725146199,1.0,1.0,0.0,0.2304093567251461,4.0,2.0,0.0
+Wimbledon FC,Efan Ekoku,27.0,Centre-Forward,Norwich City,Summer,0.75,1994/1995,ng NGA,0.5176608187134503,38.0,8.0,16.0,0.2355750487329434,15.0,2.0,2.0
+Coventry City,Dion Dublin,25.0,Centre-Forward,Man Utd,Summer,3.0,1994/1995,eng ENG,0.7416959064327486,61.0,24.0,19.0,0.0638888888888888,2.0,0.0,1.0
+Man Utd,David May,24.0,Centre-Back,Blackburn Rovers,Summer,2.1,1994/1995,eng ENG,0.2059129304743339,5.0,0.0,12.0,0.963888888888889,2.0,3.0,7.0
+Newcastle United,Darren Peacock,26.0,Centre-Back,QPR,Summer,5.0,1994/1995,eng ENG,0.6910526315789474,2.0,5.0,16.0,0.8672514619883042,5.0,2.0,10.0
+Nottm Forest,Kevin Campbell,24.0,Centre-Forward,Arsenal FC,Summer,4.2,1994/1995,eng ENG,0.4608187134502923,9.0,8.0,5.0,0.7252436647173489,22.0,12.0,1.0
+Chelsea FC,David Rocastle,27.0,Attacking Midfield,Man City,Summer,1.48,1994/1995,eng ENG,0.3197368421052631,0.0,1.0,3.0,0.5406432748538011,2.0,2.0,3.0
+Aston Villa,John Fashanu,31.0,Centre-Forward,Wimbledon FC,Summer,1.62,1994/1995,eng ENG,0.2622807017543859,3.0,0.0,2.0,0.789327485380117,17.0,6.0,8.0
+West Ham United,Don Hutchison,19.0,Attacking Midfield,Liverpool FC,Summer,2.25,1994/1995,sct SCO,0.3469298245614035,12.0,6.0,12.0,0.4488304093567251,7.0,4.0,5.0
+West Ham United,Julian Dicks,26.0,Left-Back,Liverpool FC,Summer,1.5,1994/1995,eng ENG,0.572280701754386,21.0,6.0,25.0,0.6225146198830409,3.0,1.0,1.0
+Man City,Nicky Summerbee,22.0,Right Midfield,Swindon Town,Summer,2.25,1994/1995,eng ENG,0.9519005847953216,2.0,5.0,9.0,0.9187134502923976,3.0,4.0,3.0
+Blackburn Rovers,Chris Sutton,21.0,Centre-Forward,Norwich City,Summer,7.5,1994/1995,eng ENG,0.6391228070175439,47.0,24.0,34.0,0.9720760233918128,33.0,12.0,8.0
+Liverpool FC,John Scales,28.0,Centre-Back,Wimbledon FC,Summer,4.1,1994/1995,eng ENG,0.554093567251462,2.0,1.0,6.0,0.6232943469785576,1.0,3.0,2.0
+Ipswich Town,Lee Chapman,35.0,Centre-Forward,West Ham United,Winter,0.088,1994/1995,eng ENG,0.2728070175438596,1.0,1.0,1.0,0.445906432748538,8.0,2.0,1.0
+Sheff Utd,Guy Whittingham,30.0,Centre-Forward,Aston Villa,Winter,1.0,1994/1995,eng ENG,0.473391812865497,22.0,8.0,5.0,0.2190058479532163,5.0,1.0,1.0
+Leicester City,Mark Robins,25.0,Centre-Forward,Norwich City,Winter,1.25,1994/1995,eng ENG,0.2649122807017544,6.0,3.0,0.0,0.4477582846003898,20.0,13.0,1.0
+Leicester City,Garry Parker,29.0,Central Midfield,Aston Villa,Winter,0.45,1994/1995,eng ENG,0.3530701754385965,8.0,11.0,1.0,0.5831384015594542,12.0,5.0,2.0
+Coventry City,David Burrows,26.0,Left-Back,Everton,Winter,1.65,1994/1995,eng ENG,0.4454191033138401,0.0,4.0,27.0,0.4646198830409356,0.0,1.0,8.0
+Coventry City,Mike Marsh,25.0,Central Midfield,West Ham United,Winter,0.55,1994/1995,eng ENG,0.3634502923976608,2.0,1.0,2.0,0.6217836257309941,1.0,5.0,3.0
+Coventry City,Kevin Richardson,32.0,Central Midfield,Aston Villa,Winter,0.38,1994/1995,eng ENG,0.4944444444444444,0.0,8.0,11.0,0.8763157894736843,7.0,8.0,12.0
+Man Utd,Andy Cole,23.0,Centre-Forward,Newcastle United,Winter,9.6,1994/1995,eng ENG,0.5288742690058479,93.0,33.0,21.0,0.7625730994152047,43.0,17.0,4.0
+Crystal Palace,Iain Dowie,30.0,Centre-Forward,Southampton,Winter,0.5,1994/1995,nir NIR,0.3847953216374269,4.0,0.0,3.0,0.7873294346978558,21.0,11.0,17.0
+Crystal Palace,Ray Houghton,33.0,Central Midfield,Aston Villa,Winter,0.359,1994/1995,ie IRL,0.2625730994152047,2.0,0.0,1.0,0.7219298245614034,6.0,12.0,2.0
+Newcastle United,Keith Gillespie,19.0,Right Midfield,Man Utd,Winter,1.5,1994/1995,nir NIR,0.4881871345029239,11.0,14.0,11.0,0.1096491228070175,1.0,0.0,2.0
+Arsenal FC,Chris Kiwomya,25.0,Centre-Forward,Ipswich Town,Winter,2.25,1994/1995,eng ENG,0.1631578947368421,3.0,0.0,1.0,0.7177387914230019,18.0,7.0,7.0
+Aston Villa,Alan Wright,23.0,Left-Back,Blackburn Rovers,Winter,1.5,1994/1995,eng ENG,0.7364197530864197,5.0,23.0,20.0,0.3141325536062377,0.0,1.0,1.0
+Aston Villa,Franz Carr,28.0,Right Winger,Leicester City,Winter,0.3,1994/1995,eng ENG,0.0154970760233918,0.0,0.0,1.0,0.2909356725146199,1.0,1.0,0.0
+Blackburn Rovers,Jeff Kenna,24.0,Right-Back,Southampton,Winter,2.25,1994/1995,ie IRL,0.7191812865497076,1.0,6.0,8.0,0.8394736842105264,4.0,12.0,5.0
+Chelsea FC,Mark Hughes,31.0,Centre-Forward,Man Utd,Summer,1.9,1995/1996,wls WAL,0.7654970760233919,25.0,14.0,29.0,0.9303118908382064,35.0,15.0,19.0
+Middlesbrough FC,Nick Barmby,21.0,Left Midfield,Spurs,Summer,7.5,1995/1996,eng ENG,0.5510233918128654,8.0,8.0,4.0,0.6956140350877194,20.0,11.0,0.0
+Newcastle United,Les Ferdinand,28.0,Centre-Forward,QPR,Summer,9.5,1995/1996,eng ENG,0.8527777777777779,41.0,14.0,7.0,0.9208576998050684,60.0,22.0,19.0
+Newcastle United,Warren Barton,26.0,Right-Back,Wimbledon FC,Summer,4.5,1995/1996,eng ENG,0.5327067669172932,4.0,11.0,29.0,0.8545808966861599,6.0,11.0,12.0
+Aston Villa,Mark Draper,24.0,Central Midfield,Leicester City,Summer,4.88,1995/1996,eng ENG,0.5484210526315789,7.0,16.0,12.0,0.9616959064327484,5.0,2.0,5.0
+Aston Villa,Gareth Southgate,24.0,Centre-Back,Crystal Palace,Summer,3.75,1995/1996,eng ENG,0.8222709551656919,7.0,2.0,20.0,0.9843567251461988,6.0,8.0,6.0
+Aston Villa,Carl Tiler,25.0,Centre-Back,Nottm Forest,Summer,0.937,1995/1996,eng ENG,0.1314327485380116,1.0,0.0,0.0,0.5181286549707603,0.0,0.0,6.0
+Leeds United,Richard Jobson,32.0,Centre-Back,Oldham Athletic,Summer,1.15,1995/1996,eng ENG,0.2894736842105263,1.0,0.0,3.0,1.008625730994152,7.0,6.0,13.0
+Leeds United,Paul Beesley,30.0,Centre-Back,Sheff Utd,Summer,0.3,1995/1996,eng ENG,0.2482456140350876,0.0,1.0,7.0,0.7972222222222222,2.0,1.0,7.0
+Liverpool FC,Stan Collymore,24.0,Centre-Forward,Nottm Forest,Summer,13.0,1995/1996,eng ENG,0.697076023391813,26.0,15.0,2.0,0.9722222222222222,23.0,6.0,4.0
+Liverpool FC,Jason McAteer,24.0,Right Midfield,Bolton,Summer,6.25,1995/1996,ie IRL,0.5644736842105262,3.0,13.0,16.0,0.1052631578947368,0.0,0.0,1.0
+Spurs,Chris Armstrong,24.0,Centre-Forward,Crystal Palace,Summer,6.8,1995/1996,eng ENG,0.5229532163742691,48.0,8.0,17.0,0.9780701754385964,23.0,8.0,11.0
+Spurs,Ruel Fox,27.0,Right Winger,Newcastle United,Summer,4.75,1995/1996,ms MSR,0.4923976608187134,13.0,14.0,8.0,0.4796296296296296,12.0,15.0,0.0
+Blackburn Rovers,Matty Holmes,26.0,Left Midfield,West Ham United,Summer,1.5,1995/1996,eng ENG,0.195906432748538,1.0,0.0,0.0,0.7001461988304094,4.0,11.0,4.0
+Blackburn Rovers,Lars Bohinen,26.0,Central Midfield,Nottm Forest,Summer,0.77,1995/1996,no NOR,0.3862573099415204,7.0,5.0,9.0,0.4850877192982455,6.0,5.0,9.0
+Bolton,Scott Sellars,29.0,Left Midfield,Newcastle United,Summer,0.85,1995/1996,eng ENG,0.560233918128655,5.0,8.0,9.0,0.3868421052631579,3.0,12.0,2.0
+West Ham United,Iain Dowie,30.0,Centre-Forward,Crystal Palace,Summer,0.6,1995/1996,nir NIR,0.5225146198830409,8.0,4.0,10.0,0.3847953216374269,4.0,0.0,3.0
+Sheff Utd,Jon Newsome,25.0,Right-Back,Norwich City,Winter,2.25,1995/1996,eng ENG,0.2662573099415204,4.0,1.0,6.0,0.9111111111111112,3.0,2.0,5.0
+Coventry City,Richard Shaw,27.0,Centre-Back,Crystal Palace,Winter,1.5,1995/1996,eng ENG,0.7712962962962963,0.0,0.0,16.0,0.945029239766082,0.0,1.0,5.0
+Man Utd,Tony Coton,34.0,Goalkeeper,Man City,Winter,0.575,1995/1996,,,,,,0.810428849902534,0.0,0.0,2.0
+Newcastle United,David Batty,27.0,Defensive Midfield,Blackburn Rovers,Winter,5.15,1995/1996,eng ENG,0.5220029239766082,3.0,3.0,32.0,0.4598440545808966,1.0,3.0,10.0
+West Ham United,Ilie Dumitrescu,26.0,Left Winger,Spurs,Winter,1.5,1995/1996,ro ROU,0.0716374269005847,0.0,0.0,0.0,0.2099415204678362,4.0,1.0,1.0
+Bolton,Nathan Blake,23.0,Centre-Forward,Sheff Utd,Winter,1.68,1995/1996,wls WAL,0.6273391812865496,13.0,5.0,11.0,0.2125730994152047,5.0,0.0,0.0
+Man City,Nigel Clough,29.0,Attacking Midfield,Liverpool FC,Winter,1.7,1995/1996,eng ENG,0.3880116959064327,2.0,3.0,2.0,0.265204678362573,7.0,3.0,3.0
+Blackburn Rovers,Garry Flitcroft,23.0,Central Midfield,Man City,Winter,5.25,1995/1996,eng ENG,0.4794671864847303,11.0,10.0,39.0,0.7017543859649122,13.0,8.0,20.0
+Blackburn Rovers,Chris Coleman,25.0,Centre-Back,Crystal Palace,Winter,4.9,1995/1996,wls WAL,0.3580409356725146,0.0,0.0,5.0,0.8058479532163743,6.0,4.0,5.0
+Blackburn Rovers,Graham Fenton,21.0,Second Striker,Aston Villa,Winter,1.5,1995/1996,eng ENG,0.1725146198830409,7.0,4.0,5.0,0.1673489278752436,3.0,1.0,5.0
+Aston Villa,Julian Joachim,21.0,Centre-Forward,Leicester City,Summer,2.1,1996/1997,eng ENG,0.4362573099415205,39.0,12.0,1.0,0.2982456140350877,3.0,2.0,0.0
+Leicester City,Ian Marshall,30.0,Centre-Forward,Ipswich Town,Summer,1.2,1996/1997,eng ENG,0.3634502923976608,18.0,1.0,5.0,0.5457602339181287,13.0,1.0,0.0
+Leicester City,Spencer Prior,25.0,Centre-Back,Norwich City,Summer,0.7,1996/1997,eng ENG,0.7641812865497075,0.0,1.0,8.0,0.3371345029239766,0.0,2.0,3.0
+Coventry City,Gary McAllister,31.0,Central Midfield,Leeds United,Summer,0.25,1996/1997,sct SCO,0.7677631578947368,20.0,16.0,9.0,0.9891812865497076,25.0,23.0,5.0
+Newcastle United,Alan Shearer,25.0,Centre-Forward,Blackburn Rovers,Summer,18.0,1996/1997,eng ENG,0.7695906432748538,148.0,36.0,33.0,0.8695175438596491,112.0,28.0,13.0
+Leeds United,Lee Sharpe,25.0,Left Midfield,Man Utd,Summer,6.75,1996/1997,eng ENG,0.3526315789473684,5.0,1.0,1.0,0.6527046783625732,17.0,21.0,11.0
+Leeds United,Nigel Martyn,29.0,Goalkeeper,Crystal Palace,Summer,3.35,1996/1997,eng ENG,0.904775828460039,0.0,2.0,4.0,1.0388888888888888,0.0,0.0,3.0
+Leeds United,Gunnar Halle,30.0,Right-Back,Oldham Athletic,Summer,0.575,1996/1997,no NOR,0.5638401559454191,3.0,1.0,7.0,0.8296783625730993,5.0,8.0,5.0
+West Ham United,Richard Hall,24.0,Centre-Back,Southampton,Summer,1.7,1996/1997,eng ENG,0.1842105263157894,0.0,0.0,1.0,0.6396929824561404,9.0,2.0,17.0
+Sunderland AFC,Lee Clark,23.0,Right Winger,Newcastle United,Summer,3.25,1996/1997,,,,,,0.4483040935672514,8.0,8.0,7.0
+Sunderland AFC,Niall Quinn,29.0,Centre-Forward,Man City,Summer,1.3,1996/1997,ie IRL,0.5135087719298246,29.0,14.0,16.0,0.6697368421052632,30.0,23.0,12.0
+Derby County,Paul McGrath,36.0,Centre-Back,Aston Villa,Summer,0.125,1996/1997,ie IRL,0.6020467836257309,0.0,0.0,2.0,0.8933479532163743,6.0,3.0,11.0
+Coventry City,Darren Huckerby,20.0,Right Winger,Newcastle United,Winter,1.0,1996/1997,eng ENG,0.549342105263158,28.0,7.0,18.0,0.0131578947368421,0.0,0.0,0.0
+West Ham United,John Hartson,21.0,Centre-Forward,Arsenal FC,Winter,5.0,1996/1997,wls WAL,0.5083820662768032,24.0,11.0,11.0,0.3673489278752437,14.0,4.0,17.0
+West Ham United,Paul Kitson,26.0,Centre-Forward,Newcastle United,Winter,3.5,1996/1997,eng ENG,0.2069688109161792,18.0,4.0,4.0,0.2249512670565302,10.0,3.0,1.0
+West Ham United,Steve Lomas,23.0,Central Midfield,Man City,Winter,2.4,1996/1997,nir NIR,0.5729323308270676,9.0,13.0,29.0,0.5949317738791423,5.0,7.0,10.0
+Spurs,John Scales,30.0,Centre-Back,Liverpool FC,Winter,3.0,1996/1997,eng ENG,0.196345029239766,0.0,0.0,2.0,0.554093567251462,2.0,1.0,6.0
+Leeds United,Danny Granville,22.0,Left-Back,Chelsea FC,Summer,2.2,1997/1998,eng ENG,0.1845029239766082,0.0,0.0,3.0,0.1752923976608187,0.0,1.0,2.0
+Sheff Utd,Jim Magilton,28.0,Right Midfield,Southampton,Summer,1.9,1997/1998,nir NIR,0.1942982456140351,1.0,0.0,1.0,0.6543859649122806,13.0,6.0,9.0
+Leicester City,Graham Fenton,23.0,Second Striker,Blackburn Rovers,Summer,1.1,1997/1998,eng ENG,0.1341130604288498,3.0,2.0,2.0,0.1725146198830409,7.0,4.0,5.0
+Man Utd,Henning Berg,27.0,Right-Back,Blackburn Rovers,Summer,7.5,1997/1998,no NOR,0.3654970760233918,2.0,2.0,6.0,0.7567251461988304,6.0,9.0,16.0
+Man Utd,Teddy Sheringham,31.0,Centre-Forward,Spurs,Summer,5.3,1997/1998,eng ENG,0.4980263157894736,31.0,25.0,8.0,0.8618629908103592,98.0,44.0,21.0
+Newcastle United,Shay Given,21.0,Goalkeeper,Blackburn Rovers,Summer,2.25,1997/1998,ie IRL,0.7697855750487329,0.0,2.0,13.0,0.0526315789473684,0.0,0.0,0.0
+Chelsea FC,Graeme Le Saux,28.0,Left-Back,Blackburn Rovers,Summer,10.5,1997/1998,eng ENG,0.5071428571428571,4.0,22.0,28.0,0.6661403508771929,7.0,18.0,23.0
+Aston Villa,Stan Collymore,26.0,Centre-Forward,Liverpool FC,Summer,10.5,1997/1998,eng ENG,0.4744152046783625,7.0,7.0,12.0,0.697076023391813,26.0,15.0,2.0
+West Ham United,Ian Pearce,23.0,Centre-Back,Blackburn Rovers,Summer,3.6,1997/1998,eng ENG,0.4850877192982456,7.0,5.0,12.0,0.2404093567251461,2.0,0.0,5.0
+West Ham United,Andy Impey,25.0,Defensive Midfield,QPR,Summer,1.68,1997/1998,eng ENG,0.3097953216374269,0.0,0.0,3.0,0.9019736842105264,11.0,6.0,8.0
+West Ham United,Craig Forrest,29.0,Goalkeeper,Ipswich Town,Summer,0.75,1997/1998,ca CAN,0.1860380116959064,0.0,0.0,0.0,0.6574074074074074,0.0,0.0,2.0
+Bolton,Dean Holdsworth,28.0,Centre-Forward,Wimbledon FC,Summer,4.87,1997/1998,eng ENG,0.2855750487329434,5.0,1.0,13.0,0.6360136452241715,58.0,15.0,20.0
+Bolton,Robbie Elliott,23.0,Left-Back,Newcastle United,Summer,3.48,1997/1998,eng ENG,0.0950292397660818,0.0,0.0,0.0,0.3655336257309941,11.0,7.0,19.0
+Bolton,Neil Cox,25.0,Centre-Back,Middlesbrough FC,Summer,2.0,1997/1998,eng ENG,0.519298245614035,1.0,0.0,3.0,0.8479532163742689,2.0,3.0,15.0
+Bolton,Peter Beardsley,36.0,Second Striker,Newcastle United,Summer,0.5,1997/1998,eng ENG,0.35,2.0,0.0,1.0,0.7914473684210527,46.0,26.0,15.0
+Barnsley FC,Ashley Ward,26.0,Centre-Forward,Derby County,Summer,1.82,1997/1998,eng ENG,0.7216374269005847,8.0,2.0,5.0,0.350438596491228,8.0,2.0,5.0
+Spurs,Les Ferdinand,30.0,Centre-Forward,Newcastle United,Summer,9.5,1997/1998,eng ENG,0.3909356725146198,33.0,9.0,18.0,0.8527777777777779,41.0,14.0,7.0
+Spurs,David Ginola,30.0,Left Winger,Newcastle United,Summer,2.85,1997/1998,fr FRA,0.8039961013645224,12.0,26.0,19.0,0.6802631578947369,6.0,12.0,10.0
+Derby County,Deon Burton,20.0,Centre-Forward,Portsmouth FC,Summer,1.25,1997/1998,jm JAM,0.4076608187134501,22.0,11.0,15.0,0.0049707602339181,0.0,0.0,0.0
+Sheff Utd,Andy Hinchcliffe,28.0,Left-Back,Everton,Winter,4.5,1997/1998,eng ENG,0.6516569200779726,5.0,7.0,5.0,0.5875243664717349,6.0,29.0,13.0
+Wimbledon FC,Mark Kennedy,21.0,Left-Back,Liverpool FC,Winter,2.4,1997/1998,ie IRL,0.1450292397660818,0.0,1.0,0.0,0.0523391812865496,0.0,2.0,1.0
+Wimbledon FC,Michael Hughes,26.0,Attacking Midfield,West Ham United,Winter,2.0,1997/1998,nir NIR,0.5968810916179338,9.0,10.0,13.0,0.4900584795321637,5.0,15.0,9.0
+Newcastle United,Gary Speed,28.0,Left Midfield,Everton,Winter,8.25,1997/1998,wls WAL,0.7678362573099414,29.0,14.0,36.0,0.7631578947368421,16.0,1.0,9.0
+Newcastle United,Andy Griffin,18.0,Right-Back,Stoke City,Winter,2.5,1997/1998,eng ENG,0.2349206349206349,2.0,1.0,12.0,0.4678362573099415,0.0,0.0,4.0
+West Ham United,Trevor Sinclair,24.0,Left Winger,QPR,Winter,3.05,1997/1998,eng ENG,0.7582846003898637,36.0,25.0,28.0,0.8507797270955165,10.0,15.0,9.0
+Bolton,Mike Whitlow,29.0,Centre-Back,Leicester City,Winter,0.75,1997/1998,eng ENG,0.4853801169590643,0.0,5.0,11.0,0.5527777777777777,2.0,3.0,9.0
+Derby County,Lars Bohinen,28.0,Central Midfield,Blackburn Rovers,Winter,1.5,1997/1998,no NOR,0.2900584795321637,1.0,6.0,8.0,0.3862573099415204,7.0,5.0,9.0
+Aston Villa,Alan Thompson,24.0,Left Midfield,Bolton,Summer,7.2,1998/1999,eng ENG,0.4595029239766082,4.0,5.0,13.0,0.7223684210526315,10.0,9.0,16.0
+Aston Villa,Paul Merson,30.0,Right Midfield,Middlesbrough FC,Summer,6.75,1998/1999,eng ENG,0.6619152046783625,18.0,18.0,6.0,0.0789473684210526,0.0,2.0,0.0
+Aston Villa,Steve Watson,24.0,Right-Back,Newcastle United,Summer,6.0,1998/1999,eng ENG,0.4849415204678362,0.0,4.0,7.0,0.592251461988304,11.0,8.0,10.0
+Aston Villa,David Unsworth,24.0,Left-Back,West Ham United,Summer,4.6,1998/1999,,,,,,0.8280701754385965,2.0,2.0,10.0
+Leicester City,Frank Sinclair,26.0,Centre-Back,Chelsea FC,Summer,3.0,1998/1999,jm JAM,0.6222807017543859,2.0,5.0,35.0,0.6616959064327484,6.0,1.0,40.0
+Wimbledon FC,Andy Roberts,24.0,Central Midfield,Crystal Palace,Summer,2.5,1998/1999,eng ENG,0.4190058479532164,3.0,2.0,12.0,0.6453216374269006,0.0,1.0,5.0
+Coventry City,Marc Edworthy,25.0,Right-Back,Crystal Palace,Summer,1.8,1998/1999,eng ENG,0.4200779727095516,1.0,1.0,7.0,0.8590643274853801,0.0,1.0,8.0
+Man Utd,Dwight Yorke,26.0,Centre-Forward,Aston Villa,Summer,19.25,1998/1999,tt TRI,0.5320175438596492,48.0,18.0,5.0,0.5951127819548871,60.0,27.0,11.0
+Newcastle United,Garry Brady,21.0,Central Midfield,Spurs,Summer,0.975,1998/1999,sct SCO,0.097953216374269,0.0,0.0,2.0,0.0423976608187134,0.0,0.0,0.0
+Newcastle United,Laurent Charvet,25.0,Right-Back,Chelsea FC,Summer,0.85,1998/1999,fr FRA,0.3265107212475633,1.0,1.0,3.0,0.2090643274853801,2.0,0.0,3.0
+Nottm Forest,Nigel Quashie,19.0,Central Midfield,QPR,Summer,3.75,1998/1999,sct SCO,0.2929824561403509,0.0,1.0,4.0,0.2669590643274854,0.0,1.0,1.0
+Nottm Forest,Neil Shipperley,23.0,Centre-Forward,Crystal Palace,Summer,2.1,1998/1999,eng ENG,0.3409356725146198,1.0,1.0,0.0,0.2347953216374268,7.0,2.0,0.0
+Nottm Forest,Andy Gray,20.0,Centre-Forward,Leeds United,Summer,0.2,1998/1999,sct SCO,0.1,0.0,0.0,0.0,0.1833333333333333,0.0,1.0,0.0
+Middlesbrough FC,Colin Cooper,31.0,Left-Back,Nottm Forest,Summer,3.75,1998/1999,eng ENG,0.4552997076023391,5.0,2.0,24.0,0.9290448343079922,8.0,3.0,20.0
+Middlesbrough FC,Gary Pallister,33.0,Centre-Back,Man Utd,Summer,2.8,1998/1999,eng ENG,0.4521442495126705,1.0,2.0,10.0,0.8830896686159845,8.0,4.0,19.0
+Middlesbrough FC,Dean Gordon,25.0,Left-Back,Crystal Palace,Summer,1.35,1998/1999,eng ENG,0.3682748538011696,5.0,5.0,6.0,0.7035087719298246,4.0,5.0,7.0
+West Ham United,Ian Wright,34.0,Centre-Forward,Arsenal FC,Summer,0.75,1998/1999,eng ENG,0.5347953216374269,9.0,3.0,10.0,0.782504873294347,104.0,19.0,43.0
+West Ham United,Neil Ruddock,30.0,Centre-Back,Liverpool FC,Summer,0.35,1998/1999,eng ENG,0.5057017543859649,2.0,1.0,13.0,0.573625730994152,12.0,3.0,21.0
+Charlton,Chris Powell,28.0,Left-Back,Derby County,Summer,1.25,1998/1999,eng ENG,0.7632553606237816,1.0,7.0,11.0,0.9119883040935672,1.0,4.0,8.0
+Charlton,Neil Redfearn,33.0,Central Midfield,Barnsley FC,Summer,1.15,1998/1999,eng ENG,0.7312865497076023,3.0,1.0,9.0,0.9736842105263158,10.0,2.0,3.0
+Charlton,Carl Tiler,28.0,Centre-Back,Everton,Summer,0.874,1998/1999,eng ENG,0.4362573099415204,1.0,0.0,7.0,0.275438596491228,1.0,0.0,5.0
+Blackburn Rovers,Kevin Davies,21.0,Centre-Forward,Southampton,Summer,11.25,1998/1999,eng ENG,0.3087719298245614,1.0,2.0,5.0,0.4104093567251462,19.0,8.0,26.0
+Blackburn Rovers,Christian Dailly,24.0,Centre-Back,Derby County,Summer,7.95,1998/1999,sct SCO,0.3637426900584795,0.0,0.0,0.0,0.5396686159844054,4.0,4.0,13.0
+Derby County,Spencer Prior,27.0,Centre-Back,Leicester City,Summer,1.0,1998/1999,eng ENG,0.6554093567251462,1.0,0.0,10.0,0.7641812865497075,0.0,1.0,8.0
+Nottm Forest,Carlton Palmer,33.0,Defensive Midfield,Southampton,Winter,1.35,1998/1999,eng ENG,0.341812865497076,0.0,0.0,6.0,0.583187134502924,3.0,4.0,15.0
+Newcastle United,Duncan Ferguson,27.0,Centre-Forward,Everton,Winter,10.7,1998/1999,sct SCO,0.300438596491228,8.0,1.0,1.0,0.419377990430622,60.0,23.0,48.0
+Wimbledon FC,John Hartson,23.0,Centre-Forward,West Ham United,Winter,11.25,1998/1999,wls WAL,0.3380116959064327,11.0,5.0,7.0,0.5083820662768032,24.0,11.0,11.0
+Leicester City,Andy Impey,27.0,Defensive Midfield,West Ham United,Winter,3.1,1998/1999,eng ENG,0.5470760233918128,2.0,5.0,6.0,0.3097953216374269,0.0,0.0,3.0
+Leicester City,Arnar Gunnlaugsson,25.0,Right Winger,Bolton,Winter,2.8,1998/1999,is ISL,0.0850146198830408,3.0,1.0,1.0,0.1266081871345029,0.0,1.0,0.0
+Aston Villa,Steve Stone,27.0,Right Midfield,Nottm Forest,Winter,8.0,1998/1999,eng ENG,0.4410818713450292,4.0,12.0,12.0,0.6016959064327485,16.0,16.0,19.0
+Aston Villa,Colin Calderwood,34.0,Centre-Back,Spurs,Winter,0.33,1998/1999,sct SCO,0.2998538011695906,0.0,0.0,2.0,0.6610623781676414,6.0,0.0,30.0
+Leeds United,David Batty,30.0,Defensive Midfield,Newcastle United,Winter,6.35,1998/1999,eng ENG,0.4291979949874686,1.0,9.0,33.0,0.5220029239766082,3.0,3.0,32.0
+Derby County,Mikkel Beck,25.0,Centre-Forward,Middlesbrough FC,Winter,0.7,1998/1999,dk DEN,0.1445906432748538,2.0,0.0,0.0,0.4875730994152046,10.0,7.0,3.0
+Spurs,Tim Sherwood,29.0,Central Midfield,Blackburn Rovers,Winter,6.0,1998/1999,eng ENG,0.5449561403508771,12.0,5.0,20.0,0.8571428571428571,25.0,22.0,45.0
+Blackburn Rovers,Ashley Ward,28.0,Centre-Forward,Barnsley FC,Winter,6.29,1998/1999,eng ENG,0.4473684210526316,5.0,1.0,3.0,0.7216374269005847,8.0,2.0,5.0
+Blackburn Rovers,Matt Jansen,21.0,Centre-Forward,Crystal Palace,Winter,6.0,1998/1999,eng ENG,0.2406432748538011,17.0,8.0,2.0,0.1596491228070175,3.0,0.0,0.0
+Blackburn Rovers,Nathan Blake,26.0,Centre-Forward,Bolton,Winter,5.95,1998/1999,wls WAL,0.1435672514619883,4.0,0.0,0.0,0.6273391812865496,13.0,5.0,11.0
+Blackburn Rovers,Jason McAteer,27.0,Right Midfield,Liverpool FC,Winter,5.55,1998/1999,ie IRL,0.1935672514619882,1.0,1.0,4.0,0.5644736842105262,3.0,13.0,16.0
+Blackburn Rovers,Lee Carsley,25.0,Defensive Midfield,Derby County,Winter,5.1,1998/1999,ie IRL,0.1859649122807017,0.0,0.0,1.0,0.634307992202729,2.0,1.0,18.0
+Blackburn Rovers,Keith Gillespie,23.0,Right Midfield,Newcastle United,Winter,3.5,1998/1999,nir NIR,0.440448343079922,3.0,9.0,11.0,0.4881871345029239,11.0,14.0,11.0
+Chelsea FC,Chris Sutton,26.0,Centre-Forward,Blackburn Rovers,Summer,15.0,1999/2000,eng ENG,0.5403508771929825,1.0,2.0,7.0,0.6391228070175439,47.0,24.0,34.0
+Bradford City,David Wetherall,28.0,Centre-Back,Leeds United,Summer,2.1,1999/2000,eng ENG,0.7293859649122807,3.0,2.0,10.0,0.7082289055973267,11.0,11.0,31.0
+Bradford City,Lee Sharpe,28.0,Left Midfield,Leeds United,Summer,0.3,1999/2000,eng ENG,0.240204678362573,0.0,2.0,1.0,0.3526315789473684,5.0,1.0,1.0
+Bradford City,Neil Redfearn,34.0,Central Midfield,Charlton,Summer,0.287,1999/2000,eng ENG,0.3666666666666666,1.0,0.0,6.0,0.7312865497076023,3.0,1.0,9.0
+Leicester City,Tim Flowers,32.0,Goalkeeper,Blackburn Rovers,Summer,1.8,1999/2000,eng ENG,0.4541910331384016,0.0,0.0,1.0,0.7673001949317739,0.0,1.0,9.0
+Coventry City,Carlton Palmer,33.0,Defensive Midfield,Nottm Forest,Summer,0.6,1999/2000,eng ENG,0.3663742690058479,1.0,0.0,9.0,0.341812865497076,0.0,0.0,6.0
+Newcastle United,Kevin Gallacher,32.0,Right Winger,Blackburn Rovers,Summer,0.8,1999/2000,sct SCO,0.3406432748538012,4.0,0.0,0.0,0.4643692564745195,46.0,18.0,12.0
+Middlesbrough FC,Paul Ince,31.0,Defensive Midfield,Liverpool FC,Summer,1.5,1999/2000,eng ENG,0.8055555555555557,7.0,4.0,28.0,0.8454678362573099,14.0,10.0,17.0
+Aston Villa,David James,28.0,Goalkeeper,Liverpool FC,Summer,2.4,1999/2000,eng ENG,0.875,0.0,0.0,0.0,0.7996658312447786,0.0,2.0,4.0
+Leeds United,Michael Bridges,20.0,Centre-Forward,Sunderland AFC,Summer,7.5,1999/2000,eng ENG,0.2424707602339181,19.0,7.0,8.0,0.3184210526315789,3.0,0.0,3.0
+Leeds United,Michael Duberry,23.0,Centre-Back,Chelsea FC,Summer,6.75,1999/2000,eng ENG,0.2635087719298245,4.0,1.0,9.0,0.4085380116959063,1.0,2.0,17.0
+Leeds United,Danny Mills,22.0,Right-Back,Charlton,Summer,6.0,1999/2000,eng ENG,0.6312865497076023,3.0,5.0,33.0,0.9157894736842104,2.0,2.0,10.0
+West Ham United,Paulo Wanchope,22.0,Centre-Forward,Derby County,Summer,5.35,1999/2000,cr CRC,0.8573099415204678,12.0,5.0,7.0,0.5762183235867446,23.0,11.0,18.0
+Sunderland AFC,John Oster,20.0,Central Midfield,Everton,Summer,1.0,1999/2000,wls WAL,0.0797270955165691,0.0,1.0,2.0,0.3380116959064327,2.0,1.0,3.0
+Sunderland AFC,Steve Bould,36.0,Centre-Back,Arsenal FC,Summer,0.8,1999/2000,eng ENG,0.2513157894736841,0.0,0.0,4.0,0.6186299081035924,2.0,6.0,39.0
+Spurs,Chris Perry,26.0,Centre-Back,Wimbledon FC,Summer,6.0,1999/2000,eng ENG,0.7189327485380116,3.0,0.0,23.0,0.7008771929824561,2.0,3.0,25.0
+Liverpool FC,Dietmar Hamann,25.0,Defensive Midfield,Newcastle United,Summer,12.0,1999/2000,de GER,0.6370509607351712,8.0,20.0,37.0,0.52046783625731,4.0,1.0,8.0
+Liverpool FC,Stéphane Henchoz,24.0,Centre-Back,Blackburn Rovers,Summer,5.4,1999/2000,ch SUI,0.6892397660818713,0.0,0.0,20.0,0.6591617933723196,0.0,1.0,17.0
+Watford FC,Neil Cox,28.0,Centre-Back,Bolton,Winter,0.75,1999/2000,eng ENG,0.5131578947368421,0.0,1.0,2.0,0.519298245614035,1.0,0.0,3.0
+Leicester City,Darren Eadie,24.0,Left Midfield,Norwich City,Winter,4.5,1999/2000,eng ENG,0.3998538011695906,2.0,1.0,4.0,0.4324561403508772,5.0,3.0,0.0
+Leeds United,Jason Wilcox,28.0,Left Winger,Blackburn Rovers,Winter,4.5,1999/2000,eng ENG,0.2919883040935672,4.0,6.0,7.0,0.651670843776107,27.0,39.0,30.0
+Liverpool FC,Emile Heskey,22.0,Centre-Forward,Leicester City,Winter,16.5,1999/2000,eng ENG,0.6160818713450292,39.0,19.0,11.0,0.6340350877192982,33.0,17.0,21.0
+Leeds United,Dominic Matteo,26.0,Left-Back,Liverpool FC,Summer,7.13,2000/2001,sct SCO,0.7307017543859649,2.0,3.0,25.0,0.4284461152882205,2.0,10.0,10.0
+Bradford City,David Hopkin,29.0,Right Midfield,Leeds United,Summer,3.75,2000/2001,sct SCO,0.2204678362573099,0.0,0.0,1.0,0.5608187134502923,6.0,6.0,11.0
+Bradford City,Ashley Ward,29.0,Centre-Forward,Blackburn Rovers,Summer,2.1,2000/2001,eng ENG,0.6722222222222223,4.0,4.0,9.0,0.4473684210526316,5.0,1.0,3.0
+Leicester City,Callum Davidson,24.0,Left-Back,Blackburn Rovers,Summer,2.5,2000/2001,sct SCO,0.5304093567251462,1.0,4.0,6.0,0.4505847953216374,1.0,1.0,7.0
+Coventry City,David Thompson,22.0,Right Midfield,Liverpool FC,Summer,4.5,2000/2001,eng ENG,0.5514619883040935,3.0,3.0,10.0,0.1796052631578946,5.0,5.0,12.0
+Newcastle United,Carl Cort,22.0,Centre-Forward,Wimbledon FC,Summer,10.5,2000/2001,gy GUY,0.1507797270955165,7.0,3.0,1.0,0.3673976608187134,16.0,9.0,3.0
+Middlesbrough FC,Ugo Ehiogu,27.0,Centre-Back,Aston Villa,Summer,12.2,2000/2001,eng ENG,0.5155945419103314,7.0,1.0,20.0,0.6403183885640025,12.0,7.0,35.0
+Arsenal FC,Francis Jeffers,20.0,Centre-Forward,Everton,Summer,15.3,2000/2001,eng ENG,0.0801169590643274,4.0,1.0,2.0,0.231345029239766,19.0,12.0,6.0
+Sunderland AFC,Don Hutchison,29.0,Attacking Midfield,Everton,Summer,3.75,2000/2001,sct SCO,0.4166666666666667,8.0,6.0,12.0,0.5871345029239766,10.0,11.0,20.0
+Man City,Paulo Wanchope,23.0,Centre-Forward,West Ham United,Summer,5.6,2000/2001,cr CRC,0.4967836257309941,15.0,5.0,9.0,0.8573099415204678,12.0,5.0,7.0
+Man City,Richard Dunne,21.0,Centre-Back,Everton,Summer,4.5,2000/2001,ie IRL,0.7141325536062378,6.0,4.0,45.0,0.2674269005847953,0.0,0.0,19.0
+Man City,Laurent Charvet,27.0,Right-Back,Newcastle United,Summer,1.5,2000/2001,fr FRA,0.4225146198830409,0.0,1.0,1.0,0.3265107212475633,1.0,1.0,3.0
+Spurs,Ben Thatcher,24.0,Left-Back,Wimbledon FC,Summer,7.54,2000/2001,wls WAL,0.2598440545808966,0.0,1.0,7.0,0.525219298245614,0.0,3.0,18.0
+Liverpool FC,Christian Ziege,28.0,Left Midfield,Middlesbrough FC,Summer,9.0,2000/2001,de GER,0.2795321637426901,1.0,2.0,3.0,0.7225146198830409,6.0,6.0,10.0
+Liverpool FC,Nick Barmby,26.0,Left Midfield,Everton,Summer,9.0,2000/2001,eng ENG,0.2992690058479532,2.0,3.0,4.0,0.6576754385964912,18.0,25.0,18.0
+Derby County,Danny Higginbotham,21.0,Centre-Back,Man Utd,Summer,3.0,2000/2001,gi GIB,0.7883040935672514,1.0,1.0,10.0,0.0266081871345029,0.0,0.0,0.0
+Leeds United,Rio Ferdinand,22.0,Centre-Back,West Ham United,Winter,26.0,2000/2001,eng ENG,0.7105263157894737,2.0,1.0,0.0,0.5276803118908382,2.0,1.0,12.0
+Bradford City,Robert Molenaar,31.0,Centre-Back,Leeds United,Winter,0.68,2000/2001,nl NED,0.5242690058479532,1.0,0.0,4.0,0.4001949317738791,5.0,2.0,14.0
+Leicester City,Dean Sturridge,27.0,Centre-Forward,Derby County,Winter,0.53,2000/2001,eng ENG,0.214766081871345,6.0,3.0,4.0,0.4991228070175438,32.0,10.0,24.0
+Coventry City,Lee Carsley,26.0,Defensive Midfield,Blackburn Rovers,Winter,3.75,2000/2001,ie IRL,0.526608187134503,2.0,1.0,6.0,0.1859649122807017,0.0,0.0,1.0
+Ipswich Town,Chris Makin,27.0,Left-Back,Sunderland AFC,Winter,2.1,2000/2001,eng ENG,0.5014619883040935,0.0,1.0,5.0,0.7171052631578947,1.0,2.0,14.0
+Ipswich Town,Alun Armstrong,25.0,Centre-Forward,Middlesbrough FC,Winter,0.75,2000/2001,eng ENG,0.4678362573099415,12.0,2.0,1.0,0.073391812865497,2.0,1.0,0.0
+West Ham United,Rigobert Song,24.0,Centre-Back,Liverpool FC,Winter,4.17,2000/2001,cm CMR,0.281578947368421,0.0,0.0,3.0,0.2400584795321637,0.0,2.0,7.0
+West Ham United,Titi Camara,28.0,Centre-Forward,Liverpool FC,Winter,3.3,2000/2001,gn GUI,0.0450292397660818,0.0,0.0,1.0,0.5780701754385965,9.0,1.0,6.0
+West Ham United,Christian Dailly,27.0,Centre-Back,Blackburn Rovers,Winter,2.82,2000/2001,sct SCO,0.4888304093567251,0.0,3.0,15.0,0.3637426900584795,0.0,0.0,0.0
+Charlton,Mark Fish,26.0,Centre-Back,Bolton,Winter,1.55,2000/2001,za RSA,0.4942105263157894,3.0,2.0,7.0,0.5502923976608187,2.0,0.0,0.0
+Man City,Darren Huckerby,24.0,Right Winger,Leeds United,Winter,4.0,2000/2001,eng ENG,0.1871345029239765,2.0,1.0,2.0,0.2194444444444444,2.0,3.0,0.0
+West Ham United,Don Hutchison,30.0,Attacking Midfield,Sunderland AFC,Summer,7.5,2001/2002,sct SCO,0.3469298245614035,12.0,6.0,12.0,0.4166666666666667,8.0,6.0,12.0
+West Ham United,David James,30.0,Goalkeeper,Aston Villa,Summer,4.8,2001/2002,eng ENG,0.8421052631578947,0.0,0.0,0.0,0.875,0.0,0.0,0.0
+Leicester City,James Scowcroft,25.0,Centre-Forward,Ipswich Town,Summer,4.5,2001/2002,eng ENG,0.7109649122807018,10.0,5.0,6.0,0.6368421052631579,4.0,3.0,1.0
+Leicester City,Ian Walker,29.0,Goalkeeper,Spurs,Summer,3.75,2001/2002,eng ENG,0.9277777777777778,0.0,0.0,1.0,0.6948667966211826,0.0,2.0,3.0
+Leicester City,Dennis Wise,34.0,Central Midfield,Chelsea FC,Summer,3.5,2001/2002,eng ENG,0.3909356725146198,1.0,0.0,7.0,0.7264782326185836,33.0,39.0,74.0
+Fulham FC,Jon Harley,21.0,Left-Back,Chelsea FC,Summer,5.25,2001/2002,eng ENG,0.1807017543859649,1.0,0.0,2.0,0.1882066276803118,2.0,1.0,3.0
+Fulham FC,Luís Boa Morte,23.0,Left Midfield,Southampton,Summer,2.3,2001/2002,pt POR,0.6346003898635477,26.0,25.0,50.0,0.1616959064327485,1.0,1.0,2.0
+Middlesbrough FC,Gareth Southgate,30.0,Centre-Back,Aston Villa,Summer,9.75,2001/2002,eng ENG,0.8373684210526315,4.0,6.0,11.0,0.8222709551656919,7.0,2.0,20.0
+Middlesbrough FC,Jonathan Greening,22.0,Central Midfield,Man Utd,Summer,3.0,2001/2002,eng ENG,0.7813840155945418,4.0,4.0,15.0,0.0455165692007796,0.0,1.0,1.0
+Middlesbrough FC,Mark Wilson,22.0,Central Midfield,Man Utd,Summer,2.3,2001/2002,eng ENG,0.0916666666666666,0.0,0.0,4.0,0.0239766081871345,0.0,0.0,0.0
+Chelsea FC,Frank Lampard,23.0,Central Midfield,West Ham United,Summer,16.0,2001/2002,eng ENG,0.8077147998200629,147.0,90.0,45.0,0.5827972709551656,24.0,11.0,17.0
+Leeds United,Seth Johnson,22.0,Central Midfield,Derby County,Summer,11.5,2001/2002,eng ENG,0.3344054580896686,3.0,5.0,11.0,0.6316764132553606,2.0,9.0,27.0
+Arsenal FC,Richard Wright,23.0,Goalkeeper,Ipswich Town,Summer,9.0,2001/2002,eng ENG,0.3137426900584795,0.0,0.0,0.0,0.5131578947368421,0.0,0.0,0.0
+Charlton,Jason Euell,24.0,Second Striker,Wimbledon FC,Summer,7.5,2001/2002,jm JAM,0.566140350877193,34.0,9.0,16.0,0.45,22.0,7.0,15.0
+Charlton,Luke Young,21.0,Right-Back,Spurs,Summer,6.0,2001/2002,eng ENG,0.7822124756335284,4.0,5.0,29.0,0.4059454191033138,0.0,0.0,9.0
+Sunderland AFC,Jason McAteer,30.0,Right Midfield,Blackburn Rovers,Summer,3.0,2001/2002,ie IRL,0.408625730994152,3.0,4.0,11.0,0.1935672514619882,1.0,1.0,4.0
+Spurs,Dean Richards,27.0,Centre-Back,Southampton,Summer,12.15,2001/2002,eng ENG,0.6296296296296297,4.0,2.0,11.0,0.5851851851851851,3.0,0.0,6.0
+Spurs,Christian Ziege,29.0,Left Midfield,Liverpool FC,Summer,6.5,2001/2002,de GER,0.364327485380117,7.0,10.0,15.0,0.2795321637426901,1.0,2.0,3.0
+Leicester City,Paul Dickov,29.0,Centre-Forward,Man City,Winter,1.5,2001/2002,sct SCO,0.5144736842105263,15.0,4.0,13.0,0.3290935672514619,4.0,4.0,11.0
+Leicester City,Alan Rogers,24.0,Left-Back,Nottm Forest,Winter,0.45,2001/2002,eng ENG,0.1975146198830409,0.0,1.0,2.0,0.8707602339181286,4.0,2.0,8.0
+Leicester City,Brian Deane,33.0,Centre-Forward,Middlesbrough FC,Winter,0.25,2001/2002,eng ENG,0.1900584795321637,6.0,2.0,2.0,0.4892543859649122,18.0,7.0,10.0
+Ipswich Town,Marcus Bent,23.0,Centre-Forward,Blackburn Rovers,Winter,4.5,2001/2002,eng ENG,0.5628654970760234,9.0,1.0,2.0,0.0719298245614035,0.0,1.0,2.0
+Aston Villa,Peter Crouch,21.0,Centre-Forward,Portsmouth FC,Winter,7.5,2001/2002,eng ENG,0.1712475633528264,6.0,5.0,2.0,0.9818713450292398,10.0,5.0,3.0
+Leeds United,Robbie Fowler,26.0,Centre-Forward,Liverpool FC,Winter,16.8,2001/2002,eng ENG,0.3054093567251462,14.0,3.0,2.0,0.539792663476874,128.0,30.0,24.0
+Blackburn Rovers,Andy Cole,30.0,Centre-Forward,Man Utd,Winter,12.2,2001/2002,eng ENG,0.6605263157894737,27.0,14.0,13.0,0.5288742690058479,93.0,33.0,21.0
+Liverpool FC,Abel Xavier,29.0,Right-Back,Everton,Winter,1.2,2001/2002,pt POR,0.163157894736842,1.0,3.0,1.0,0.3337231968810916,0.0,0.0,5.0
+Derby County,Rob Lee,36.0,Central Midfield,Newcastle United,Winter,0.4,2001/2002,eng ENG,0.3286549707602339,0.0,1.0,3.0,0.7277777777777777,34.0,32.0,35.0
+Man Utd,Rio Ferdinand,23.0,Centre-Back,Leeds United,Summer,46.0,2002/2003,eng ENG,0.6627680311890838,7.0,6.0,24.0,0.7105263157894737,2.0,1.0,0.0
+Newcastle United,Titus Bramble,20.0,Centre-Back,Ipswich Town,Summer,6.8,2002/2003,eng ENG,0.515438596491228,3.0,2.0,23.0,0.5302631578947369,1.0,0.0,9.0
+Leeds United,Nick Barmby,28.0,Left Midfield,Liverpool FC,Summer,4.5,2002/2003,eng ENG,0.2187134502923976,4.0,2.0,2.0,0.2992690058479532,2.0,3.0,4.0
+Aston Villa,Mark Kinsella,29.0,Defensive Midfield,Charlton,Summer,1.15,2002/2003,ie IRL,0.217251461988304,1.0,1.0,2.0,0.6826510721247563,5.0,4.0,9.0
+Spurs,Robbie Keane,22.0,Centre-Forward,Leeds United,Summer,10.5,2002/2003,ie IRL,0.5466536712150747,91.0,22.0,11.0,0.2653996101364522,13.0,7.0,4.0
+Blackburn Rovers,Dwight Yorke,30.0,Centre-Forward,Man Utd,Summer,3.5,2002/2003,tt TRI,0.3774853801169591,12.0,5.0,1.0,0.5320175438596492,48.0,18.0,5.0
+Blackburn Rovers,Andy Todd,27.0,Centre-Back,Charlton,Summer,1.5,2002/2003,eng ENG,0.4110526315789474,5.0,1.0,20.0,0.3027777777777777,1.0,0.0,4.0
+Middlesbrough FC,George Boateng,26.0,Defensive Midfield,Aston Villa,Summer,6.9,2002/2003,nl NED,0.7671539961013645,7.0,9.0,43.0,0.8124756335282651,4.0,1.0,23.0
+Charlton,Gary Rowett,28.0,Right-Back,Leicester City,Summer,5.25,2002/2003,eng ENG,0.1587719298245614,1.0,0.0,1.0,0.6252923976608187,2.0,1.0,7.0
+Sunderland AFC,Matt Piper,20.0,Right Midfield,Leicester City,Summer,5.25,2002/2003,eng ENG,0.2289473684210526,0.0,0.0,1.0,0.3859649122807017,1.0,1.0,0.0
+Sunderland AFC,Marcus Stewart,29.0,Centre-Forward,Ipswich Town,Summer,4.88,2002/2003,eng ENG,0.15,1.0,0.0,2.0,0.7062865497076023,25.0,8.0,4.0
+Sunderland AFC,Stephen Wright,22.0,Right-Back,Liverpool FC,Summer,4.8,2002/2003,eng ENG,0.33406432748538,0.0,0.0,11.0,0.1403508771929824,0.0,1.0,4.0
+West Brom,Lee Marshall,23.0,Central Midfield,Leicester City,Summer,1.05,2002/2003,eng ENG,0.1157894736842105,1.0,0.0,1.0,0.5153508771929824,0.0,1.0,3.0
+Birmingham City,Clinton Morrison,23.0,Centre-Forward,Crystal Palace,Summer,6.38,2002/2003,ie IRL,0.3733187134502924,14.0,7.0,10.0,0.0026315789473684,1.0,0.0,0.0
+Birmingham City,Robbie Savage,27.0,Central Midfield,Leicester City,Summer,1.88,2002/2003,wls WAL,0.6998050682261209,11.0,11.0,27.0,0.8251461988304094,8.0,7.0,32.0
+Newcastle United,Jonathan Woodgate,23.0,Centre-Back,Leeds United,Winter,13.5,2002/2003,eng ENG,0.3543859649122807,0.0,1.0,4.0,0.5039181286549708,5.0,2.0,13.0
+Newcastle United,Darren Ambrose,19.0,Left Midfield,Ipswich Town,Winter,1.5,2002/2003,eng ENG,0.167251461988304,5.0,2.0,4.0,0.0017543859649122,0.0,0.0,0.0
+West Ham United,Lee Bowyer,25.0,Central Midfield,Leeds United,Winter,0.3,2002/2003,eng ENG,0.2672514619883041,4.0,3.0,19.0,0.727234753550543,38.0,26.0,57.0
+Middlesbrough FC,Michael Ricketts,24.0,Centre-Forward,Bolton,Winter,5.25,2002/2003,eng ENG,0.1934210526315789,3.0,1.0,3.0,0.5634502923976608,18.0,2.0,6.0
+Middlesbrough FC,Chris Riggott,22.0,Centre-Back,Derby County,Winter,2.23,2002/2003,eng ENG,0.3357560568086883,5.0,0.0,14.0,0.5721247563352826,3.0,4.0,13.0
+Sunderland AFC,Mart Poom,30.0,Goalkeeper,Derby County,Winter,3.75,2002/2003,ee EST,0.1052631578947368,0.0,0.0,0.0,0.582504873294347,0.0,2.0,0.0
+Man City,Robbie Fowler,27.0,Centre-Forward,Leeds United,Winter,9.8,2002/2003,eng ENG,0.3973684210526315,21.0,6.0,6.0,0.3054093567251462,14.0,3.0,2.0
+Birmingham City,Jamie Clapham,27.0,Left-Back,Ipswich Town,Winter,1.85,2002/2003,eng ENG,0.462938596491228,1.0,2.0,3.0,0.7011695906432749,4.0,5.0,2.0
+Birmingham City,Stephen Clemence,24.0,Right Midfield,Spurs,Winter,1.35,2002/2003,eng ENG,0.4566520467836257,4.0,3.0,14.0,0.3673684210526315,2.0,9.0,12.0
+Man Utd,David Bellion,20.0,Centre-Forward,Sunderland AFC,Summer,3.0,2003/2004,fr FRA,0.0972222222222222,4.0,1.0,0.0,0.1095029239766081,1.0,0.0,0.0
+Chelsea FC,Damien Duff,24.0,Right Midfield,Blackburn Rovers,Summer,24.5,2003/2004,ie IRL,0.5303118908382066,14.0,20.0,4.0,0.4878947368421052,21.0,15.0,6.0
+Chelsea FC,Juan Sebastián Verón,28.0,Central Midfield,Man Utd,Summer,21.8,2003/2004,ar ARG,0.1412280701754386,1.0,0.0,0.0,0.5554093567251461,8.0,4.0,4.0
+Chelsea FC,Wayne Bridge,22.0,Left-Back,Southampton,Summer,10.5,2003/2004,eng ENG,0.3970760233918128,1.0,9.0,2.0,0.7456140350877194,2.0,8.0,7.0
+Chelsea FC,Joe Cole,21.0,Attacking Midfield,West Ham United,Summer,9.9,2003/2004,eng ENG,0.4412280701754386,27.0,25.0,27.0,0.4686716791979949,15.0,9.0,26.0
+Chelsea FC,Glen Johnson,18.0,Right-Back,West Ham United,Summer,8.3,2003/2004,eng ENG,0.2298245614035087,3.0,3.0,6.0,0.3763157894736842,0.0,2.0,3.0
+Liverpool FC,Harry Kewell,24.0,Left Winger,Leeds United,Summer,10.0,2003/2004,au AUS,0.4196491228070175,12.0,9.0,8.0,0.5474415204678362,45.0,29.0,21.0
+Liverpool FC,Steve Finnan,27.0,Right-Back,Fulham FC,Summer,5.25,2003/2004,ie IRL,0.7050877192982457,1.0,12.0,13.0,0.9210526315789472,0.0,2.0,9.0
+Man City,Trevor Sinclair,30.0,Left Winger,West Ham United,Summer,3.75,2003/2004,eng ENG,0.4298245614035088,5.0,5.0,11.0,0.7582846003898637,36.0,25.0,28.0
+Man City,Claudio Reyna,29.0,Central Midfield,Sunderland AFC,Summer,3.75,2003/2004,us USA,0.423172514619883,4.0,3.0,5.0,0.3426900584795321,3.0,1.0,5.0
+Spurs,Frédéric Kanouté,25.0,Centre-Forward,West Ham United,Summer,5.25,2003/2004,ml MLI,0.3734892787524366,14.0,7.0,4.0,0.4902777777777777,29.0,9.0,12.0
+Middlesbrough FC,Malcolm Christie,24.0,Right Winger,Derby County,Summer,4.5,2003/2004,eng ENG,0.1334502923976608,7.0,1.0,2.0,0.4488304093567251,22.0,4.0,9.0
+Charlton,Matt Holland,29.0,Central Midfield,Ipswich Town,Summer,1.25,2003/2004,ie IRL,0.7517543859649123,11.0,4.0,2.0,0.9940058479532164,6.0,8.0,0.0
+Charlton,Chris Perry,30.0,Centre-Back,Spurs,Summer,0.1,2003/2004,eng ENG,0.6093567251461988,3.0,0.0,14.0,0.7189327485380116,3.0,0.0,23.0
+Birmingham City,David Dunn,23.0,Attacking Midfield,Blackburn Rovers,Summer,8.75,2003/2004,eng ENG,0.2999025341130604,6.0,5.0,6.0,0.4326185834957765,31.0,16.0,33.0
+Birmingham City,Mikael Forssell,22.0,Centre-Forward,Chelsea FC,Summer,0.75,2003/2004,fi FIN,0.4467836257309941,29.0,6.0,2.0,0.0807017543859649,5.0,2.0,0.0
+Fulham FC,Mark Pembridge,32.0,Left Midfield,Everton,Summer,0.75,2003/2004,wls WAL,0.3375243664717349,1.0,5.0,3.0,0.4138011695906433,4.0,11.0,9.0
+Fulham FC,Mark Crossley,34.0,Goalkeeper,Middlesbrough FC,Summer,0.75,2003/2004,wls WAL,0.1605263157894736,0.0,1.0,0.0,0.2656432748538011,0.0,0.0,1.0
+Aston Villa,Gavin McCann,25.0,Central Midfield,Sunderland AFC,Summer,3.38,2003/2004,eng ENG,0.6948099415204678,3.0,2.0,27.0,0.6487573099415205,8.0,9.0,29.0
+Leicester City,Ben Thatcher,27.0,Left-Back,Spurs,Summer,0.45,2003/2004,wls WAL,0.7254385964912281,1.0,1.0,8.0,0.2598440545808966,0.0,1.0,7.0
+Wolves,Jody Craddock,27.0,Centre-Back,Sunderland AFC,Summer,2.0,2003/2004,eng ENG,0.5124269005847953,8.0,3.0,8.0,0.6968567251461988,2.0,1.0,9.0
+Man Utd,Louis Saha,25.0,Centre-Forward,Fulham FC,Winter,17.5,2003/2004,fr FRA,0.2951461988304093,28.0,9.0,1.0,0.5439571150097465,26.0,7.0,6.0
+Chelsea FC,Scott Parker,23.0,Central Midfield,Charlton,Winter,14.5,2003/2004,eng ENG,0.1068713450292397,1.0,0.0,3.0,0.4960233918128655,8.0,8.0,32.0
+Blackburn Rovers,Peter Enckelman,26.0,Goalkeeper,Aston Villa,Winter,0.215,2003/2004,fi FIN,0.0526315789473684,0.0,0.0,0.0,0.4468810916179337,0.0,0.0,2.0
+Man City,David James,33.0,Goalkeeper,West Ham United,Winter,2.8,2003/2004,eng ENG,0.8157894736842106,0.0,0.0,1.0,0.8421052631578947,0.0,0.0,0.0
+Spurs,Jermain Defoe,21.0,Centre-Forward,West Ham United,Winter,10.5,2003/2004,eng ENG,0.4575491759702286,91.0,19.0,26.0,0.4360623781676412,18.0,6.0,3.0
+Birmingham City,Maik Taylor,32.0,Goalkeeper,Fulham FC,Winter,2.25,2003/2004,nir NIR,0.7414619883040936,0.0,0.0,3.0,0.2478070175438596,0.0,0.0,1.0
+Birmingham City,Martin Taylor,24.0,Centre-Back,Blackburn Rovers,Winter,1.6,2003/2004,eng ENG,0.2489035087719298,1.0,0.0,3.0,0.3622076023391812,3.0,0.0,1.0
+Fulham FC,Ian Pearce,29.0,Centre-Back,West Ham United,Winter,1.6,2003/2004,eng ENG,0.267485380116959,1.0,0.0,6.0,0.4850877192982456,7.0,5.0,12.0
+Aston Villa,Nolberto Solano,29.0,Right Midfield,Newcastle United,Winter,2.0,2003/2004,pe PER,0.3610136452241715,8.0,7.0,9.0,0.5709226770630279,37.0,54.0,23.0
+Portsmouth FC,Eyal Berkovic,31.0,Attacking Midfield,Man City,Winter,0.75,2003/2004,il ISR,0.1849415204678362,2.0,5.0,2.0,0.3366959064327485,1.0,8.0,2.0
+Leicester City,Lee Morris,23.0,Centre-Forward,Derby County,Winter,0.18,2003/2004,,,,,,0.1499025341130603,4.0,1.0,4.0
+Wolves,Carl Cort,26.0,Centre-Forward,Newcastle United,Winter,3.0,2003/2004,gy GUY,0.337719298245614,5.0,2.0,0.0,0.1507797270955165,7.0,3.0,1.0
+Wolves,Paul Jones,36.0,Goalkeeper,Southampton,Winter,0.375,2003/2004,wls WAL,0.4210526315789473,0.0,0.0,0.0,0.7166666666666667,0.0,2.0,2.0
+Man Utd,Wayne Rooney,18.0,Centre-Forward,Everton,Summer,37.0,2004/2005,eng ENG,0.7127755285650023,183.0,92.0,83.0,0.6149122807017543,25.0,10.0,23.0
+Man Utd,Alan Smith,23.0,Central Midfield,Leeds United,Summer,9.0,2004/2005,eng ENG,0.3888888888888888,7.0,7.0,10.0,0.6392300194931774,38.0,23.0,53.0
+Newcastle United,James Milner,18.0,Central Midfield,Leeds United,Summer,7.4,2004/2005,eng ENG,0.379298245614035,6.0,8.0,6.0,0.4247076023391812,5.0,0.0,2.0
+Newcastle United,Nicky Butt,29.0,Central Midfield,Man Utd,Summer,3.75,2004/2005,eng ENG,0.7032163742690059,5.0,5.0,31.0,0.4471978557504872,21.0,19.0,51.0
+Newcastle United,Stephen Carr,27.0,Right-Back,Spurs,Summer,3.0,2004/2005,ie IRL,0.477485380116959,1.0,1.0,13.0,0.7205409356725146,7.0,15.0,31.0
+Charlton,Francis Jeffers,23.0,Centre-Forward,Arsenal FC,Summer,3.9,2004/2005,eng ENG,0.252046783625731,3.0,3.0,2.0,0.0801169590643274,4.0,1.0,2.0
+Charlton,Danny Murphy,27.0,Central Midfield,Liverpool FC,Summer,3.25,2004/2005,eng ENG,0.689327485380117,7.0,15.0,9.0,0.4549707602339181,25.0,25.0,21.0
+Bolton,Gary Speed,34.0,Left Midfield,Newcastle United,Summer,1.13,2004/2005,wls WAL,0.7344298245614035,14.0,11.0,9.0,0.7678362573099414,29.0,14.0,36.0
+Fulham FC,Tomasz Radzinski,30.0,Centre-Forward,Everton,Summer,3.0,2004/2005,ca CAN,0.6559454191033138,10.0,11.0,7.0,0.680214424951267,26.0,10.0,3.0
+Fulham FC,Claus Jensen,27.0,Attacking Midfield,Charlton,Summer,1.9,2004/2005,dk DEN,0.2617933723196881,4.0,6.0,1.0,0.7309941520467836,16.0,16.0,2.0
+Birmingham City,Emile Heskey,26.0,Centre-Forward,Liverpool FC,Summer,9.32,2004/2005,eng ENG,0.8312865497076023,14.0,8.0,12.0,0.6160818713450292,39.0,19.0,11.0
+Birmingham City,Dwight Yorke,32.0,Centre-Forward,Blackburn Rovers,Summer,0.4,2004/2005,tt TRI,0.1538011695906432,2.0,0.0,1.0,0.3774853801169591,12.0,5.0,1.0
+Middlesbrough FC,Mark Viduka,28.0,Centre-Forward,Leeds United,Summer,6.75,2004/2005,au AUS,0.473391812865497,26.0,8.0,1.0,0.8112573099415205,59.0,17.0,20.0
+Portsmouth FC,Lomana LuaLua,23.0,Centre-Forward,Newcastle United,Summer,2.25,2004/2005,cd COD,0.4175438596491228,19.0,6.0,6.0,0.1374999999999999,5.0,6.0,3.0
+Spurs,Sean Davis,24.0,Defensive Midfield,Fulham FC,Summer,5.2,2004/2005,eng ENG,0.3005847953216374,0.0,2.0,4.0,0.6457115009746589,8.0,4.0,12.0
+Spurs,Michael Carrick,23.0,Defensive Midfield,West Ham United,Summer,4.1,2004/2005,eng ENG,0.8035087719298245,2.0,10.0,3.0,0.6283625730994152,5.0,9.0,10.0
+Spurs,Paul Robinson,24.0,Goalkeeper,Leeds United,Summer,3.0,2004/2005,eng ENG,0.8994152046783626,1.0,2.0,1.0,0.6163742690058479,0.0,1.0,2.0
+Blackburn Rovers,Paul Dickov,31.0,Centre-Forward,Leicester City,Summer,0.225,2004/2005,sct SCO,0.5285087719298246,14.0,2.0,14.0,0.5144736842105263,15.0,4.0,13.0
+Man City,Ben Thatcher,28.0,Left-Back,Leicester City,Summer,1.5,2004/2005,wls WAL,0.3968810916179337,0.0,0.0,12.0,0.7254385964912281,1.0,1.0,8.0
+Norwich City,Simon Charlton,32.0,Left-Back,Bolton,Summer,0.375,2004/2005,eng ENG,0.5491228070175439,1.0,0.0,1.0,0.7693957115009747,0.0,4.0,5.0
+Norwich City,Mathias Svensson,29.0,Centre-Forward,Charlton,Summer,0.05,2004/2005,se SWE,0.2716374269005848,4.0,3.0,2.0,0.187719298245614,5.0,3.0,6.0
+West Brom,Jonathan Greening,25.0,Central Midfield,Middlesbrough FC,Summer,1.75,2004/2005,eng ENG,0.8867446393762183,4.0,14.0,14.0,0.7813840155945418,4.0,4.0,15.0
+West Brom,Riccardo Scimeca,29.0,Centre-Back,Leicester City,Summer,0.15,2004/2005,eng ENG,0.3883040935672514,0.0,3.0,3.0,0.7406432748538012,1.0,2.0,7.0
+Crystal Palace,Fitz Hall,23.0,Centre-Back,Southampton,Summer,2.25,2004/2005,eng ENG,0.9271929824561403,2.0,0.0,3.0,0.219298245614035,0.0,0.0,0.0
+Liverpool FC,Scott Carson,19.0,Goalkeeper,Leeds United,Winter,1.4,2004/2005,eng ENG,0.1052631578947368,0.0,0.0,0.0,0.0532163742690058,0.0,0.0,0.0
+Newcastle United,Amdy Faye,27.0,Defensive Midfield,Portsmouth FC,Winter,3.0,2004/2005,sn SEN,0.2992690058479531,0.0,2.0,5.0,0.5573099415204679,0.0,0.0,11.0
+Birmingham City,Robbie Blake,28.0,Second Striker,Burnley FC,Winter,2.25,2004/2005,eng ENG,0.097953216374269,2.0,0.0,0.0,0.4818713450292398,2.0,3.0,1.0
+Chelsea FC,Shaun Wright-Phillips,23.0,Right Winger,Man City,Summer,31.5,2005/2006,eng ENG,0.2874269005847952,4.0,12.0,2.0,0.5541771094402673,27.0,19.0,14.0
+Man Utd,Edwin van der Sar,34.0,Goalkeeper,Fulham FC,Summer,4.0,2005/2006,nl NED,0.8085282651072125,0.0,1.0,5.0,0.8280701754385965,0.0,0.0,5.0
+Liverpool FC,Peter Crouch,24.0,Centre-Forward,Southampton,Summer,10.5,2005/2006,eng ENG,0.4447368421052631,22.0,12.0,6.0,0.5233918128654971,12.0,6.0,2.0
+Middlesbrough FC,Yakubu Aiyegbeni,22.0,Centre-Forward,Portsmouth FC,Summer,9.75,2005/2006,ng NGA,0.5754385964912281,25.0,10.0,3.0,0.8173976608187135,29.0,6.0,4.0
+Man City,Darius Vassell,25.0,Centre-Forward,Aston Villa,Summer,3.6,2005/2006,eng ENG,0.5705409356725146,17.0,11.0,13.0,0.414327485380117,35.0,11.0,8.0
+Spurs,Jermaine Jenas,22.0,Central Midfield,Newcastle United,Summer,15.0,2005/2006,eng ENG,0.5009189640768589,21.0,18.0,24.0,0.4730409356725146,9.0,8.0,10.0
+Spurs,Wayne Routledge,20.0,Left Winger,Crystal Palace,Summer,3.0,2005/2006,eng ENG,0.0380116959064327,0.0,0.0,0.0,0.9181286549707602,0.0,9.0,1.0
+Spurs,Aaron Lennon,18.0,Right Winger,Leeds United,Summer,1.2,2005/2006,eng ENG,0.5684795321637427,26.0,45.0,9.0,0.0628654970760233,0.0,1.0,0.0
+Aston Villa,Aaron Hughes,25.0,Centre-Back,Newcastle United,Summer,1.5,2005/2006,nir NIR,0.6302631578947369,0.0,5.0,2.0,0.6311769005847953,4.0,9.0,5.0
+Aston Villa,Kevin Phillips,31.0,Centre-Forward,Southampton,Summer,1.5,2005/2006,eng ENG,0.4415204678362573,4.0,4.0,0.0,0.6849415204678362,23.0,4.0,6.0
+Charlton,Darren Bent,21.0,Centre-Forward,Ipswich Town,Summer,4.5,2005/2006,eng ENG,0.8811403508771931,31.0,5.0,3.0,0.067251461988304,1.0,0.0,0.0
+Charlton,Darren Ambrose,21.0,Left Midfield,Newcastle United,Summer,1.6,2005/2006,eng ENG,0.5024853801169591,6.0,3.0,4.0,0.167251461988304,5.0,2.0,4.0
+Birmingham City,Mikael Forssell,24.0,Centre-Forward,Chelsea FC,Summer,4.5,2005/2006,fi FIN,0.4467836257309941,29.0,6.0,2.0,0.0807017543859649,5.0,2.0,0.0
+Birmingham City,Jermaine Pennant,22.0,Right Winger,Arsenal FC,Summer,0.75,2005/2006,eng ENG,0.6071637426900585,2.0,9.0,7.0,0.0554093567251461,3.0,1.0,0.0
+Newcastle United,Scott Parker,24.0,Central Midfield,Chelsea FC,Summer,9.5,2005/2006,eng ENG,0.6904970760233918,4.0,2.0,20.0,0.1068713450292397,1.0,0.0,3.0
+Blackburn Rovers,Craig Bellamy,25.0,Left Winger,Newcastle United,Summer,7.5,2005/2006,wls WAL,0.5891812865497076,13.0,2.0,5.0,0.5677631578947369,27.0,13.0,15.0
+Portsmouth FC,Laurent Robert,30.0,Left Winger,Newcastle United,Summer,2.3,2005/2006,fr FRA,0.3365497076023391,1.0,3.0,3.0,0.7013157894736842,22.0,29.0,18.0
+West Brom,Diomansy Kamara,24.0,Right Winger,Portsmouth FC,Summer,2.25,2005/2006,sn SEN,0.5230994152046784,1.0,2.0,3.0,0.4011695906432748,4.0,0.0,3.0
+Sunderland AFC,Jon Stead,22.0,Centre-Forward,Blackburn Rovers,Summer,2.7,2005/2006,eng ENG,0.4961988304093567,1.0,0.0,3.0,0.4191520467836257,8.0,1.0,6.0
+Wigan Athletic,Henri Camara,28.0,Centre-Forward,Wolves,Summer,6.45,2005/2006,sn SEN,0.4254385964912281,20.0,4.0,3.0,0.7570175438596491,7.0,3.0,2.0
+Wigan Athletic,Damien Francis,26.0,Central Midfield,Norwich City,Summer,2.25,2005/2006,jm JAM,0.4242690058479532,1.0,2.0,2.0,0.8380116959064328,7.0,1.0,3.0
+West Ham United,Paul Konchesky,24.0,Left-Back,Charlton,Summer,2.25,2005/2006,eng ENG,0.7584795321637428,1.0,6.0,13.0,0.3886452241715399,5.0,9.0,17.0
+Arsenal FC,Theo Walcott,16.0,Right Winger,Southampton,Winter,10.5,2005/2006,eng ENG,0.3815302144249513,65.0,43.0,6.0,0.3046783625730994,5.0,5.0,1.0
+Spurs,Danny Murphy,28.0,Central Midfield,Charlton,Winter,3.21,2005/2006,eng ENG,0.12953216374269,1.0,1.0,1.0,0.689327485380117,7.0,15.0,9.0
+Charlton,Marcus Bent,27.0,Centre-Forward,Everton,Winter,3.0,2005/2006,eng ENG,0.3596491228070175,3.0,2.0,0.0,0.5105263157894736,7.0,4.0,2.0
+Fulham FC,Michael Brown,28.0,Central Midfield,Spurs,Winter,2.3,2005/2006,eng ENG,0.5023391812865498,0.0,0.0,13.0,0.3389863547758284,2.0,4.0,10.0
+Fulham FC,Antti Niemi,33.0,Goalkeeper,Southampton,Winter,1.5,2005/2006,fi FIN,0.5498050682261209,0.0,0.0,1.0,0.7019493177387913,0.0,0.0,1.0
+Newcastle United,Nolberto Solano,31.0,Right Midfield,Aston Villa,Winter,2.25,2005/2006,pe PER,0.5709226770630279,37.0,54.0,23.0,0.3610136452241715,8.0,7.0,9.0
+Blackburn Rovers,David Bentley,21.0,Right Midfield,Arsenal FC,Winter,1.75,2005/2006,eng ENG,0.8207602339181287,13.0,17.0,22.0,0.0178362573099415,0.0,0.0,0.0
+Portsmouth FC,Sean Davis,26.0,Defensive Midfield,Spurs,Winter,2.8,2005/2006,eng ENG,0.5907163742690058,3.0,9.0,22.0,0.3005847953216374,0.0,2.0,4.0
+Portsmouth FC,Dean Kiely,35.0,Goalkeeper,Charlton,Winter,0.25,2005/2006,ie IRL,0.3947368421052631,0.0,0.0,0.0,0.7712962962962964,0.0,2.0,2.0
+West Brom,Nigel Quashie,27.0,Central Midfield,Southampton,Winter,1.8,2005/2006,sct SCO,0.2228070175438596,1.0,0.0,2.0,0.3421052631578947,1.0,2.0,1.0
+West Ham United,Dean Ashton,22.0,Centre-Forward,Norwich City,Winter,10.89,2005/2006,eng ENG,0.2853801169590643,15.0,0.0,0.0,0.4154970760233918,7.0,3.0,0.0
+Chelsea FC,Ashley Cole,25.0,Left-Back,Arsenal FC,Summer,7.4,2006/2007,eng ENG,0.7200292397660819,7.0,19.0,36.0,0.5614035087719298,8.0,12.0,30.0
+Man Utd,Michael Carrick,25.0,Defensive Midfield,Spurs,Summer,27.2,2006/2007,eng ENG,0.5833089668615984,16.0,21.0,28.0,0.8035087719298245,2.0,10.0,3.0
+Liverpool FC,Craig Bellamy,26.0,Left Winger,Blackburn Rovers,Summer,9.0,2006/2007,wls WAL,0.462719298245614,13.0,5.0,8.0,0.5891812865497076,13.0,2.0,5.0
+Middlesbrough FC,Robert Huth,21.0,Centre-Back,Chelsea FC,Summer,8.9,2006/2007,de GER,0.369298245614035,2.0,0.0,12.0,0.1223976608187134,0.0,1.0,13.0
+Middlesbrough FC,Julio Arca,25.0,Central Midfield,Sunderland AFC,Summer,2.4,2006/2007,ar ARG,0.4445419103313839,4.0,5.0,14.0,0.4872076023391812,4.0,12.0,13.0
+Spurs,Steed Malbranque,26.0,Central Midfield,Fulham FC,Summer,3.0,2006/2007,fr FRA,0.6478070175438596,6.0,6.0,9.0,0.8303508771929824,32.0,33.0,12.0
+Charlton,Andy Reid,23.0,Left Midfield,Spurs,Summer,4.2,2006/2007,ie IRL,0.3529239766081871,2.0,0.0,2.0,0.2454678362573099,1.0,2.0,4.0
+Charlton,Amdy Faye,29.0,Defensive Midfield,Newcastle United,Summer,3.0,2006/2007,sn SEN,0.6099415204678362,1.0,0.0,6.0,0.2992690058479531,0.0,2.0,5.0
+Charlton,Djimi Traoré,26.0,Centre-Back,Liverpool FC,Summer,2.8,2006/2007,ml MLI,0.2330409356725146,0.0,0.0,3.0,0.381812865497076,0.0,1.0,7.0
+Fulham FC,Franck Queudrue,27.0,Left-Back,Middlesbrough FC,Summer,4.5,2006/2007,fr FRA,0.7353801169590644,1.0,3.0,8.0,0.7336842105263158,11.0,15.0,37.0
+Newcastle United,Damien Duff,27.0,Right Midfield,Chelsea FC,Summer,15.5,2006/2007,ie IRL,0.5124756335282651,4.0,2.0,8.0,0.5303118908382066,14.0,20.0,4.0
+Portsmouth FC,David James,36.0,Goalkeeper,Man City,Summer,1.7,2006/2007,eng ENG,0.8802631578947369,0.0,0.0,9.0,0.8157894736842106,0.0,0.0,1.0
+Portsmouth FC,Andy Cole,34.0,Centre-Forward,Man City,Summer,0.75,2006/2007,eng ENG,0.1994152046783625,3.0,1.0,1.0,0.514327485380117,9.0,5.0,6.0
+Wigan Athletic,Fitz Hall,25.0,Centre-Back,Crystal Palace,Summer,4.5,2006/2007,eng ENG,0.2722222222222222,0.0,0.0,4.0,0.9271929824561403,2.0,0.0,3.0
+Wigan Athletic,Chris Kirkland,25.0,Goalkeeper,Liverpool FC,Summer,3.73,2006/2007,eng ENG,0.673859649122807,0.0,2.0,2.0,0.1644736842105262,0.0,0.0,1.0
+Wigan Athletic,Kevin Kilbane,29.0,Left Midfield,Everton,Summer,2.5,2006/2007,ie IRL,0.5446393762183236,2.0,7.0,9.0,0.5612573099415205,4.0,5.0,11.0
+Wigan Athletic,Emmerson Boyce,26.0,Right-Back,Crystal Palace,Summer,1.5,2006/2007,bb BRB,0.695530492898914,11.0,3.0,20.0,0.6847953216374268,0.0,1.0,2.0
+West Ham United,Carlton Cole,22.0,Centre-Forward,Chelsea FC,Summer,3.0,2006/2007,eng ENG,0.446016081871345,41.0,17.0,30.0,0.0769980506822611,4.0,2.0,5.0
+West Ham United,George McCartney,25.0,Left-Back,Sunderland AFC,Summer,1.63,2006/2007,nir NIR,0.4346783625730994,1.0,8.0,14.0,0.3103313840155945,0.0,0.0,19.0
+West Ham United,Lee Bowyer,29.0,Central Midfield,Newcastle United,Summer,1.13,2006/2007,eng ENG,0.2672514619883041,4.0,3.0,19.0,0.5193957115009746,6.0,6.0,17.0
+West Ham United,Jonathan Spector,20.0,Centre-Back,Man Utd,Summer,0.75,2006/2007,us USA,0.3943274853801169,1.0,1.0,11.0,0.05,0.0,0.0,0.0
+Sheff Utd,Mikele Leigertwood,23.0,Defensive Midfield,Crystal Palace,Summer,0.75,2006/2007,ag ATG,0.4119883040935672,0.0,1.0,3.0,0.4573099415204678,1.0,0.0,3.0
+Liverpool FC,Javier Mascherano,22.0,Defensive Midfield,West Ham United,Winter,2.0,2006/2007,ar ARG,0.4623391812865496,1.0,3.0,26.0,0.0687134502923976,0.0,0.0,1.0
+Spurs,Ben Alnwick,20.0,Goalkeeper,Sunderland AFC,Winter,1.5,2006/2007,eng ENG,0.0263157894736842,0.0,0.0,0.0,0.131578947368421,0.0,0.0,0.0
+Aston Villa,Ashley Young,21.0,Left-Back,Watford FC,Winter,13.2,2006/2007,eng ENG,0.7139097744360903,30.0,42.0,38.0,0.5263157894736842,3.0,4.0,2.0
+Charlton,Ben Thatcher,31.0,Left-Back,Man City,Winter,0.75,2006/2007,wls WAL,0.2666666666666666,0.0,2.0,4.0,0.3968810916179337,0.0,0.0,12.0
+Blackburn Rovers,Stephen Warnock,25.0,Left-Back,Liverpool FC,Winter,2.25,2006/2007,eng ENG,0.5709795321637426,5.0,8.0,21.0,0.2115984405458089,1.0,1.0,3.0
+Portsmouth FC,Djimi Traoré,26.0,Centre-Back,Charlton,Winter,1.4,2006/2007,ml MLI,0.1380116959064327,0.0,0.0,3.0,0.2330409356725146,0.0,0.0,3.0
+West Ham United,Luís Boa Morte,29.0,Left Midfield,Fulham FC,Winter,6.8,2006/2007,pt POR,0.2957894736842105,2.0,9.0,21.0,0.6346003898635477,26.0,25.0,50.0
+West Ham United,Calum Davenport,24.0,defence,Spurs,Winter,4.2,2006/2007,eng ENG,0.1694444444444444,1.0,2.0,2.0,0.0803118908382066,1.0,0.0,2.0
+West Ham United,Lucas Neill,28.0,Centre-Back,Blackburn Rovers,Winter,2.3,2006/2007,au AUS,0.6828460038986354,1.0,5.0,14.0,0.7961500974658869,5.0,8.0,58.0
+West Ham United,Nigel Quashie,28.0,Central Midfield,West Brom,Winter,2.25,2006/2007,sct SCO,0.1783625730994152,0.0,0.0,2.0,0.2228070175438596,1.0,0.0,2.0
+Sheff Utd,Matthew Kilgallon,22.0,Centre-Back,Leeds United,Winter,3.8,2006/2007,eng ENG,0.1578947368421052,0.0,0.0,0.0,0.0929824561403508,2.0,0.0,0.0
+Sheff Utd,Jon Stead,23.0,Centre-Forward,Sunderland AFC,Winter,1.13,2006/2007,eng ENG,0.3114035087719298,5.0,0.0,2.0,0.4961988304093567,1.0,0.0,3.0
+Watford FC,Steve Kabba,25.0,Centre-Forward,Sheff Utd,Winter,0.75,2006/2007,eng ENG,0.1809941520467836,0.0,2.0,0.0,0.0353801169590643,0.0,0.0,0.0
+Man Utd,Tomasz Kuszczak,25.0,Goalkeeper,West Brom,Summer,4.3,2007/2008,pl POL,0.1639766081871344,0.0,0.0,0.0,0.400438596491228,0.0,0.0,1.0
+Liverpool FC,Yossi Benayoun,27.0,Right Winger,West Ham United,Summer,7.3,2007/2008,il ISR,0.5182261208576998,18.0,11.0,1.0,0.5154970760233918,8.0,10.0,8.0
+Arsenal FC,Lassana Diarra,22.0,Defensive Midfield,Chelsea FC,Summer,2.9,2007/2008,fr FRA,0.1078947368421052,0.0,0.0,1.0,0.108625730994152,0.0,0.0,3.0
+Spurs,Darren Bent,23.0,Centre-Forward,Charlton,Summer,24.75,2007/2008,eng ENG,0.4858187134502923,18.0,5.0,1.0,0.8811403508771931,31.0,5.0,3.0
+Bolton,Gavin McCann,29.0,Central Midfield,Aston Villa,Summer,1.5,2007/2008,eng ENG,0.5160818713450293,1.0,0.0,20.0,0.6948099415204678,3.0,2.0,27.0
+Reading FC,Liam Rosenior,23.0,Right-Back,Fulham FC,Summer,1.9,2007/2008,eng ENG,0.3628654970760234,0.0,0.0,2.0,0.6646198830409357,0.0,4.0,11.0
+Portsmouth FC,Glen Johnson,23.0,Right-Back,Chelsea FC,Summer,5.5,2007/2008,eng ENG,0.7224171539961013,4.0,9.0,19.0,0.2298245614035087,3.0,3.0,6.0
+Portsmouth FC,Papa Bouba Diop,29.0,Defensive Midfield,Fulham FC,Summer,5.0,2007/2008,sn SEN,0.4085769980506822,0.0,3.0,12.0,0.4428362573099415,7.0,2.0,22.0
+Aston Villa,Nigel Reo-Coker,23.0,Defensive Midfield,West Ham United,Summer,12.5,2007/2008,eng ENG,0.5476608187134503,1.0,3.0,21.0,0.8505847953216374,6.0,5.0,16.0
+Aston Villa,Marlon Harewood,27.0,Centre-Forward,West Ham United,Summer,5.5,2007/2008,eng ENG,0.085672514619883,5.0,0.0,2.0,0.6719298245614036,17.0,5.0,10.0
+Aston Villa,Zat Knight,27.0,Centre-Back,Fulham FC,Summer,4.7,2007/2008,eng ENG,0.4868421052631578,2.0,1.0,2.0,0.5281537176274018,3.0,1.0,16.0
+Middlesbrough FC,Mido,24.0,Centre-Forward,Spurs,Summer,8.8,2007/2008,eg EGY,0.1997076023391812,6.0,0.0,8.0,0.3065302144249512,14.0,6.0,10.0
+Middlesbrough FC,Gary O'Neil,24.0,Central Midfield,Portsmouth FC,Summer,7.5,2007/2008,eng ENG,0.6812865497076024,4.0,4.0,16.0,0.4960818713450292,11.0,8.0,12.0
+Middlesbrough FC,Luke Young,28.0,Right-Back,Charlton,Summer,3.75,2007/2008,eng ENG,0.9087719298245616,1.0,1.0,8.0,0.7822124756335284,4.0,5.0,29.0
+Middlesbrough FC,Jérémie Aliadière,24.0,Centre-Forward,Arsenal FC,Summer,3.0,2007/2008,fr FRA,0.645029239766082,7.0,8.0,5.0,0.0440935672514619,1.0,0.0,1.0
+Newcastle United,Alan Smith,26.0,Central Midfield,Man Utd,Summer,9.0,2007/2008,eng ENG,0.2468567251461988,0.0,1.0,16.0,0.3888888888888888,7.0,7.0,10.0
+Newcastle United,Joey Barton,24.0,Central Midfield,Man City,Summer,8.6,2007/2008,eng ENG,0.390204678362573,6.0,13.0,16.0,0.6428654970760234,15.0,15.0,42.0
+Newcastle United,Abdoulaye Faye,29.0,Centre-Back,Bolton,Summer,2.8,2007/2008,sn SEN,0.4827485380116959,1.0,0.0,5.0,0.4426900584795322,3.0,1.0,16.0
+West Ham United,Kieron Dyer,28.0,Right Midfield,Newcastle United,Summer,12.0,2007/2008,eng ENG,0.098172514619883,0.0,2.0,0.0,0.5467470760233918,23.0,26.0,6.0
+West Ham United,Craig Bellamy,27.0,Left Winger,Liverpool FC,Summer,11.25,2007/2008,wls WAL,0.2568713450292397,7.0,1.0,7.0,0.462719298245614,13.0,5.0,8.0
+West Ham United,Scott Parker,26.0,Central Midfield,Newcastle United,Summer,10.25,2007/2008,eng ENG,0.6660818713450293,9.0,8.0,30.0,0.6904970760233918,4.0,2.0,20.0
+West Ham United,Freddie Ljungberg,30.0,Right Midfield,Arsenal FC,Summer,4.5,2007/2008,se SWE,0.541812865497076,2.0,3.0,3.0,0.5056530214424951,46.0,26.0,22.0
+Fulham FC,Diomansy Kamara,26.0,Right Winger,West Brom,Summer,9.0,2007/2008,sn SEN,0.2212719298245614,12.0,1.0,7.0,0.5230994152046784,1.0,2.0,3.0
+Fulham FC,Steven Davis,22.0,Central Midfield,Aston Villa,Summer,5.9,2007/2008,nir NIR,0.5388888888888889,0.0,0.0,2.0,0.633625730994152,5.0,3.0,3.0
+Fulham FC,Hameur Bouazza,22.0,Right Winger,Watford FC,Summer,4.5,2007/2008,dz ALG,0.3473684210526316,1.0,1.0,3.0,0.6880116959064327,5.0,3.0,3.0
+Fulham FC,Chris Baird,25.0,Defensive Midfield,Southampton,Summer,4.5,2007/2008,nir NIR,0.4563840155945418,4.0,2.0,23.0,0.0510233918128654,0.0,0.0,1.0
+Fulham FC,Paul Konchesky,26.0,Left-Back,West Ham United,Summer,4.0,2007/2008,eng ENG,0.62953216374269,2.0,4.0,14.0,0.7584795321637428,1.0,6.0,13.0
+Fulham FC,Aaron Hughes,27.0,Centre-Back,Aston Villa,Summer,1.5,2007/2008,nir NIR,0.7205096073517127,1.0,0.0,5.0,0.6302631578947369,0.0,5.0,2.0
+Wigan Athletic,Jason Koumas,27.0,Attacking Midfield,West Brom,Summer,6.9,2007/2008,wls WAL,0.3004873294346978,2.0,5.0,2.0,0.4223684210526315,4.0,6.0,5.0
+Wigan Athletic,Michael Brown,30.0,Central Midfield,Fulham FC,Summer,1.3,2007/2008,eng ENG,0.4046783625730994,0.0,1.0,18.0,0.5023391812865498,0.0,0.0,13.0
+Derby County,Claude Davis,28.0,Centre-Back,Sheff Utd,Summer,4.5,2007/2008,jm JAM,0.447953216374269,0.0,0.0,4.0,0.4374269005847953,0.0,0.0,4.0
+Derby County,Andy Todd,32.0,Centre-Back,Blackburn Rovers,Summer,0.675,2007/2008,eng ENG,0.397953216374269,1.0,1.0,2.0,0.4110526315789474,5.0,1.0,20.0
+Sunderland AFC,Kenwyne Jones,22.0,Centre-Forward,Southampton,Summer,9.0,2007/2008,tt TRI,0.7104288499025341,26.0,11.0,6.0,0.0137426900584795,0.0,0.0,0.0
+Sunderland AFC,Kieran Richardson,22.0,Left-Back,Man Utd,Summer,8.2,2007/2008,eng ENG,0.5172514619883041,14.0,10.0,38.0,0.1467105263157894,2.0,1.0,8.0
+Sunderland AFC,Greg Halford,22.0,Centre-Back,Reading FC,Summer,5.2,2007/2008,eng ENG,0.1976608187134503,0.0,0.0,3.0,0.0529239766081871,0.0,0.0,0.0
+Sunderland AFC,Danny Higginbotham,28.0,Centre-Back,Stoke City,Summer,3.75,2007/2008,gi GIB,0.2894736842105263,3.0,0.0,1.0,0.3962719298245614,4.0,4.0,3.0
+Birmingham City,Franck Queudrue,28.0,Left-Back,Fulham FC,Summer,3.75,2007/2008,fr FRA,0.2501461988304093,0.0,1.0,4.0,0.7353801169590644,1.0,3.0,8.0
+Birmingham City,Liam Ridgewell,23.0,Centre-Back,Aston Villa,Summer,3.0,2007/2008,eng ENG,0.878167641325536,8.0,4.0,21.0,0.447514619883041,7.0,1.0,11.0
+Chelsea FC,Nicolas Anelka,28.0,Centre-Forward,Bolton,Winter,18.0,2007/2008,fr FRA,0.5463157894736842,38.0,17.0,0.0,0.6760233918128655,21.0,6.0,1.0
+Spurs,Jonathan Woodgate,28.0,Centre-Back,Middlesbrough FC,Winter,10.8,2007/2008,eng ENG,0.4084795321637426,2.0,0.0,8.0,0.5805555555555555,0.0,1.0,7.0
+Bolton,Gary Cahill,22.0,Centre-Back,Aston Villa,Winter,6.0,2007/2008,eng ENG,0.6771929824561403,13.0,5.0,15.0,0.2307017543859648,1.0,0.0,6.0
+Bolton,Matthew Taylor,26.0,Left Midfield,Portsmouth FC,Winter,4.7,2007/2008,eng ENG,0.6362573099415204,23.0,9.0,10.0,0.583625730994152,16.0,12.0,15.0
+Portsmouth FC,Jermain Defoe,25.0,Centre-Forward,Spurs,Winter,9.3,2007/2008,eng ENG,0.3739766081871345,16.0,4.0,6.0,0.4575491759702286,91.0,19.0,26.0
+Portsmouth FC,Lassana Diarra,22.0,Defensive Midfield,Arsenal FC,Winter,7.0,2007/2008,fr FRA,0.2782163742690058,1.0,0.0,7.0,0.1078947368421052,0.0,0.0,1.0
+Aston Villa,Wayne Routledge,23.0,Left Winger,Spurs,Winter,1.7,2007/2008,eng ENG,0.0033625730994151,0.0,0.0,0.0,0.0380116959064327,0.0,0.0,0.0
+Man City,Benjani,29.0,Centre-Forward,Portsmouth FC,Winter,5.2,2007/2008,zw ZIM,0.1693957115009746,4.0,2.0,0.0,0.5024366471734892,19.0,6.0,2.0
+Wigan Athletic,Marlon King,27.0,Centre-Forward,Watford FC,Winter,4.0,2007/2008,jm JAM,0.1001461988304093,1.0,0.0,1.0,0.3280701754385965,4.0,1.0,0.0
+Derby County,Robbie Savage,33.0,Central Midfield,Blackburn Rovers,Winter,2.25,2007/2008,wls WAL,0.3944444444444444,0.0,0.0,4.0,0.4640350877192982,1.0,5.0,28.0
+Sunderland AFC,Andy Reid,25.0,Left Midfield,Charlton,Winter,6.0,2007/2008,ie IRL,0.3253654970760233,4.0,12.0,6.0,0.3529239766081871,2.0,0.0,2.0
+Sunderland AFC,Phil Bardsley,22.0,Right-Back,Man Utd,Winter,3.0,2007/2008,sct SCO,0.5711361737677527,7.0,1.0,46.0,0.0885964912280701,0.0,0.0,1.0
+Birmingham City,James McFadden,24.0,Second Striker,Everton,Winter,7.5,2007/2008,sct SCO,0.3739766081871345,9.0,8.0,7.0,0.2585282651072124,11.0,3.0,10.0
+Man Utd,Dimitar Berbatov,27.0,Centre-Forward,Spurs,Summer,38.0,2008/2009,bg BUL,0.5380847953216374,48.0,18.0,4.0,0.5584795321637427,27.0,18.0,4.0
+Arsenal FC,Mikaël Silvestre,31.0,Left-Back,Man Utd,Summer,0.95,2008/2009,fr FRA,0.2852339181286549,3.0,1.0,2.0,0.6474658869395712,6.0,18.0,16.0
+Liverpool FC,Robbie Keane,28.0,Centre-Forward,Spurs,Summer,24.0,2008/2009,ie IRL,0.3660818713450292,5.0,4.0,2.0,0.5466536712150747,91.0,22.0,11.0
+Liverpool FC,Javier Mascherano,24.0,Defensive Midfield,West Ham United,Summer,22.5,2008/2009,ar ARG,0.4623391812865496,1.0,3.0,26.0,0.0687134502923976,0.0,0.0,1.0
+Aston Villa,James Milner,22.0,Central Midfield,Newcastle United,Summer,15.0,2008/2009,eng ENG,0.6191520467836258,12.0,28.0,14.0,0.379298245614035,6.0,8.0,6.0
+Aston Villa,Curtis Davies,23.0,Centre-Back,West Brom,Summer,10.0,2008/2009,eng ENG,0.3854775828460039,3.0,1.0,3.0,0.868421052631579,2.0,0.0,0.0
+Aston Villa,Steve Sidwell,25.0,Central Midfield,Chelsea FC,Summer,6.3,2008/2009,eng ENG,0.2301169590643274,3.0,1.0,6.0,0.1514619883040935,0.0,1.0,1.0
+Aston Villa,Nicky Shorey,27.0,Left-Back,Reading FC,Summer,4.4,2008/2009,eng ENG,0.270906432748538,0.0,1.0,2.0,0.7792397660818713,4.0,18.0,7.0
+Aston Villa,Luke Young,29.0,Right-Back,Middlesbrough FC,Summer,3.0,2008/2009,eng ENG,0.4652777777777777,2.0,1.0,11.0,0.9087719298245616,1.0,1.0,8.0
+Aston Villa,Brad Friedel,37.0,Goalkeeper,Blackburn Rovers,Summer,2.5,2008/2009,us USA,0.9974658869395712,0.0,0.0,4.0,0.9793233082706768,1.0,0.0,0.0
+Blackburn Rovers,Paul Robinson,28.0,Goalkeeper,Spurs,Summer,4.4,2008/2009,eng ENG,0.9096491228070176,0.0,2.0,1.0,0.8994152046783626,1.0,2.0,1.0
+Portsmouth FC,Peter Crouch,27.0,Centre-Forward,Liverpool FC,Summer,13.7,2008/2009,eng ENG,0.9818713450292398,10.0,5.0,3.0,0.4447368421052631,22.0,12.0,6.0
+Portsmouth FC,Younès Kaboul,22.0,Centre-Back,Spurs,Summer,6.25,2008/2009,fr FRA,0.4644736842105262,4.0,1.0,7.0,0.3738095238095238,6.0,3.0,16.0
+Man City,Shaun Wright-Phillips,26.0,Right Winger,Chelsea FC,Summer,11.25,2008/2009,eng ENG,0.5541771094402673,27.0,19.0,14.0,0.2874269005847952,4.0,12.0,2.0
+Man City,Tal Ben Haim,26.0,Centre-Back,Chelsea FC,Summer,6.4,2008/2009,il ISR,0.2236842105263158,0.0,0.0,2.0,0.2976608187134503,0.0,0.0,2.0
+Spurs,David Bentley,23.0,Right Midfield,Blackburn Rovers,Summer,22.0,2008/2009,eng ENG,0.2838206627680311,2.0,3.0,6.0,0.8207602339181287,13.0,17.0,22.0
+Newcastle United,Danny Guthrie,21.0,Central Midfield,Liverpool FC,Summer,4.3,2008/2009,eng ENG,0.3923976608187134,3.0,4.0,10.0,0.0093567251461988,0.0,0.0,0.0
+Middlesbrough FC,Justin Hoyte,23.0,Right-Back,Arsenal FC,Summer,3.8,2008/2009,tt TRI,0.4701754385964912,0.0,1.0,0.0,0.1189473684210525,1.0,0.0,2.0
+Wigan Athletic,Lee Cattermole,20.0,Defensive Midfield,Middlesbrough FC,Summer,4.4,2008/2009,eng ENG,0.8216374269005848,1.0,2.0,14.0,0.3852826510721247,3.0,3.0,19.0
+Sunderland AFC,Anton Ferdinand,23.0,Centre-Back,West Ham United,Summer,10.0,2008/2009,eng ENG,0.506359649122807,0.0,1.0,9.0,0.7240740740740742,4.0,3.0,11.0
+Sunderland AFC,George McCartney,27.0,Left-Back,West Ham United,Summer,5.5,2008/2009,nir NIR,0.3103313840155945,0.0,0.0,19.0,0.4346783625730994,1.0,8.0,14.0
+Sunderland AFC,Steed Malbranque,28.0,Central Midfield,Spurs,Summer,5.0,2008/2009,fr FRA,0.6719298245614035,1.0,16.0,11.0,0.6478070175438596,6.0,6.0,9.0
+Sunderland AFC,Pascal Chimbonda,29.0,Centre-Back,Spurs,Summer,3.2,2008/2009,fr FRA,0.3421052631578947,0.0,0.0,2.0,0.5648148148148148,3.0,9.0,10.0
+Sunderland AFC,Teemu Tainio,28.0,Defensive Midfield,Spurs,Summer,3.0,2008/2009,fi FIN,0.4172514619883041,0.0,0.0,4.0,0.3769980506822612,3.0,4.0,6.0
+Sunderland AFC,David Healy,29.0,Centre-Forward,Fulham FC,Summer,1.5,2008/2009,nir NIR,0.027923976608187,1.0,1.0,1.0,0.3976608187134502,4.0,0.0,2.0
+Bolton,Danny Shittu,27.0,Centre-Back,Watford FC,Summer,2.4,2008/2009,ng NGA,0.2307017543859649,0.0,0.0,1.0,0.6850877192982456,1.0,0.0,2.0
+Fulham FC,Bobby Zamora,27.0,Centre-Forward,West Ham United,Summer,4.1,2008/2009,eng ENG,0.501827485380117,20.0,16.0,8.0,0.4562378167641325,18.0,11.0,7.0
+Fulham FC,John Paintsil,27.0,Right-Back,West Ham United,Summer,3.8,2008/2009,gh GHA,0.6361598440545809,0.0,2.0,18.0,0.1499999999999999,0.0,0.0,6.0
+Fulham FC,Dickson Etuhu,26.0,Defensive Midfield,Sunderland AFC,Summer,1.85,2008/2009,ng NGA,0.4327485380116959,3.0,2.0,11.0,0.439766081871345,1.0,1.0,4.0
+West Brom,Scott Carson,22.0,Goalkeeper,Liverpool FC,Summer,4.0,2008/2009,eng ENG,0.881578947368421,0.0,0.0,4.0,0.1052631578947368,0.0,0.0,0.0
+West Brom,Luke Moore,22.0,Centre-Forward,Aston Villa,Summer,3.75,2008/2009,eng ENG,0.2017543859649122,1.0,0.0,1.0,0.277485380116959,14.0,2.0,4.0
+West Brom,Abdoulaye Méïté,27.0,Centre-Back,Bolton,Summer,2.6,2008/2009,ci CIV,0.3359649122807017,0.0,1.0,5.0,0.7204678362573098,0.0,0.0,4.0
+Stoke City,Dave Kitson,28.0,Centre-Forward,Reading FC,Summer,7.0,2008/2009,eng ENG,0.2486842105263157,3.0,2.0,3.0,0.4862573099415204,12.0,4.0,6.0
+Stoke City,Ibrahima Sonko,27.0,Centre-Back,Reading FC,Summer,3.0,2008/2009,sn SEN,0.2052631578947368,0.0,0.0,0.0,0.465204678362573,1.0,1.0,7.0
+Stoke City,Michael Tonge,25.0,Central Midfield,Sheff Utd,Summer,3.0,2008/2009,eng ENG,0.0444444444444444,0.0,0.0,1.0,0.5888888888888889,2.0,0.0,6.0
+Stoke City,Danny Higginbotham,29.0,Centre-Back,Sunderland AFC,Summer,3.0,2008/2009,gi GIB,0.3962719298245614,4.0,4.0,3.0,0.2894736842105263,3.0,0.0,1.0
+Stoke City,Abdoulaye Faye,30.0,Centre-Back,Newcastle United,Summer,2.9,2008/2009,sn SEN,0.6522417153996102,6.0,0.0,14.0,0.4827485380116959,1.0,0.0,5.0
+Stoke City,Tom Soares,22.0,Central Midfield,Crystal Palace,Summer,1.9,2008/2009,eng ENG,0.1195906432748538,0.0,0.0,0.0,0.4543859649122807,0.0,2.0,4.0
+Stoke City,Amdy Faye,31.0,Defensive Midfield,Charlton,Summer,0.45,2008/2009,sn SEN,0.4102339181286549,0.0,0.0,4.0,0.6099415204678362,1.0,0.0,6.0
+Hull City,Anthony Gardner,27.0,Centre-Back,Spurs,Summer,3.2,2008/2009,eng ENG,0.3947368421052631,0.0,0.0,1.0,0.3199195906432748,2.0,0.0,18.0
+Hull City,George Boateng,32.0,Defensive Midfield,Middlesbrough FC,Summer,1.2,2008/2009,nl NED,0.571345029239766,1.0,2.0,13.0,0.7671539961013645,7.0,9.0,43.0
+Portsmouth FC,Hayden Mullins,29.0,Defensive Midfield,West Ham United,Winter,2.3,2008/2009,eng ENG,0.3896198830409356,0.0,0.0,4.0,0.6216374269005848,3.0,0.0,11.0
+Man City,Craig Bellamy,29.0,Left Winger,West Ham United,Winter,15.5,2008/2009,wls WAL,0.4400584795321637,12.0,8.0,7.0,0.2568713450292397,7.0,1.0,7.0
+Man City,Wayne Bridge,28.0,Left-Back,Chelsea FC,Winter,13.0,2008/2009,eng ENG,0.3311890838206627,0.0,0.0,2.0,0.3970760233918128,1.0,9.0,2.0
+Man City,Shay Given,32.0,Goalkeeper,Newcastle United,Winter,9.0,2008/2009,ie IRL,0.6552631578947368,0.0,0.0,2.0,0.7697855750487329,0.0,2.0,13.0
+Spurs,Robbie Keane,28.0,Centre-Forward,Liverpool FC,Winter,16.7,2008/2009,ie IRL,0.5466536712150747,91.0,22.0,11.0,0.3660818713450292,5.0,4.0,2.0
+Spurs,Jermain Defoe,26.0,Centre-Forward,Portsmouth FC,Winter,16.4,2008/2009,eng ENG,0.4575491759702286,91.0,19.0,26.0,0.3739766081871345,16.0,4.0,6.0
+Spurs,Pascal Chimbonda,29.0,Centre-Back,Sunderland AFC,Winter,3.2,2008/2009,fr FRA,0.5648148148148148,3.0,9.0,10.0,0.3421052631578947,0.0,0.0,2.0
+Newcastle United,Kevin Nolan,26.0,Attacking Midfield,Bolton,Winter,4.5,2008/2009,eng ENG,0.5027777777777778,12.0,3.0,13.0,0.7508771929824561,39.0,15.0,60.0
+Wigan Athletic,Charles N'Zogbia,22.0,Right Winger,Newcastle United,Winter,6.4,2008/2009,fr FRA,0.6720272904483431,15.0,12.0,11.0,0.4685380116959064,9.0,14.0,14.0
+Wigan Athletic,Ben Watson,23.0,Central Midfield,Crystal Palace,Winter,2.1,2008/2009,eng ENG,0.2922807017543859,10.0,2.0,6.0,0.4084795321637426,0.0,0.0,3.0
+Stoke City,Matthew Etherington,27.0,Left Midfield,West Ham United,Winter,3.0,2008/2009,eng ENG,0.5341130604288499,13.0,24.0,13.0,0.498172514619883,7.0,7.0,6.0
+Hull City,Jimmy Bullard,30.0,Central Midfield,Fulham FC,Winter,5.3,2008/2009,eng ENG,0.1592105263157894,4.0,0.0,0.0,0.3155945419103313,6.0,7.0,2.0
+Liverpool FC,Glen Johnson,24.0,Right-Back,Portsmouth FC,Summer,20.5,2009/2010,eng ENG,0.6626218323586744,8.0,11.0,19.0,0.7224171539961013,4.0,9.0,19.0
+Chelsea FC,Daniel Sturridge,19.0,Centre-Forward,Man City,Summer,7.25,2009/2010,eng ENG,0.2103070175438596,13.0,3.0,3.0,0.0603313840155945,5.0,3.0,0.0
+Aston Villa,Stewart Downing,24.0,Left Midfield,Middlesbrough FC,Summer,13.0,2009/2010,eng ENG,0.797514619883041,9.0,8.0,0.0,0.5406107862248213,18.0,36.0,9.0
+Aston Villa,Stephen Warnock,27.0,Left-Back,Blackburn Rovers,Summer,9.0,2009/2010,eng ENG,0.7166666666666667,2.0,7.0,17.0,0.5709795321637426,5.0,8.0,21.0
+Aston Villa,Richard Dunne,29.0,Centre-Back,Man City,Summer,6.8,2009/2010,ie IRL,0.8154970760233917,4.0,1.0,18.0,0.7141325536062378,6.0,4.0,45.0
+Aston Villa,James Collins,26.0,Centre-Back,West Ham United,Summer,5.7,2009/2010,wls WAL,0.780019493177388,5.0,0.0,14.0,0.3933280170122275,6.0,1.0,40.0
+Fulham FC,Damien Duff,30.0,Right Midfield,Newcastle United,Summer,4.0,2009/2010,ie IRL,0.5585964912280701,15.0,18.0,8.0,0.5124756335282651,4.0,2.0,8.0
+Spurs,Peter Crouch,28.0,Centre-Forward,Portsmouth FC,Summer,10.5,2009/2010,eng ENG,0.4155945419103313,12.0,12.0,1.0,0.9818713450292398,10.0,5.0,3.0
+Spurs,Sébastien Bassong,23.0,Centre-Back,Newcastle United,Summer,9.3,2009/2010,cm CMR,0.3267056530214425,2.0,0.0,2.0,0.6976608187134503,0.0,0.0,5.0
+Man City,Emmanuel Adebayor,25.0,Centre-Forward,Arsenal FC,Summer,29.0,2009/2010,tg TOG,0.3583333333333333,15.0,3.0,1.0,0.5692982456140351,46.0,15.0,11.0
+Man City,Joleon Lescott,27.0,Centre-Back,Everton,Summer,27.5,2009/2010,eng ENG,0.495438596491228,7.0,3.0,6.0,0.7293128654970761,14.0,4.0,10.0
+Man City,Roque Santa Cruz,27.0,Centre-Forward,Blackburn Rovers,Summer,21.2,2009/2010,py PAR,0.0985380116959064,3.0,0.0,1.0,0.5078947368421053,23.0,7.0,3.0
+Man City,Kolo Touré,28.0,Centre-Back,Arsenal FC,Summer,18.7,2009/2010,ci CIV,0.4625730994152046,2.0,0.0,8.0,0.7594820384294068,9.0,8.0,22.0
+Man City,Gareth Barry,28.0,Defensive Midfield,Aston Villa,Summer,13.9,2009/2010,eng ENG,0.7915204678362573,6.0,14.0,29.0,0.756140350877193,41.0,40.0,62.0
+Stoke City,Robert Huth,24.0,Centre-Back,Middlesbrough FC,Summer,7.0,2009/2010,de GER,0.6290448343079922,13.0,4.0,28.0,0.369298245614035,2.0,0.0,12.0
+Stoke City,Dean Whitehead,27.0,Central Midfield,Sunderland AFC,Summer,3.5,2009/2010,eng ENG,0.6999269005847953,3.0,3.0,33.0,0.8314814814814815,4.0,8.0,22.0
+Stoke City,Danny Collins,29.0,Centre-Back,Sunderland AFC,Summer,3.1,2009/2010,wls WAL,0.6010233918128656,0.0,1.0,6.0,0.616593567251462,3.0,3.0,9.0
+Bolton,Zat Knight,29.0,Centre-Back,Aston Villa,Summer,4.7,2009/2010,eng ENG,0.7922027290448342,2.0,0.0,8.0,0.4868421052631578,2.0,1.0,2.0
+Bolton,Sam Ricketts,27.0,Right-Back,Hull City,Summer,2.4,2009/2010,wls WAL,0.5224171539961013,1.0,2.0,8.0,0.737719298245614,0.0,1.0,7.0
+Portsmouth FC,Kevin-Prince Boateng,22.0,Attacking Midfield,Spurs,Summer,4.5,2009/2010,gh GHA,0.5383040935672515,3.0,2.0,7.0,0.0887426900584795,0.0,0.0,2.0
+Portsmouth FC,Tommy Smith,29.0,Centre-Forward,Watford FC,Summer,2.0,2009/2010,eng ENG,0.2985380116959064,1.0,1.0,0.0,0.5666666666666667,3.0,6.0,3.0
+Blackburn Rovers,Pascal Chimbonda,30.0,Centre-Back,Spurs,Summer,1.7,2009/2010,fr FRA,0.341812865497076,1.0,1.0,4.0,0.5648148148148148,3.0,9.0,10.0
+Sunderland AFC,Michael Turner,25.0,Centre-Back,Hull City,Summer,13.6,2009/2010,eng ENG,0.5818713450292398,1.0,0.0,17.0,0.5526315789473684,4.0,0.0,4.0
+Sunderland AFC,Darren Bent,25.0,Centre-Forward,Spurs,Summer,11.8,2009/2010,eng ENG,0.7494152046783626,32.0,1.0,6.0,0.4858187134502923,18.0,5.0,1.0
+Sunderland AFC,Fraizer Campbell,21.0,Centre-Forward,Man Utd,Summer,4.1,2009/2010,eng ENG,0.2224415204678362,6.0,5.0,6.0,0.0141812865497075,0.0,0.0,1.0
+Hull City,Stephen Hunt,28.0,Left Midfield,Reading FC,Summer,4.0,2009/2010,ie IRL,0.6771929824561403,6.0,4.0,4.0,0.8396198830409357,9.0,9.0,9.0
+Hull City,Seyi Olofinjana,29.0,Central Midfield,Stoke City,Summer,3.5,2009/2010,ng NGA,0.3327485380116959,1.0,0.0,3.0,0.3596491228070175,2.0,0.0,3.0
+Hull City,Paul McShane,23.0,Centre-Back,Sunderland AFC,Summer,2.5,2009/2010,ie IRL,0.447733918128655,2.0,0.0,9.0,0.2678362573099415,0.0,0.0,3.0
+Wolves,Kevin Doyle,25.0,Centre-Forward,Reading FC,Summer,7.6,2009/2010,ie IRL,0.723196881091618,18.0,12.0,9.0,0.8010233918128655,19.0,3.0,1.0
+Wolves,Greg Halford,24.0,Centre-Back,Sunderland AFC,Summer,2.4,2009/2010,eng ENG,0.1343567251461987,0.0,0.0,3.0,0.1976608187134503,0.0,0.0,3.0
+Birmingham City,Joe Hart,22.0,Goalkeeper,Man City,Summer,1.15,2009/2010,eng ENG,0.9473684210526316,0.0,0.0,3.0,0.774106562703054,0.0,0.0,4.0
+Burnley FC,André Bikey,24.0,defence,Reading FC,Summer,3.25,2009/2010,cm CMR,0.6374269005847953,1.0,0.0,5.0,0.321345029239766,3.0,0.0,10.0
+Burnley FC,Tyrone Mears,26.0,Right-Back,Derby County,Summer,0.59,2009/2010,jm JAM,1.0,0.0,4.0,7.0,0.5877192982456141,1.0,1.0,2.0
+Burnley FC,David Edgar,22.0,Centre-Back,Newcastle United,Summer,0.35,2009/2010,ca CAN,0.0704678362573099,0.0,0.0,0.0,0.1002923976608187,2.0,1.0,3.0
+Spurs,Younès Kaboul,23.0,Centre-Back,Portsmouth FC,Winter,5.9,2009/2010,fr FRA,0.3738095238095238,6.0,3.0,16.0,0.4644736842105262,4.0,1.0,7.0
+West Ham United,Benni McCarthy,32.0,Centre-Forward,Blackburn Rovers,Winter,2.6,2009/2010,za RSA,0.0347953216374268,0.0,0.0,0.0,0.5100146198830409,37.0,6.0,17.0
+Man City,Adam Johnson,22.0,Right Winger,Middlesbrough FC,Winter,8.0,2009/2010,eng ENG,0.3759259259259259,11.0,12.0,4.0,0.1932748538011695,2.0,1.0,4.0
+Bolton,Paul Robinson,31.0,Centre-Back,West Brom,Winter,1.2,2009/2010,eng ENG,0.6592592592592592,0.0,3.0,17.0,0.8161793372319689,1.0,3.0,21.0
+Sunderland AFC,Matthew Kilgallon,26.0,Centre-Back,Sheff Utd,Winter,2.3,2009/2010,eng ENG,0.1866471734892787,0.0,0.0,1.0,0.1578947368421052,0.0,0.0,0.0
+Birmingham City,Craig Gardner,23.0,Central Midfield,Aston Villa,Winter,3.5,2009/2010,eng ENG,0.4552631578947368,9.0,1.0,13.0,0.1709356725146198,5.0,1.0,9.0
+Burnley FC,Leon Cort,30.0,Centre-Back,Stoke City,Winter,1.8,2009/2010,gy GUY,0.3774853801169591,0.0,1.0,0.0,0.2470760233918128,0.0,0.0,0.0
+Aston Villa,Stephen Ireland,23.0,Attacking Midfield,Man City,Summer,9.7,2010/2011,ie IRL,0.2801169590643274,1.0,4.0,4.0,0.5639766081871345,16.0,18.0,10.0
+Blackpool FC,Chris Basham,21.0,Centre-Back,Bolton,Summer,1.4,2010/2011,eng ENG,0.0353801169590643,0.0,1.0,1.0,0.1039473684210526,1.0,1.0,0.0
+Wigan Athletic,Franco Di Santo,21.0,Centre-Forward,Chelsea FC,Summer,2.4,2010/2011,ar ARG,0.4948343079922027,13.0,5.0,11.0,0.0476608187134502,0.0,1.0,0.0
+Man Utd,Chris Smalling,20.0,Centre-Back,Fulham FC,Summer,8.0,2010/2011,eng ENG,0.5279727095516569,12.0,1.0,20.0,0.12953216374269,0.0,0.0,0.0
+West Brom,Nicky Shorey,29.0,Left-Back,Aston Villa,Summer,1.8,2010/2011,eng ENG,0.633625730994152,0.0,2.0,2.0,0.270906432748538,0.0,1.0,2.0
+West Brom,Boaz Myhill,27.0,Goalkeeper,Hull City,Summer,1.8,2010/2011,wls WAL,0.2736354775828459,0.0,0.0,4.0,0.7236842105263157,0.0,0.0,3.0
+Chelsea FC,Yossi Benayoun,30.0,Right Winger,Liverpool FC,Summer,7.0,2010/2011,il ISR,0.0263157894736841,1.0,0.0,0.0,0.5182261208576998,18.0,11.0,1.0
+Wolves,Steven Fletcher,23.0,Centre-Forward,Burnley FC,Summer,7.2,2010/2011,sct SCO,0.5467836257309941,22.0,4.0,3.0,0.8327485380116959,8.0,5.0,1.0
+Wolves,Stephen Hunt,28.0,Left Midfield,Hull City,Summer,3.6,2010/2011,ie IRL,0.3988304093567251,6.0,3.0,10.0,0.6771929824561403,6.0,4.0,4.0
+Wolves,Steven Mouyokolo,23.0,Centre-Back,Hull City,Summer,3.0,2010/2011,cg CGO,0.0464912280701754,0.0,0.0,0.0,0.4894736842105263,1.0,0.0,1.0
+Stoke City,Kenwyne Jones,25.0,Centre-Forward,Sunderland AFC,Summer,9.7,2010/2011,tt TRI,0.37953216374269,13.0,2.0,0.0,0.7104288499025341,26.0,11.0,6.0
+Stoke City,Marc Wilson,23.0,Centre-Back,Portsmouth FC,Summer,3.6,2010/2011,ie IRL,0.5517056530214425,1.0,2.0,31.0,0.3788011695906432,0.0,1.0,3.0
+Birmingham City,Ben Foster,27.0,Goalkeeper,Man Utd,Summer,7.0,2010/2011,eng ENG,0.9850877192982456,0.0,0.0,3.0,0.1052631578947368,0.0,0.0,0.0
+Man City,James Milner,24.0,Central Midfield,Aston Villa,Summer,22.0,2010/2011,eng ENG,0.496140350877193,13.0,25.0,18.0,0.6191520467836258,12.0,28.0,14.0
+Liverpool FC,Paul Konchesky,29.0,Left-Back,Fulham FC,Summer,4.2,2010/2011,eng ENG,0.3643274853801169,0.0,1.0,2.0,0.62953216374269,2.0,4.0,14.0
+Liverpool FC,Brad Jones,28.0,Goalkeeper,Middlesbrough FC,Summer,2.8,2010/2011,au AUS,0.0867446393762182,0.0,0.0,1.0,0.1491228070175438,0.0,0.0,0.0
+Aston Villa,Darren Bent,26.0,Centre-Forward,Sunderland AFC,Winter,21.5,2010/2011,eng ENG,0.3036549707602339,21.0,2.0,2.0,0.7494152046783626,32.0,1.0,6.0
+Fulham FC,Steve Sidwell,28.0,Central Midfield,Aston Villa,Winter,0.6,2010/2011,eng ENG,0.5383771929824561,14.0,6.0,21.0,0.2301169590643274,3.0,1.0,6.0
+Chelsea FC,Fernando Torres,26.0,Centre-Forward,Liverpool FC,Winter,58.5,2010/2011,es ESP,0.4987573099415204,20.0,17.0,19.0,0.5742690058479533,65.0,12.0,17.0
+West Ham United,Gary O'Neil,27.0,Central Midfield,Middlesbrough FC,Winter,2.9,2010/2011,eng ENG,0.2969298245614035,1.0,4.0,2.0,0.6812865497076024,4.0,4.0,16.0
+West Ham United,Robbie Keane,30.0,Centre-Forward,Spurs,Winter,1.2,2010/2011,ie IRL,0.1421052631578947,2.0,0.0,0.0,0.5466536712150747,91.0,22.0,11.0
+West Ham United,Wayne Bridge,30.0,Left-Back,Man City,Winter,0.35,2010/2011,eng ENG,0.3941520467836257,0.0,2.0,0.0,0.3311890838206627,0.0,0.0,2.0
+Bolton,David Wheater,23.0,Centre-Back,Middlesbrough FC,Winter,2.75,2010/2011,eng ENG,0.3725146198830409,2.0,2.0,6.0,0.4589912280701754,5.0,2.0,11.0
+Birmingham City,Curtis Davies,25.0,Centre-Back,Aston Villa,Winter,4.0,2010/2011,eng ENG,0.0988304093567251,0.0,0.0,1.0,0.3854775828460039,3.0,1.0,3.0
+Spurs,Steven Pienaar,28.0,Left Winger,Everton,Winter,3.6,2010/2011,za RSA,0.0742690058479531,0.0,1.0,1.0,0.4894736842105263,20.0,31.0,41.0
+Liverpool FC,Andy Carroll,22.0,Centre-Forward,Newcastle United,Winter,41.0,2010/2011,eng ENG,0.2474658869395711,6.0,2.0,7.0,0.1663742690058479,15.0,8.0,8.0
+Arsenal FC,Mikel Arteta,29.0,Central Midfield,Everton,Summer,12.0,2011/2012,es ESP,0.495672514619883,14.0,6.0,16.0,0.5327119883040935,28.0,36.0,34.0
+Newcastle United,Gabriel Obertan,22.0,Attacking Midfield,Man Utd,Summer,3.4,2011/2012,fr FRA,0.1716959064327484,2.0,8.0,1.0,0.0663742690058478,0.0,0.0,0.0
+Newcastle United,Demba Ba,26.0,Centre-Forward,West Ham United,Summer,0.8,2011/2012,sn SEN,0.6410818713450293,29.0,2.0,1.0,0.2728070175438596,7.0,0.0,1.0
+West Brom,Shane Long,24.0,Centre-Forward,Reading FC,Summer,5.1,2011/2012,ie IRL,0.5235867446393762,19.0,6.0,7.0,0.2324561403508771,5.0,2.0,7.0
+Man Utd,Phil Jones,19.0,Centre-Back,Blackburn Rovers,Summer,19.3,2011/2012,eng ENG,0.3809941520467836,2.0,6.0,23.0,0.4150584795321637,0.0,0.0,4.0
+Man Utd,Ashley Young,25.0,Left-Back,Aston Villa,Summer,18.0,2011/2012,eng ENG,0.4488628979857049,15.0,25.0,42.0,0.7139097744360903,30.0,42.0,38.0
+QPR,Shaun Wright-Phillips,29.0,Right Winger,Man City,Summer,4.5,2011/2012,eng ENG,0.3494152046783625,1.0,4.0,3.0,0.5541771094402673,27.0,19.0,14.0
+QPR,DJ Campbell,29.0,Centre-Forward,Blackpool FC,Summer,2.0,2011/2012,eng ENG,0.095906432748538,1.0,0.0,0.0,0.7678362573099415,13.0,1.0,2.0
+QPR,Armand Traoré,21.0,Left-Back,Arsenal FC,Summer,1.35,2011/2012,sn SEN,0.4375243664717348,0.0,3.0,8.0,0.0969785575048732,0.0,1.0,2.0
+QPR,Anton Ferdinand,26.0,Centre-Back,Sunderland AFC,Summer,1.13,2011/2012,eng ENG,0.5356725146198831,0.0,2.0,4.0,0.506359649122807,0.0,1.0,9.0
+QPR,Luke Young,32.0,Right-Back,Aston Villa,Summer,1.13,2011/2012,eng ENG,0.5935672514619883,2.0,1.0,5.0,0.4652777777777777,2.0,1.0,11.0
+QPR,Jason Puncheon,25.0,Central Midfield,Southampton,Summer,0.225,2011/2012,eng ENG,0.0052631578947368,0.0,0.0,0.0,0.6014619883040936,6.0,1.0,1.0
+Wigan Athletic,Ali Al-Habsi,29.0,Goalkeeper,Bolton,Summer,4.3,2011/2012,om OMA,0.8859649122807017,0.0,1.0,1.0,0.2631578947368421,0.0,0.0,0.0
+Norwich City,James Vaughan,22.0,Centre-Forward,Everton,Summer,2.3,2011/2012,eng ENG,0.0441520467836257,0.0,0.0,1.0,0.0464912280701753,7.0,1.0,5.0
+Norwich City,Daniel Ayala,20.0,Centre-Back,Liverpool FC,Summer,0.9,2011/2012,es ESP,0.1453216374269005,0.0,0.0,2.0,0.0690058479532163,0.0,0.0,0.0
+Wolves,Jamie O'Hara,24.0,Central Midfield,Spurs,Summer,3.75,2011/2012,eng ENG,0.4051169590643275,5.0,2.0,9.0,0.1476608187134502,2.0,0.0,5.0
+Stoke City,Peter Crouch,30.0,Centre-Forward,Spurs,Summer,11.3,2011/2012,eng ENG,0.5304928989139516,44.0,18.0,22.0,0.4155945419103313,12.0,12.0,1.0
+Stoke City,Wilson Palacios,26.0,Defensive Midfield,Spurs,Summer,9.0,2011/2012,hn HON,0.1340155945419102,0.0,0.0,6.0,0.4597465886939571,1.0,1.0,17.0
+Liverpool FC,Stewart Downing,26.0,Left Midfield,Aston Villa,Summer,22.8,2011/2012,eng ENG,0.6818713450292397,3.0,5.0,1.0,0.797514619883041,9.0,8.0,0.0
+Liverpool FC,Jordan Henderson,21.0,Central Midfield,Sunderland AFC,Summer,18.0,2011/2012,eng ENG,0.6519005847953215,29.0,45.0,37.0,0.5305068226120858,4.0,9.0,5.0
+Liverpool FC,Charlie Adam,25.0,Central Midfield,Blackpool FC,Summer,8.4,2011/2012,sct SCO,0.6336257309941521,2.0,6.0,7.0,0.8915204678362573,12.0,8.0,11.0
+Liverpool FC,José Enrique,25.0,Left-Back,Newcastle United,Summer,8.0,2011/2012,es ESP,0.4430555555555555,2.0,8.0,3.0,0.6538011695906433,0.0,3.0,7.0
+Spurs,Scott Parker,30.0,Central Midfield,West Ham United,Summer,5.75,2011/2012,eng ENG,0.5599415204678362,0.0,2.0,11.0,0.6660818713450293,9.0,8.0,30.0
+Spurs,Emmanuel Adebayor,27.0,Centre-Forward,Man City,Summer,2.25,2011/2012,tg TOG,0.5148391812865497,35.0,17.0,8.0,0.3583333333333333,15.0,3.0,1.0
+Blackburn Rovers,Yakubu Aiyegbeni,28.0,Centre-Forward,Everton,Summer,1.7,2011/2012,ng NGA,0.7140350877192982,17.0,2.0,2.0,0.3679093567251462,25.0,8.0,5.0
+Man City,Samir Nasri,24.0,Attacking Midfield,Arsenal FC,Summer,27.5,2011/2012,fr FRA,0.4176413255360624,18.0,30.0,17.0,0.4934210526315789,18.0,7.0,10.0
+Man City,Gaël Clichy,25.0,Left-Back,Arsenal FC,Summer,7.75,2011/2012,fr FRA,0.5726120857699805,2.0,10.0,11.0,0.5586988304093568,1.0,8.0,26.0
+Sunderland AFC,John O'Shea,30.0,Centre-Back,Man Utd,Summer,4.5,2011/2012,ie IRL,0.7692007797270956,3.0,1.0,22.0,0.5064327485380117,10.0,12.0,13.0
+Sunderland AFC,Wes Brown,31.0,Centre-Back,Man Utd,Summer,1.5,2011/2012,eng ENG,0.462938596491228,1.0,1.0,14.0,0.4118083670715249,3.0,8.0,34.0
+Sunderland AFC,Nicklas Bendtner,23.0,Centre-Forward,Arsenal FC,Summer,1.0,2011/2012,dk DEN,0.6505847953216374,8.0,5.0,2.0,0.2256335282651071,24.0,11.0,8.0
+Bolton,David N'Gog,22.0,Centre-Forward,Liverpool FC,Summer,4.5,2011/2012,fr FRA,0.593859649122807,3.0,4.0,2.0,0.234990253411306,9.0,1.0,3.0
+Bolton,Chris Eagles,25.0,Right Winger,Burnley FC,Summer,1.7,2011/2012,eng ENG,0.6692982456140351,4.0,6.0,1.0,0.577485380116959,2.0,3.0,2.0
+Bolton,Tyrone Mears,28.0,Right-Back,Burnley FC,Summer,1.7,2011/2012,jm JAM,0.0263157894736842,0.0,0.0,0.0,1.0,0.0,4.0,7.0
+Aston Villa,Alan Hutton,26.0,Right-Back,Spurs,Summer,4.5,2011/2012,sct SCO,0.7157894736842105,1.0,3.0,23.0,0.2736842105263157,2.0,2.0,7.0
+Aston Villa,Shay Given,35.0,Goalkeeper,Man City,Summer,3.75,2011/2012,ie IRL,0.3193957115009746,0.0,0.0,2.0,0.6552631578947368,0.0,0.0,2.0
+Aston Villa,Jermaine Jenas,28.0,Central Midfield,Spurs,Summer,1.0,2011/2012,eng ENG,0.031578947368421,0.0,0.0,0.0,0.5009189640768589,21.0,18.0,24.0
+Swansea City,Wayne Routledge,26.0,Left Winger,Newcastle United,Summer,3.25,2011/2012,eng ENG,0.5433166248955723,16.0,15.0,11.0,0.2912280701754386,0.0,1.0,0.0
+QPR,Bobby Zamora,31.0,Centre-Forward,Fulham FC,Winter,5.8,2011/2012,eng ENG,0.4160818713450292,9.0,5.0,8.0,0.501827485380117,20.0,16.0,8.0
+QPR,Nedum Onuoha,25.0,Centre-Back,Man City,Winter,4.7,2011/2012,eng ENG,0.4857699805068226,0.0,1.0,6.0,0.28375104427736,3.0,3.0,2.0
+West Brom,Keith Andrews,31.0,Central Midfield,Blackburn Rovers,Winter,0.058,2011/2012,ie IRL,0.2307017543859649,2.0,1.0,2.0,0.4614035087719297,5.0,0.0,10.0
+Chelsea FC,Gary Cahill,26.0,Centre-Back,Bolton,Winter,8.4,2011/2012,eng ENG,0.5865497076023392,13.0,5.0,19.0,0.6771929824561403,13.0,5.0,15.0
+Blackburn Rovers,Bradley Orr,29.0,Centre-Back,QPR,Winter,1.8,2011/2012,eng ENG,0.2795321637426901,0.0,2.0,2.0,0.0973684210526315,0.0,0.0,0.0
+Man Utd,Robin van Persie,29.0,Centre-Forward,Arsenal FC,Summer,30.7,2012/2013,nl NED,0.6637426900584794,48.0,14.0,13.0,0.4858187134502923,96.0,39.0,38.0
+Fulham FC,Dimitar Berbatov,31.0,Centre-Forward,Man Utd,Summer,5.0,2012/2013,bg BUL,0.6441520467836257,19.0,4.0,4.0,0.5380847953216374,48.0,18.0,4.0
+Fulham FC,Kieran Richardson,27.0,Left-Back,Sunderland AFC,Summer,2.5,2012/2013,eng ENG,0.4666666666666667,5.0,3.0,7.0,0.5172514619883041,14.0,10.0,38.0
+Aston Villa,Joe Bennett,22.0,Left-Back,Middlesbrough FC,Summer,3.15,2012/2013,eng ENG,0.3070175438596491,0.0,2.0,6.0,0.0131578947368421,0.0,0.0,0.0
+West Ham United,James Collins,28.0,Centre-Back,Aston Villa,Summer,3.2,2012/2013,wls WAL,0.3933280170122275,6.0,1.0,40.0,0.780019493177388,5.0,0.0,14.0
+West Ham United,Andy Carroll,23.0,Centre-Forward,Liverpool FC,Summer,1.25,2012/2013,eng ENG,0.3346282372598161,33.0,12.0,23.0,0.2474658869395711,6.0,2.0,7.0
+Sunderland AFC,Steven Fletcher,25.0,Centre-Forward,Wolves,Summer,15.2,2012/2013,sct SCO,0.4676900584795321,23.0,3.0,8.0,0.5467836257309941,22.0,4.0,3.0
+Sunderland AFC,Adam Johnson,25.0,Right Winger,Man City,Summer,12.6,2012/2013,eng ENG,0.6278508771929825,19.0,17.0,10.0,0.3759259259259259,11.0,12.0,4.0
+Man City,Jack Rodwell,21.0,Defensive Midfield,Everton,Summer,15.0,2012/2013,eng ENG,0.0891812865497076,2.0,0.0,2.0,0.2776608187134503,4.0,3.0,12.0
+Man City,Scott Sinclair,23.0,Left Winger,Swansea City,Summer,7.8,2012/2013,eng ENG,0.0296783625730993,0.0,0.0,0.0,0.458187134502924,9.0,4.0,1.0
+Spurs,Mousa Dembélé,25.0,Central Midfield,Fulham FC,Summer,19.0,2012/2013,be BEL,0.4958228905597326,7.0,7.0,25.0,0.4903508771929825,5.0,5.0,6.0
+Spurs,Clint Dempsey,29.0,Second Striker,Fulham FC,Summer,7.5,2012/2013,us USA,0.5827485380116959,7.0,4.0,4.0,0.6129072681704261,50.0,15.0,17.0
+Spurs,Emmanuel Adebayor,28.0,Centre-Forward,Man City,Summer,6.4,2012/2013,tg TOG,0.5148391812865497,35.0,17.0,8.0,0.3583333333333333,15.0,3.0,1.0
+Liverpool FC,Joe Allen,22.0,Central Midfield,Swansea City,Summer,19.0,2012/2013,wls WAL,0.4070175438596491,4.0,1.0,9.0,0.8464912280701754,4.0,2.0,4.0
+Norwich City,Sébastien Bassong,26.0,Centre-Back,Spurs,Summer,3.0,2012/2013,cm CMR,0.7920077972709553,4.0,2.0,8.0,0.3267056530214425,2.0,0.0,2.0
+Norwich City,Michael Turner,28.0,Centre-Back,Sunderland AFC,Summer,1.9,2012/2013,eng ENG,0.6090643274853802,3.0,0.0,13.0,0.5818713450292398,1.0,0.0,17.0
+Norwich City,Mark Bunn,27.0,Goalkeeper,Blackburn Rovers,Summer,1.25,2012/2013,eng ENG,0.541812865497076,0.0,0.0,3.0,0.0723684210526315,0.0,0.0,1.0
+Stoke City,Charlie Adam,26.0,Central Midfield,Liverpool FC,Summer,6.2,2012/2013,sct SCO,0.3896686159844054,20.0,11.0,38.0,0.6336257309941521,2.0,6.0,7.0
+Stoke City,Steven Nzonzi,23.0,Defensive Midfield,Blackburn Rovers,Summer,4.4,2012/2013,fr FRA,0.928167641325536,6.0,3.0,18.0,0.6772904483430798,5.0,5.0,18.0
+Stoke City,Michael Kightly,26.0,Left Winger,Wolves,Summer,3.5,2012/2013,eng ENG,0.347953216374269,3.0,1.0,2.0,0.1731968810916179,3.0,1.0,7.0
+QPR,Junior Hoilett,22.0,Left Winger,Blackburn Rovers,Summer,3.75,2012/2013,ca CAN,0.3423976608187135,1.0,1.0,3.0,0.5257309941520468,12.0,6.0,7.0
+Reading FC,Adrian Mariappa,25.0,Centre-Back,Watford FC,Summer,3.8,2012/2013,jm JAM,0.7631578947368421,1.0,0.0,5.0,0.4543274853801169,0.0,0.0,16.0
+Chelsea FC,Demba Ba,27.0,Centre-Forward,Newcastle United,Winter,8.5,2012/2013,sn SEN,0.2247076023391812,7.0,1.0,0.0,0.6410818713450293,29.0,2.0,1.0
+Man Utd,Wilfried Zaha,20.0,Left Winger,Crystal Palace,Winter,11.75,2012/2013,ci CIV,0.0087719298245614,0.0,0.0,0.0,0.7800194931773878,68.0,27.0,52.0
+Sunderland AFC,Danny Graham,27.0,Centre-Forward,Swansea City,Winter,5.8,2012/2013,eng ENG,0.1888888888888888,1.0,1.0,0.0,0.5469298245614035,15.0,3.0,0.0
+Liverpool FC,Daniel Sturridge,23.0,Centre-Forward,Chelsea FC,Winter,15.0,2012/2013,eng ENG,0.2839181286549707,51.0,15.0,6.0,0.2103070175438596,13.0,3.0,3.0
+Reading FC,Stephen Kelly,29.0,Right-Back,Fulham FC,Winter,1.5,2012/2013,ie IRL,0.4157894736842105,0.0,0.0,2.0,0.2523391812865497,0.0,0.0,1.0
+Man Utd,Marouane Fellaini,25.0,Central Midfield,Everton,Summer,32.4,2013/2014,be BEL,0.3432261208576998,12.0,2.0,22.0,0.570906432748538,25.0,14.0,37.0
+Liverpool FC,Simon Mignolet,25.0,Goalkeeper,Sunderland AFC,Summer,10.6,2013/2014,be BEL,0.8149122807017545,0.0,0.0,5.0,0.7856725146198831,0.0,0.0,2.0
+Liverpool FC,Victor Moses,22.0,Right Midfield,Chelsea FC,Summer,1.2,2013/2014,ng NGA,0.1906432748538011,1.0,0.0,1.0,0.4200292397660818,7.0,6.0,7.0
+West Brom,Stéphane Sessègnon,29.0,Attacking Midfield,Sunderland AFC,Summer,7.0,2013/2014,bj BEN,0.5326510721247564,8.0,6.0,6.0,0.5344298245614034,17.0,15.0,8.0
+West Brom,Victor Anichebe,25.0,Centre-Forward,Everton,Summer,5.9,2013/2014,ng NGA,0.2557504873294347,6.0,4.0,3.0,0.1857699805068225,18.0,9.0,15.0
+West Brom,Scott Sinclair,24.0,Left Winger,Man City,Summer,2.3,2013/2014,eng ENG,0.0880116959064327,0.0,0.0,0.0,0.0296783625730993,0.0,0.0,0.0
+Swansea City,Jonjo Shelvey,21.0,Central Midfield,Liverpool FC,Summer,5.8,2013/2014,eng ENG,0.597953216374269,10.0,13.0,19.0,0.1942495126705652,2.0,1.0,7.0
+West Ham United,Andy Carroll,24.0,Centre-Forward,Liverpool FC,Summer,17.5,2013/2014,eng ENG,0.3346282372598161,33.0,12.0,23.0,0.2474658869395711,6.0,2.0,7.0
+West Ham United,Stewart Downing,29.0,Left Midfield,Liverpool FC,Summer,5.8,2013/2014,eng ENG,0.8507309941520468,7.0,10.0,3.0,0.6818713450292397,3.0,5.0,1.0
+Norwich City,Martin Olsson,25.0,Left-Back,Blackburn Rovers,Summer,2.9,2013/2014,se SWE,0.6929824561403508,1.0,3.0,4.0,0.3973099415204678,2.0,3.0,13.0
+Fulham FC,Scott Parker,32.0,Central Midfield,Spurs,Summer,4.3,2013/2014,eng ENG,0.6763157894736842,2.0,1.0,7.0,0.5599415204678362,0.0,2.0,11.0
+Fulham FC,Darren Bent,29.0,Centre-Forward,Aston Villa,Summer,2.4,2013/2014,eng ENG,0.3646198830409357,3.0,2.0,0.0,0.3036549707602339,21.0,2.0,2.0
+Stoke City,Stephen Ireland,27.0,Attacking Midfield,Aston Villa,Summer,0.6,2013/2014,ie IRL,0.1971491228070175,2.0,6.0,9.0,0.2801169590643274,1.0,4.0,4.0
+Newcastle United,Loïc Rémy,26.0,Centre-Forward,QPR,Summer,2.3,2013/2014,fr FRA,0.6134502923976608,14.0,3.0,3.0,0.1929824561403508,6.0,0.0,1.0
+Sunderland AFC,Vito Mannone,25.0,Goalkeeper,Arsenal FC,Summer,2.4,2013/2014,it ITA,0.437719298245614,0.0,0.0,2.0,0.131578947368421,0.0,0.0,1.0
+Sunderland AFC,Fabio Borini,22.0,Left Winger,Liverpool FC,Summer,1.8,2013/2014,it ITA,0.5627680311890838,14.0,4.0,17.0,0.1330409356725146,2.0,1.0,4.0
+Cardiff City,Steven Caulker,21.0,Centre-Back,Spurs,Summer,9.15,2013/2014,sl SLE,1.0,5.0,0.0,1.0,0.4605263157894737,2.0,1.0,0.0
+Cardiff City,Peter Odemwingie,32.0,Right Winger,West Brom,Summer,2.9,2013/2014,ng NGA,0.2318713450292397,1.0,0.0,1.0,0.6086744639376218,30.0,12.0,7.0
+Hull City,Tom Huddlestone,26.0,Defensive Midfield,Spurs,Summer,5.8,2013/2014,eng ENG,0.7515594541910332,3.0,4.0,21.0,0.3668494152046783,8.0,20.0,24.0
+Hull City,Ahmed Elmohamady,25.0,Right-Back,Sunderland AFC,Summer,2.3,2013/2014,eg EGY,0.9033138401559454,4.0,9.0,11.0,0.3181286549707602,1.0,3.0,1.0
+Hull City,Jake Livermore,23.0,Defensive Midfield,Spurs,Summer,0.3,2013/2014,eng ENG,0.7555555555555555,5.0,5.0,20.0,0.1243664717348927,0.0,1.0,3.0
+Crystal Palace,Adrian Mariappa,26.0,Centre-Back,Reading FC,Summer,3.5,2013/2014,jm JAM,0.3129629629629629,1.0,1.0,9.0,0.7631578947368421,1.0,0.0,5.0
+Crystal Palace,Barry Bannan,23.0,Central Midfield,Aston Villa,Summer,2.1,2013/2014,sct SCO,0.1659356725146198,1.0,1.0,2.0,0.3437621832358674,1.0,4.0,6.0
+Crystal Palace,Marouane Chamakh,29.0,Centre-Forward,Arsenal FC,Summer,1.2,2013/2014,ma MAR,0.3606237816764132,7.0,2.0,14.0,0.2960526315789473,8.0,4.0,5.0
+Crystal Palace,Jimmy Kébé,29.0,Right Winger,Reading FC,Summer,0.88,2013/2014,ml MLI,0.0561403508771929,0.0,0.0,0.0,0.2160818713450292,5.0,1.0,1.0
+Man Utd,Juan Mata,25.0,Attacking Midfield,Chelsea FC,Winter,44.73,2013/2014,es ESP,0.4140350877192982,34.0,27.0,16.0,0.5914230019493177,18.0,27.0,5.0
+Cardiff City,Wilfried Zaha,21.0,Left Winger,Man Utd,Winter,1.8,2013/2014,ci CIV,0.171345029239766,0.0,1.0,1.0,0.0087719298245614,0.0,0.0,0.0
+Hull City,Shane Long,26.0,Centre-Forward,West Brom,Winter,8.5,2013/2014,ie IRL,0.3514619883040936,4.0,1.0,0.0,0.5235867446393762,19.0,6.0,7.0
+Crystal Palace,Wayne Hennessey,27.0,Goalkeeper,Wolves,Winter,3.65,2013/2014,wls WAL,0.4094402673350042,0.0,0.0,3.0,0.6228070175438596,0.0,1.0,1.0
+Crystal Palace,Jason Puncheon,27.0,Central Midfield,Southampton,Winter,2.2,2013/2014,eng ENG,0.5700292397660819,15.0,17.0,28.0,0.6014619883040936,6.0,1.0,1.0
+Crystal Palace,Scott Dann,26.0,Centre-Back,Blackburn Rovers,Winter,1.83,2013/2014,eng ENG,0.5058845029239766,13.0,7.0,25.0,0.7023391812865497,1.0,1.0,2.0
+Arsenal FC,Calum Chambers,19.0,Centre-Back,Southampton,Summer,20.23,2014/2015,eng ENG,0.2036758563074352,3.0,3.0,17.0,0.4798245614035087,0.0,0.0,0.0
+Arsenal FC,Danny Welbeck,23.0,Centre-Forward,Man Utd,Summer,20.0,2014/2015,eng ENG,0.253391812865497,16.0,11.0,5.0,0.2474658869395711,20.0,9.0,6.0
+Arsenal FC,Mathieu Debuchy,28.0,Right-Back,Newcastle United,Summer,15.0,2014/2015,fr FRA,0.0937621832358674,1.0,0.0,2.0,0.5347953216374269,1.0,3.0,13.0
+Aston Villa,Kieran Richardson,29.0,Left-Back,Fulham FC,Summer,0.75,2014/2015,eng ENG,0.3023391812865497,0.0,2.0,7.0,0.4666666666666667,5.0,3.0,7.0
+Burnley FC,George Boyd,28.0,Left Winger,Hull City,Summer,3.8,2014/2015,sct SCO,0.8539473684210526,7.0,3.0,10.0,0.1785087719298245,2.0,2.0,2.0
+Burnley FC,Michael Kightly,28.0,Left Winger,Stoke City,Summer,1.9,2014/2015,eng ENG,0.1538011695906432,1.0,2.0,3.0,0.347953216374269,3.0,1.0,2.0
+Burnley FC,Stephen Ward,28.0,Left-Back,Wolves,Summer,0.63,2014/2015,ie IRL,0.4782163742690058,2.0,2.0,10.0,0.7202729044834308,4.0,3.0,8.0
+Burnley FC,Marvin Sordell,23.0,Centre-Forward,Bolton,Summer,0.63,2014/2015,eng ENG,0.0845029239766081,0.0,0.0,2.0,0.0125730994152046,0.0,0.0,0.0
+Chelsea FC,Loïc Rémy,27.0,Centre-Forward,QPR,Summer,13.2,2014/2015,fr FRA,0.1407894736842105,8.0,0.0,0.0,0.1929824561403508,6.0,0.0,1.0
+Crystal Palace,Zeki Fryers,21.0,Left-Back,Spurs,Summer,3.8,2014/2015,eng ENG,0.0280701754385964,0.0,0.0,0.0,0.117251461988304,0.0,0.0,0.0
+Crystal Palace,Martin Kelly,24.0,Right-Back,Liverpool FC,Summer,2.0,2014/2015,eng ENG,0.3977443609022555,0.0,4.0,12.0,0.1339181286549707,0.0,1.0,2.0
+Crystal Palace,Fraizer Campbell,26.0,Centre-Forward,Cardiff City,Summer,1.14,2014/2015,eng ENG,0.1655945419103313,5.0,0.0,6.0,0.8076023391812865,6.0,2.0,4.0
+Hull City,Robert Snodgrass,26.0,Right Winger,Norwich City,Summer,7.5,2014/2015,sct SCO,0.2557017543859649,7.0,2.0,2.0,0.821345029239766,12.0,8.0,14.0
+Hull City,Jake Livermore,24.0,Defensive Midfield,Spurs,Summer,7.0,2014/2015,eng ENG,0.7555555555555555,5.0,5.0,20.0,0.1243664717348927,0.0,1.0,3.0
+Hull City,Mohamed Diamé,27.0,Defensive Midfield,West Ham United,Summer,4.4,2014/2015,sn SEN,0.2564327485380117,4.0,0.0,2.0,0.4998050682261208,7.0,2.0,7.0
+Hull City,Michael Dawson,30.0,Centre-Back,Spurs,Summer,4.4,2014/2015,eng ENG,0.6073099415204679,4.0,0.0,11.0,0.5762280701754385,7.0,5.0,47.0
+Leicester City,Leonardo Ulloa,27.0,Centre-Forward,Brighton,Summer,10.1,2014/2015,ar ARG,0.2815058479532163,18.0,4.0,3.0,0.0780701754385965,1.0,0.0,0.0
+Leicester City,Danny Simpson,27.0,Right-Back,QPR,Summer,2.5,2014/2015,eng ENG,0.5485964912280702,0.0,1.0,25.0,0.0195906432748538,0.0,0.0,0.0
+Liverpool FC,Adam Lallana,26.0,Attacking Midfield,Southampton,Summer,31.0,2014/2015,eng ENG,0.3602339181286549,18.0,16.0,12.0,0.7764619883040935,12.0,11.0,5.0
+Liverpool FC,Dejan Lovren,25.0,Centre-Back,Southampton,Summer,25.3,2014/2015,hr CRO,0.5056530214424951,5.0,3.0,18.0,0.8149122807017544,2.0,1.0,7.0
+Liverpool FC,Rickie Lambert,32.0,Centre-Forward,Southampton,Summer,5.5,2014/2015,eng ENG,0.2453216374269005,2.0,2.0,2.0,0.8676900584795322,28.0,15.0,4.0
+Man Utd,Luke Shaw,18.0,Left-Back,Southampton,Summer,37.5,2014/2015,eng ENG,0.4606887589343729,3.0,16.0,49.0,0.7213450292397661,0.0,1.0,6.0
+QPR,Steven Caulker,22.0,Centre-Back,Cardiff City,Summer,10.75,2014/2015,sl SLE,0.881578947368421,1.0,0.0,1.0,1.0,5.0,0.0,1.0
+QPR,Leroy Fer,24.0,Defensive Midfield,Norwich City,Summer,10.0,2014/2015,nl NED,0.6900584795321637,6.0,2.0,4.0,0.7198830409356726,3.0,1.0,7.0
+QPR,Jordon Mutch,22.0,Central Midfield,Cardiff City,Summer,7.57,2014/2015,eng ENG,0.1520467836257309,0.0,1.0,3.0,0.6625730994152047,7.0,5.0,5.0
+QPR,Sandro,25.0,Defensive Midfield,Spurs,Summer,7.5,2014/2015,br BRA,0.3535087719298245,1.0,0.0,6.0,0.3720760233918129,3.0,2.0,20.0
+QPR,Alex McCarthy,24.0,Goalkeeper,Reading FC,Summer,3.8,2014/2015,eng ENG,0.069298245614035,0.0,0.0,0.0,0.3421052631578947,0.0,0.0,0.0
+QPR,Jack Robinson,20.0,Centre-Back,Liverpool FC,Summer,1.25,2014/2015,,,,,,0.0220760233918128,0.0,0.0,1.0
+Sunderland AFC,Jack Rodwell,23.0,Defensive Midfield,Man City,Summer,12.5,2014/2015,eng ENG,0.4038986354775828,4.0,1.0,14.0,0.0891812865497076,2.0,0.0,2.0
+Sunderland AFC,Patrick van Aanholt,23.0,Left-Back,Chelsea FC,Summer,1.9,2014/2015,nl NED,0.6882066276803119,7.0,9.0,8.0,0.0102339181286549,0.0,0.0,0.0
+Swansea City,Marvin Emnes,26.0,Centre-Forward,Middlesbrough FC,Summer,1.7,2014/2015,nl NED,0.0700779727095516,1.0,0.0,4.0,0.1146198830409356,0.0,0.0,0.0
+Spurs,Ben Davies,21.0,Left-Back,Swansea City,Summer,12.65,2014/2015,wls WAL,0.5099415204678363,6.0,16.0,29.0,0.8663742690058479,3.0,3.0,8.0
+Spurs,Michel Vorm,30.0,Goalkeeper,Swansea City,Summer,5.7,2014/2015,nl NED,0.0662573099415204,0.0,0.0,0.0,0.7774853801169591,0.0,0.0,6.0
+Crystal Palace,Jordon Mutch,23.0,Central Midfield,QPR,Winter,6.34,2014/2015,eng ENG,0.11588693957115,0.0,0.0,2.0,0.1520467836257309,0.0,1.0,3.0
+Crystal Palace,Wilfried Zaha,22.0,Left Winger,Man Utd,Winter,3.8,2014/2015,ci CIV,0.7800194931773878,68.0,27.0,52.0,0.0087719298245614,0.0,0.0,0.0
+Man City,Wilfried Bony,26.0,Centre-Forward,Swansea City,Winter,32.3,2014/2015,ci CIV,0.223391812865497,6.0,4.0,2.0,0.4360623781676413,27.0,6.0,10.0
+Swansea City,Kyle Naughton,26.0,Right-Back,Spurs,Winter,6.6,2014/2015,eng ENG,0.6117690058479532,1.0,6.0,10.0,0.2288742690058479,0.0,1.0,8.0
+Swansea City,Jack Cork,25.0,Defensive Midfield,Southampton,Winter,4.0,2014/2015,eng ENG,0.5947368421052631,2.0,2.0,11.0,0.4521442495126705,2.0,1.0,6.0
+Man City,Raheem Sterling,20.0,Left Winger,Liverpool FC,Summer,63.7,2015/2016,eng ENG,0.714327485380117,91.0,43.0,27.0,0.5146929824561404,18.0,14.0,9.0
+Man City,Fabian Delph,25.0,Central Midfield,Aston Villa,Summer,11.5,2015/2016,eng ENG,0.2516812865497075,4.0,3.0,5.0,0.4236842105263158,3.0,5.0,23.0
+Man City,Patrick Roberts,18.0,Right Winger,Fulham FC,Summer,7.2,2015/2016,eng ENG,0.0014619883040935,0.0,0.0,0.0,0.0134502923976608,0.0,0.0,1.0
+Man Utd,Morgan Schneiderlin,25.0,Defensive Midfield,Southampton,Summer,35.0,2015/2016,fr FRA,0.3244152046783625,1.0,0.0,3.0,0.7952241715399611,11.0,2.0,24.0
+Spurs,Kieran Trippier,24.0,Right-Back,Burnley FC,Summer,4.9,2015/2016,eng ENG,0.3813596491228069,2.0,14.0,5.0,0.9985380116959064,0.0,4.0,2.0
+Liverpool FC,Christian Benteke,24.0,Centre-Forward,Aston Villa,Summer,46.5,2015/2016,be BEL,0.4470760233918128,9.0,3.0,2.0,0.7137426900584796,42.0,8.0,16.0
+Liverpool FC,Nathaniel Clyne,24.0,Right-Back,Southampton,Summer,17.7,2015/2016,eng ENG,0.4808479532163742,1.0,2.0,7.0,0.7823586744639376,3.0,7.0,9.0
+Liverpool FC,Danny Ings,22.0,Centre-Forward,Burnley FC,Summer,8.3,2015/2016,eng ENG,0.0887426900584795,3.0,0.0,1.0,0.8842105263157894,11.0,4.0,6.0
+Crystal Palace,Connor Wickham,22.0,Centre-Forward,Sunderland AFC,Summer,10.0,2015/2016,eng ENG,0.1385233918128654,8.0,5.0,2.0,0.3357456140350877,11.0,2.0,9.0
+Crystal Palace,Alex McCarthy,25.0,Goalkeeper,QPR,Summer,4.9,2015/2016,eng ENG,0.1842105263157894,0.0,0.0,0.0,0.069298245614035,0.0,0.0,0.0
+West Brom,James Chester,26.0,Centre-Back,Hull City,Summer,11.3,2015/2016,wls WAL,0.2818713450292398,0.0,0.0,4.0,0.5466374269005848,3.0,0.0,6.0
+West Brom,Jonny Evans,27.0,Centre-Back,Man Utd,Summer,8.3,2015/2016,nir NIR,0.730701754385965,5.0,5.0,19.0,0.4512531328320802,4.0,4.0,17.0
+West Brom,Rickie Lambert,33.0,Centre-Forward,Liverpool FC,Summer,4.2,2015/2016,eng ENG,0.0932748538011695,1.0,1.0,2.0,0.2453216374269005,2.0,2.0,2.0
+Leicester City,Robert Huth,30.0,Centre-Back,Stoke City,Summer,4.2,2015/2016,de GER,0.707017543859649,6.0,1.0,19.0,0.6290448343079922,13.0,4.0,28.0
+Sunderland AFC,Fabio Borini,24.0,Left Winger,Liverpool FC,Summer,10.7,2015/2016,it ITA,0.5627680311890838,14.0,4.0,17.0,0.1330409356725146,2.0,1.0,4.0
+Sunderland AFC,Younès Kaboul,29.0,Centre-Back,Spurs,Summer,4.3,2015/2016,fr FRA,0.3068713450292397,0.0,1.0,5.0,0.3738095238095238,6.0,3.0,16.0
+Sunderland AFC,Sebastián Coates,24.0,Centre-Back,Liverpool FC,Summer,2.8,2015/2016,uy URU,0.2999999999999999,0.0,3.0,5.0,0.1057017543859648,1.0,0.0,1.0
+Aston Villa,Scott Sinclair,26.0,Left Winger,Man City,Summer,3.5,2015/2016,eng ENG,0.3008771929824561,3.0,0.0,0.0,0.0296783625730993,0.0,0.0,0.0
+Aston Villa,Joleon Lescott,33.0,Centre-Back,West Brom,Summer,1.4,2015/2016,eng ENG,0.7687134502923977,1.0,0.0,2.0,0.4736842105263157,1.0,2.0,3.0
+AFC Bournemouth,Glenn Murray,31.0,Centre-Forward,Crystal Palace,Summer,5.4,2015/2016,eng ENG,0.1976608187134503,3.0,0.0,2.0,0.1361598440545808,8.0,4.0,6.0
+Watford FC,Étienne Capoue,26.0,Defensive Midfield,Spurs,Summer,8.9,2015/2016,fr FRA,0.7678362573099415,9.0,8.0,38.0,0.2314327485380116,1.0,0.0,3.0
+Norwich City,Robbie Brady,23.0,Left Midfield,Hull City,Summer,9.9,2015/2016,ie IRL,0.8725146198830409,3.0,2.0,3.0,0.3871345029239765,3.0,3.0,4.0
+Norwich City,Graham Dorrans,28.0,Central Midfield,West Brom,Summer,4.1,2015/2016,sct SCO,0.3763157894736842,0.0,1.0,2.0,0.3804093567251461,8.0,9.0,19.0
+Norwich City,Andre Wisdom,22.0,Right-Back,Liverpool FC,Summer,1.8,2015/2016,eng ENG,0.2409356725146199,0.0,0.0,1.0,0.1599415204678362,0.0,1.0,1.0
+Newcastle United,Jonjo Shelvey,23.0,Central Midfield,Swansea City,Winter,16.0,2015/2016,eng ENG,0.460484544695071,11.0,13.0,28.0,0.597953216374269,10.0,13.0,19.0
+Newcastle United,Andros Townsend,24.0,Right Winger,Spurs,Winter,15.7,2015/2016,eng ENG,0.3178362573099415,4.0,2.0,0.0,0.1524122807017543,3.0,2.0,4.0
+AFC Bournemouth,Lewis Grabban,27.0,Centre-Forward,Norwich City,Winter,9.35,2015/2016,eng ENG,0.0931286549707602,0.0,0.0,2.0,0.0730994152046783,1.0,0.0,0.0
+Norwich City,Steven Naismith,29.0,Second Striker,Everton,Winter,11.0,2015/2016,sct SCO,0.2549707602339181,1.0,1.0,2.0,0.3812134502923976,19.0,4.0,10.0
+Spurs,Moussa Sissoko,27.0,Central Midfield,Newcastle United,Summer,35.0,2016/2017,fr FRA,0.5066666666666666,3.0,7.0,19.0,0.7562134502923976,11.0,17.0,24.0
+Spurs,Victor Wanyama,25.0,Defensive Midfield,Southampton,Summer,14.4,2016/2017,ke KEN,0.32156432748538,6.0,1.0,15.0,0.6351851851851852,4.0,2.0,26.0
+Man City,John Stones,22.0,Centre-Back,Everton,Summer,55.6,2016/2017,eng ENG,0.4636591478696741,7.0,2.0,5.0,0.6037037037037037,1.0,0.0,5.0
+West Ham United,André Ayew,26.0,Left Winger,Swansea City,Summer,24.1,2016/2017,gh GHA,0.3410818713450292,9.0,5.0,3.0,0.5665204678362573,12.0,4.0,8.0
+Liverpool FC,Sadio Mané,24.0,Left Winger,Southampton,Summer,41.2,2016/2017,sn SEN,0.7737816764132553,90.0,29.0,21.0,0.691374269005848,21.0,9.0,12.0
+Liverpool FC,Georginio Wijnaldum,25.0,Central Midfield,Newcastle United,Summer,27.5,2016/2017,nl NED,0.8163742690058479,16.0,10.0,7.0,0.9248538011695906,11.0,5.0,1.0
+Stoke City,Joe Allen,26.0,Central Midfield,Liverpool FC,Summer,15.5,2016/2017,wls WAL,0.887280701754386,8.0,8.0,17.0,0.4070175438596491,4.0,1.0,9.0
+Stoke City,Wilfried Bony,27.0,Centre-Forward,Man City,Summer,2.35,2016/2017,ci CIV,0.2,2.0,0.0,1.0,0.223391812865497,6.0,4.0,2.0
+Chelsea FC,N'Golo Kanté,25.0,Defensive Midfield,Leicester City,Summer,35.8,2016/2017,fr FRA,0.6429824561403509,11.0,13.0,29.0,0.8836257309941521,1.0,4.0,3.0
+Swansea City,Leroy Fer,26.0,Defensive Midfield,QPR,Summer,5.6,2016/2017,nl NED,0.4441520467836257,7.0,5.0,16.0,0.6900584795321637,6.0,2.0,4.0
+Watford FC,Daryl Janmaat,27.0,Centre-Back,Newcastle United,Summer,8.9,2016/2017,nl NED,0.4067251461988304,5.0,4.0,9.0,0.8776315789473684,3.0,10.0,16.0
+Watford FC,Younès Kaboul,30.0,Centre-Back,Sunderland AFC,Summer,4.0,2016/2017,fr FRA,0.2880116959064328,2.0,0.0,2.0,0.3068713450292397,0.0,1.0,5.0
+West Brom,Nacer Chadli,27.0,Left Winger,Spurs,Summer,15.2,2016/2017,be BEL,0.35,6.0,4.0,3.0,0.4684210526315789,15.0,10.0,5.0
+West Brom,Matt Phillips,25.0,Right Winger,QPR,Summer,6.5,2016/2017,sct SCO,0.5947368421052631,8.0,11.0,6.0,0.5324561403508772,3.0,8.0,1.0
+West Brom,Allan Nyom,28.0,Right-Back,Watford FC,Summer,4.7,2016/2017,cm CMR,0.723391812865497,0.0,2.0,15.0,0.7219298245614035,0.0,1.0,8.0
+Crystal Palace,Christian Benteke,25.0,Centre-Forward,Liverpool FC,Summer,31.2,2016/2017,be BEL,0.5071637426900585,35.0,11.0,29.0,0.4470760233918128,9.0,3.0,2.0
+Crystal Palace,Andros Townsend,24.0,Right Winger,Newcastle United,Summer,15.6,2016/2017,eng ENG,0.7134502923976609,13.0,21.0,8.0,0.3178362573099415,4.0,2.0,0.0
+Crystal Palace,James Tomkins,27.0,Centre-Back,West Ham United,Summer,11.7,2016/2017,eng ENG,0.4152464494569757,10.0,2.0,29.0,0.4820906432748538,4.0,5.0,25.0
+Crystal Palace,Loïc Rémy,29.0,Centre-Forward,Chelsea FC,Summer,1.0,2016/2017,fr FRA,0.0391812865497076,0.0,0.0,0.0,0.1407894736842105,8.0,0.0,0.0
+AFC Bournemouth,Jordon Ibe,20.0,Right Winger,Liverpool FC,Summer,18.0,2016/2017,eng ENG,0.2848684210526315,3.0,7.0,2.0,0.1369152046783625,1.0,3.0,0.0
+AFC Bournemouth,Brad Smith,22.0,Left-Back,Liverpool FC,Summer,3.6,2016/2017,au AUS,0.0850877192982456,0.0,0.0,1.0,0.046345029239766,0.0,0.0,3.0
+AFC Bournemouth,Jack Wilshere,24.0,Central Midfield,Arsenal FC,Summer,2.35,2016/2017,eng ENG,0.5584795321637427,0.0,2.0,3.0,0.2652696556205328,7.0,14.0,30.0
+AFC Bournemouth,Marc Wilson,28.0,Centre-Back,Stoke City,Summer,2.3,2016/2017,,,,,,0.5517056530214425,1.0,2.0,31.0
+Sunderland AFC,Paddy McNair,21.0,Centre-Back,Man Utd,Summer,5.25,2016/2017,nir NIR,0.1032163742690058,0.0,0.0,0.0,0.1960526315789473,0.0,0.0,2.0
+Middlesbrough FC,Adama Traoré,20.0,Right Winger,Aston Villa,Summer,8.25,2016/2017,es ESP,0.4505847953216374,0.0,1.0,1.0,0.0564327485380116,0.0,1.0,1.0
+Middlesbrough FC,Fábio,26.0,Right-Back,Cardiff City,Summer,2.3,2016/2017,br BRA,0.5400584795321638,0.0,0.0,8.0,0.2903508771929824,0.0,0.0,2.0
+Hull City,Ryan Mason,25.0,Central Midfield,Spurs,Summer,15.4,2016/2017,eng ENG,0.2710526315789474,1.0,1.0,4.0,0.4557017543859649,2.0,4.0,13.0
+Hull City,David Marshall,31.0,Goalkeeper,Cardiff City,Summer,4.1,2016/2017,sct SCO,0.4210526315789473,0.0,0.0,0.0,0.9736842105263158,0.0,0.0,2.0
+Hull City,Will Keane,23.0,Centre-Forward,Man Utd,Summer,1.2,2016/2017,ie IRL,0.0818713450292397,0.0,0.0,0.0,0.0016081871345028,0.0,0.0,0.0
+West Ham United,Robert Snodgrass,29.0,Right Winger,Hull City,Winter,12.0,2016/2017,sct SCO,0.3342105263157894,7.0,12.0,14.0,0.2557017543859649,7.0,2.0,2.0
+West Ham United,José Fonte,33.0,Centre-Back,Southampton,Winter,9.2,2016/2017,pt POR,0.3058479532163742,0.0,1.0,2.0,0.7908771929824562,7.0,2.0,24.0
+Stoke City,Saido Berahino,23.0,Centre-Forward,West Brom,Winter,13.9,2016/2017,bi BDI,0.177485380116959,0.0,1.0,0.0,0.4627923976608187,23.0,2.0,3.0
+Swansea City,Jordan Ayew,25.0,Centre-Forward,Aston Villa,Winter,5.8,2016/2017,gh GHA,0.5435672514619883,8.0,4.0,4.0,0.6868421052631579,7.0,0.0,7.0
+Swansea City,Tom Carroll,24.0,Central Midfield,Spurs,Winter,5.2,2016/2017,eng ENG,0.4531189083820663,1.0,6.0,5.0,0.0581871345029239,1.0,1.0,3.0
+Swansea City,Martin Olsson,28.0,Left-Back,Norwich City,Winter,4.6,2016/2017,se SWE,0.643421052631579,2.0,1.0,9.0,0.6929824561403508,1.0,3.0,4.0
+West Brom,Jake Livermore,27.0,Defensive Midfield,Hull City,Winter,11.5,2016/2017,eng ENG,0.5084795321637426,2.0,2.0,10.0,0.7555555555555555,5.0,5.0,20.0
+Crystal Palace,Jeffrey Schlupp,24.0,Left Midfield,Leicester City,Winter,13.8,2016/2017,gh GHA,0.4703007518796992,16.0,8.0,17.0,0.3956140350877193,4.0,4.0,8.0
+Crystal Palace,Patrick van Aanholt,26.0,Left-Back,Sunderland AFC,Winter,10.5,2016/2017,nl NED,0.6068421052631578,13.0,6.0,13.0,0.6882066276803119,7.0,9.0,8.0
+Crystal Palace,Mamadou Sakho,26.0,Centre-Back,Liverpool FC,Winter,2.3,2016/2017,fr FRA,0.3455555555555555,1.0,2.0,5.0,0.4630604288499025,2.0,0.0,2.0
+AFC Bournemouth,Aaron Ramsdale,18.0,Goalkeeper,Sheff Utd,Winter,0.94,2016/2017,eng ENG,0.9736842105263158,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+Sunderland AFC,Darron Gibson,29.0,Central Midfield,Everton,Winter,2.5,2016/2017,ie IRL,0.1871345029239766,0.0,0.0,4.0,0.1997076023391812,2.0,4.0,8.0
+Sunderland AFC,Bryan Oviedo,26.0,Left-Back,Everton,Winter,2.0,2016/2017,cr CRC,0.247953216374269,0.0,0.0,1.0,0.1608187134502924,2.0,4.0,8.0
+Burnley FC,Robbie Brady,25.0,Left Midfield,Norwich City,Winter,15.1,2016/2017,ie IRL,0.2469005847953215,4.0,8.0,12.0,0.8725146198830409,3.0,2.0,3.0
+Burnley FC,Ashley Westwood,26.0,Defensive Midfield,Aston Villa,Winter,5.8,2016/2017,eng ENG,0.6497563352826511,7.0,20.0,33.0,0.7600877192982456,5.0,11.0,19.0
+Middlesbrough FC,Rudy Gestede,28.0,Centre-Forward,Aston Villa,Winter,7.1,2016/2017,bj BEN,0.1558479532163742,1.0,0.0,3.0,0.4880116959064327,5.0,2.0,2.0
+Chelsea FC,Danny Drinkwater,27.0,Central Midfield,Leicester City,Summer,37.9,2017/2018,eng ENG,0.1540935672514619,1.0,0.0,0.0,0.6809941520467836,4.0,9.0,12.0
+Spurs,Fernando Llorente,32.0,Centre-Forward,Swansea City,Summer,15.1,2017/2018,es ESP,0.1362573099415204,2.0,4.0,3.0,0.7140350877192982,15.0,1.0,2.0
+Man City,Kyle Walker,27.0,Right-Back,Spurs,Summer,52.7,2017/2018,eng ENG,0.6634990253411307,3.0,14.0,18.0,0.5779605263157894,4.0,15.0,32.0
+Liverpool FC,Alex Oxlade-Chamberlain,24.0,Central Midfield,Arsenal FC,Summer,38.0,2017/2018,eng ENG,0.2130604288499025,11.0,10.0,4.0,0.2689640768588136,9.0,14.0,6.0
+Liverpool FC,Andrew Robertson,23.0,Left-Back,Hull City,Summer,9.0,2017/2018,sct SCO,0.8172514619883041,7.0,53.0,19.0,0.6230994152046784,1.0,4.0,12.0
+Man Utd,Romelu Lukaku,24.0,Centre-Forward,Everton,Summer,84.7,2017/2018,be BEL,0.7314327485380117,28.0,7.0,8.0,0.86703216374269,68.0,23.0,8.0
+Man Utd,Nemanja Matić,28.0,Defensive Midfield,Chelsea FC,Summer,44.7,2017/2018,rs SRB,0.5627485380116959,2.0,7.0,22.0,0.5637426900584794,4.0,16.0,24.0
+AFC Bournemouth,Nathan Aké,22.0,Centre-Back,Chelsea FC,Summer,22.8,2017/2018,nl NED,0.731140350877193,11.0,5.0,10.0,0.0161549707602338,0.0,0.0,1.0
+West Brom,Kieran Gibbs,27.0,Left-Back,Arsenal FC,Summer,7.5,2017/2018,eng ENG,0.531578947368421,0.0,1.0,5.0,0.3025341130604288,2.0,8.0,15.0
+West Brom,Gareth Barry,36.0,Defensive Midfield,Everton,Summer,1.1,2017/2018,eng ENG,0.5622807017543859,1.0,1.0,4.0,0.7760233918128655,5.0,8.0,39.0
+West Ham United,Joe Hart,30.0,Goalkeeper,Man City,Summer,2.3,2017/2018,eng ENG,0.5,0.0,1.0,0.0,0.774106562703054,0.0,0.0,4.0
+Leicester City,Kelechi Iheanacho,20.0,Centre-Forward,Man City,Summer,27.7,2017/2018,ng NGA,0.3207115009746588,30.0,21.0,7.0,0.1904970760233918,12.0,4.0,1.0
+Leicester City,Harry Maguire,24.0,Centre-Back,Hull City,Summer,13.7,2017/2018,eng ENG,0.87953216374269,5.0,4.0,14.0,0.3510233918128654,2.0,1.0,6.0
+Stoke City,Kevin Wimmer,24.0,Centre-Back,Spurs,Summer,19.4,2017/2018,at AUT,0.3868421052631579,0.0,0.0,5.0,0.170906432748538,0.0,0.0,5.0
+Stoke City,Kurt Zouma,22.0,Centre-Back,Chelsea FC,Summer,7.8,2017/2018,fr FRA,0.8444444444444444,1.0,0.0,1.0,0.4203508771929824,6.0,1.0,9.0
+Crystal Palace,Mamadou Sakho,27.0,Centre-Back,Liverpool FC,Summer,28.2,2017/2018,fr FRA,0.3455555555555555,1.0,2.0,5.0,0.4630604288499025,2.0,0.0,2.0
+Swansea City,Sam Clucas,26.0,Central Midfield,Hull City,Summer,16.3,2017/2018,eng ENG,0.5976608187134503,3.0,1.0,2.0,0.9312865497076024,3.0,1.0,10.0
+Swansea City,Wilfried Bony,28.0,Centre-Forward,Man City,Summer,13.0,2017/2018,ci CIV,0.4360623781676413,27.0,6.0,10.0,0.223391812865497,6.0,4.0,2.0
+Burnley FC,Jack Cork,28.0,Defensive Midfield,Swansea City,Summer,9.1,2017/2018,eng ENG,0.6402534113060429,5.0,6.0,21.0,0.5947368421052631,2.0,2.0,11.0
+Burnley FC,Jonathan Walters,33.0,Right Winger,Stoke City,Summer,2.3,2017/2018,ie IRL,0.0114035087719298,0.0,0.0,0.0,0.6959482038429406,43.0,19.0,27.0
+Burnley FC,Phil Bardsley,32.0,Right-Back,Stoke City,Summer,0.84,2017/2018,sct SCO,0.3625,0.0,1.0,22.0,0.3963937621832358,0.0,2.0,14.0
+Watford FC,Andre Gray,26.0,Centre-Forward,Burnley FC,Summer,20.4,2017/2018,jm JAM,0.3527290448343079,14.0,4.0,4.0,0.6605263157894737,9.0,3.0,2.0
+Watford FC,Tom Cleverley,27.0,Central Midfield,Everton,Summer,9.3,2017/2018,eng ENG,0.3747368421052631,3.0,6.0,13.0,0.2950292397660818,2.0,4.0,2.0
+Watford FC,Nathaniel Chalobah,22.0,Defensive Midfield,Chelsea FC,Summer,6.3,2017/2018,eng ENG,0.1605263157894736,0.0,1.0,4.0,0.0488304093567251,0.0,0.0,2.0
+Newcastle United,Joselu,27.0,Centre-Forward,Stoke City,Summer,5.5,2017/2018,es ESP,0.3374269005847953,6.0,1.0,3.0,0.3207602339181286,4.0,1.0,0.0
+Chelsea FC,Olivier Giroud,31.0,Centre-Forward,Arsenal FC,Winter,17.0,2017/2018,fr FRA,0.2339912280701754,17.0,5.0,3.0,0.5499512670565302,73.0,24.0,18.0
+Chelsea FC,Ross Barkley,24.0,Central Midfield,Everton,Winter,16.8,2017/2018,eng ENG,0.1577777777777777,5.0,9.0,1.0,0.5186159844054581,21.0,18.0,17.0
+Liverpool FC,Virgil van Dijk,26.0,Centre-Back,Southampton,Winter,84.65,2017/2018,nl NED,0.6982943469785575,16.0,5.0,10.0,0.5757309941520468,4.0,0.0,8.0
+Arsenal FC,Henrikh Mkhitaryan,29.0,Attacking Midfield,Man Utd,Winter,34.0,2017/2018,am ARM,0.2482456140350876,8.0,8.0,2.0,0.3318713450292397,5.0,6.0,3.0
+Man Utd,Alexis Sánchez,29.0,Centre-Forward,Arsenal FC,Winter,34.0,2017/2018,cl CHI,0.2811403508771929,3.0,6.0,4.0,0.7381578947368421,60.0,25.0,15.0
+West Brom,Daniel Sturridge,28.0,Centre-Forward,Liverpool FC,Winter,2.3,2017/2018,eng ENG,0.0345029239766081,0.0,0.0,0.0,0.2839181286549707,51.0,15.0,6.0
+Swansea City,André Ayew,28.0,Left Winger,West Ham United,Winter,22.8,2017/2018,gh GHA,0.5665204678362573,12.0,4.0,8.0,0.3410818713450292,9.0,5.0,3.0
+Burnley FC,Aaron Lennon,30.0,Right Winger,Everton,Winter,1.7,2017/2018,eng ENG,0.3201754385964912,3.0,3.0,9.0,0.285672514619883,7.0,1.0,3.0
+Newcastle United,Islam Slimani,29.0,Centre-Forward,Leicester City,Winter,2.2,2017/2018,dz ALG,0.0385964912280701,0.0,0.0,1.0,0.1510721247563352,8.0,5.0,1.0
+Man City,Riyad Mahrez,27.0,Right Winger,Leicester City,Summer,67.8,2018/2019,dz ALG,0.5060818713450292,43.0,34.0,2.0,0.795906432748538,39.0,28.0,7.0
+Man Utd,Lee Grant,35.0,Goalkeeper,Stoke City,Summer,1.7,2018/2019,,,,,,0.4078947368421052,0.0,0.0,1.0
+Liverpool FC,Xherdan Shaqiri,26.0,Right Winger,Stoke City,Summer,14.7,2018/2019,ch SUI,0.1759259259259259,7.0,5.0,4.0,0.6577972709551657,15.0,15.0,10.0
+Burnley FC,Ben Gibson,25.0,Centre-Back,Middlesbrough FC,Summer,16.9,2018/2019,eng ENG,0.0181286549707602,1.0,0.0,1.0,1.0,1.0,1.0,4.0
+Burnley FC,Joe Hart,31.0,Goalkeeper,Man City,Summer,3.9,2018/2019,eng ENG,0.5,0.0,0.0,0.0,0.774106562703054,0.0,0.0,4.0
+Leicester City,Danny Ward,25.0,Goalkeeper,Liverpool FC,Summer,14.0,2018/2019,wls WAL,0.3552631578947368,0.0,0.0,0.0,0.0526315789473684,0.0,0.0,0.0
+Leicester City,Jonny Evans,30.0,Centre-Back,West Brom,Summer,4.0,2018/2019,nir NIR,0.5994736842105264,5.0,4.0,22.0,0.730701754385965,5.0,5.0,19.0
+Newcastle United,Federico Fernández,29.0,Centre-Back,Swansea City,Summer,6.7,2018/2019,ar ARG,0.4902046783625731,2.0,3.0,14.0,0.7646929824561404,2.0,4.0,15.0
+Newcastle United,Salomón Rondón,28.0,Centre-Forward,West Brom,Summer,2.2,2018/2019,ve VEN,0.7611111111111111,11.0,7.0,1.0,0.8004873294346978,24.0,7.0,8.0
+Crystal Palace,Cheikhou Kouyaté,28.0,Defensive Midfield,West Ham United,Summer,10.7,2018/2019,sn SEN,0.6960526315789474,2.0,4.0,14.0,0.8176169590643275,12.0,7.0,19.0
+West Ham United,Lucas Pérez,29.0,Centre-Forward,Arsenal FC,Summer,4.4,2018/2019,es ESP,0.1388888888888889,3.0,0.0,0.0,0.07953216374269,1.0,0.0,0.0
+Watford FC,Ben Foster,35.0,Goalkeeper,West Brom,Summer,2.8,2018/2019,eng ENG,0.8585526315789473,0.0,1.0,2.0,0.7837092731829574,0.0,0.0,8.0
+Huddersfield,Ramadan Sobhi,21.0,Left Winger,Stoke City,Summer,6.5,2018/2019,eg EGY,0.0230994152046783,0.0,0.0,0.0,0.3058479532163742,2.0,1.0,4.0
+Wolves,Adama Traoré,22.0,Right Winger,Middlesbrough FC,Summer,20.0,2018/2019,es ESP,0.5098830409356725,10.0,13.0,8.0,0.4505847953216374,0.0,1.0,1.0
+Wolves,Benik Afobe,25.0,Centre-Forward,AFC Bournemouth,Summer,11.4,2018/2019,,,,,,0.2925925925925925,10.0,3.0,1.0
+Cardiff City,Josh Murphy,23.0,Left Winger,Norwich City,Summer,11.4,2018/2019,eng ENG,0.5312865497076024,3.0,2.0,2.0,0.0406432748538011,0.0,0.0,1.0
+Fulham FC,Aleksandar Mitrović,23.0,Centre-Forward,Newcastle United,Summer,24.7,2018/2019,rs SRB,0.652046783625731,28.0,7.0,17.0,0.3235380116959064,10.0,4.0,6.0
+Fulham FC,Alfie Mawson,24.0,Centre-Back,Swansea City,Summer,16.85,2018/2019,eng ENG,0.3307017543859649,0.0,0.0,2.0,0.8552631578947368,6.0,1.0,4.0
+Crystal Palace,Michy Batshuayi,25.0,Centre-Forward,Chelsea FC,Winter,1.15,2018/2019,be BEL,0.2160818713450292,7.0,1.0,0.0,0.0831384015594541,8.0,3.0,0.0
+AFC Bournemouth,Dominic Solanke,21.0,Centre-Forward,Liverpool FC,Winter,21.2,2018/2019,eng ENG,0.4734892787524367,9.0,9.0,3.0,0.1742690058479532,1.0,1.0,0.0
+Spurs,Ryan Sessegnon,19.0,Left Midfield,Fulham FC,Summer,27.0,2019/2020,eng ENG,0.2146198830409356,2.0,2.0,6.0,0.672514619883041,2.0,6.0,0.0
+Arsenal FC,David Luiz,32.0,Centre-Back,Chelsea FC,Summer,8.7,2019/2020,br BRA,0.614766081871345,3.0,1.0,9.0,0.5692147034252297,11.0,6.0,36.0
+Man Utd,Harry Maguire,26.0,Centre-Back,Leicester City,Summer,87.0,2019/2020,eng ENG,0.7126461988304094,4.0,2.0,31.0,0.87953216374269,5.0,4.0,14.0
+Man Utd,Aaron Wan-Bissaka,21.0,Right-Back,Crystal Palace,Summer,55.0,2019/2020,eng ENG,0.6840643274853802,2.0,8.0,15.0,0.5498538011695906,0.0,3.0,6.0
+Leicester City,Ayoze Pérez,25.0,Second Striker,Newcastle United,Summer,33.4,2019/2020,es ESP,0.3042397660818713,12.0,9.0,3.0,0.7182748538011696,33.0,9.0,9.0
+Watford FC,Craig Dawson,29.0,Centre-Back,West Brom,Summer,6.0,2019/2020,eng ENG,0.6903508771929825,2.0,0.0,6.0,0.5573099415204679,12.0,2.0,26.0
+Crystal Palace,James McCarthy,28.0,Central Midfield,Everton,Summer,3.3,2019/2020,ie IRL,0.3656432748538011,0.0,0.0,10.0,0.4151072124756335,6.0,7.0,21.0
+Crystal Palace,Jordan Ayew,27.0,Centre-Forward,Swansea City,Summer,2.8,2019/2020,gh GHA,0.6525146198830409,18.0,13.0,20.0,0.5435672514619883,8.0,4.0,4.0
+AFC Bournemouth,Philip Billing,23.0,Central Midfield,Huddersfield,Summer,16.5,2019/2020,dk DEN,0.7739766081871345,8.0,2.0,13.0,0.431578947368421,2.0,0.0,10.0
+Burnley FC,Erik Pieters,30.0,Left-Back,Stoke City,Summer,1.1,2019/2020,nl NED,0.3775828460038986,0.0,6.0,4.0,0.8436257309941521,1.0,7.0,33.0
+Norwich City,Sam Byram,25.0,Right-Back,West Ham United,Summer,0.83,2019/2020,eng ENG,0.3391812865497076,0.0,0.0,7.0,0.1739766081871344,0.0,1.0,12.0
+Sheff Utd,Oliver McBurnie,23.0,Centre-Forward,Swansea City,Summer,19.1,2019/2020,sct SCO,0.5024853801169591,7.0,0.0,6.0,0.0523391812865497,0.0,1.0,0.0
+Sheff Utd,Lys Mousset,23.0,Centre-Forward,AFC Bournemouth,Summer,11.1,2019/2020,fr FRA,0.2245614035087718,6.0,4.0,1.0,0.1202729044834307,3.0,0.0,2.0
+Aston Villa,Tyrone Mings,26.0,Centre-Back,AFC Bournemouth,Summer,22.3,2019/2020,eng ENG,0.9089912280701754,6.0,9.0,32.0,0.062938596491228,0.0,0.0,1.0
+Aston Villa,Matt Targett,23.0,Left-Back,Southampton,Summer,15.5,2019/2020,eng ENG,0.694541910331384,2.0,5.0,13.0,0.1764912280701754,1.0,4.0,3.0
+Aston Villa,Tom Heaton,33.0,Goalkeeper,Burnley FC,Summer,8.8,2019/2020,eng ENG,0.5245614035087719,0.0,0.0,0.0,0.6275584795321637,0.0,0.0,5.0
+West Ham United,Jarrod Bowen,23.0,Right Winger,Hull City,Winter,21.3,2019/2020,eng ENG,0.7086988304093567,27.0,24.0,8.0,0.0529239766081871,0.0,0.0,0.0
+Newcastle United,Danny Rose,29.0,Left-Back,Spurs,Winter,2.0,2019/2020,eng ENG,0.2523391812865497,0.0,0.0,2.0,0.3547076023391812,8.0,17.0,43.0
+Brighton,Aaron Mooy,29.0,Central Midfield,Huddersfield,Winter,3.3,2019/2020,au AUS,0.6096491228070176,2.0,2.0,4.0,0.7890350877192982,7.0,4.0,8.0
+Aston Villa,Emiliano Martínez,28.0,Goalkeeper,Arsenal FC,Summer,17.4,2020/2021,ar ARG,0.9550682261208576,0.0,0.0,12.0,0.1221247563352826,0.0,0.0,2.0
+Burnley FC,Dale Stephens,31.0,Central Midfield,Brighton,Summer,1.1,2020/2021,eng ENG,0.0562865497076023,0.0,0.0,2.0,0.80458089668616,1.0,5.0,21.0
+Chelsea FC,Ben Chilwell,23.0,Left-Back,Leicester City,Summer,50.2,2020/2021,eng ENG,0.4128654970760233,8.0,8.0,6.0,0.5968567251461988,4.0,9.0,13.0
+Crystal Palace,Jack Butland,27.0,Goalkeeper,Stoke City,Summer,1.1,2020/2021,eng ENG,0.125,0.0,0.0,0.0,0.4026315789473683,0.0,0.0,0.0
+Fulham FC,Anthony Knockaert,28.0,Right Winger,Brighton,Summer,11.7,2020/2021,,,,,,0.6225146198830409,5.0,7.0,10.0
+Fulham FC,Harrison Reed,25.0,Central Midfield,Southampton,Summer,6.5,2020/2021,eng ENG,0.7475146198830409,3.0,6.0,10.0,0.039985380116959,0.0,0.0,0.0
+Fulham FC,Terence Kongolo,26.0,Centre-Back,Huddersfield,Summer,4.4,2020/2021,nl NED,0.0263157894736842,0.0,0.0,0.0,0.5504385964912281,1.0,1.0,4.0
+Fulham FC,Mario Lemina,26.0,Defensive Midfield,Southampton,Summer,2.2,2020/2021,ga GAB,0.497953216374269,1.0,0.0,5.0,0.487280701754386,2.0,2.0,7.0
+Leeds United,Hélder Costa,26.0,Right Winger,Wolves,Summer,17.7,2020/2021,ao ANG,0.1722222222222221,3.0,3.0,0.0,0.3921052631578947,1.0,2.0,3.0
+Liverpool FC,Diogo Jota,23.0,Left Winger,Wolves,Summer,44.7,2020/2021,pt POR,0.4490253411306042,31.0,8.0,7.0,0.6782163742690059,16.0,6.0,15.0
+Man City,Nathan Aké,25.0,Centre-Back,AFC Bournemouth,Summer,45.3,2020/2021,nl NED,0.3501949317738791,4.0,0.0,6.0,0.731140350877193,11.0,5.0,10.0
+Newcastle United,Callum Wilson,28.0,Centre-Forward,AFC Bournemouth,Summer,22.25,2020/2021,eng ENG,0.5211500974658869,38.0,10.0,10.0,0.562046783625731,41.0,12.0,13.0
+Newcastle United,Jamal Lewis,22.0,Left-Back,Norwich City,Summer,16.5,2020/2021,nir NIR,0.2056530214424951,0.0,1.0,5.0,0.6736842105263158,1.0,0.0,4.0
+Sheff Utd,Aaron Ramsdale,22.0,Goalkeeper,AFC Bournemouth,Summer,20.5,2020/2021,eng ENG,1.0,0.0,0.0,1.0,0.9736842105263158,0.0,1.0,0.0
+Sheff Utd,Oliver Burke,23.0,Centre-Forward,West Brom,Summer,6.5,2020/2021,sct SCO,0.3710526315789473,1.0,1.0,2.0,0.1073099415204678,0.0,2.0,0.0
+Spurs,Matt Doherty,28.0,Right-Back,Wolves,Summer,16.8,2020/2021,ie IRL,0.2711500974658868,3.0,6.0,5.0,0.5875243664717349,8.0,8.0,6.0
+West Brom,Karlan Grant,23.0,Centre-Forward,Huddersfield,Summer,16.5,2020/2021,eng ENG,0.32953216374269,1.0,0.0,1.0,0.2564327485380117,4.0,0.0,0.0
+West Brom,Grady Diangana,22.0,Right Winger,West Ham United,Summer,13.5,2020/2021,cd COD,0.3611111111111111,1.0,0.0,0.0,0.1780701754385965,0.0,1.0,0.0
+West Brom,David Button,31.0,Goalkeeper,Brighton,Summer,1.1,2020/2021,eng ENG,0.0263157894736842,0.0,0.0,0.0,0.1052631578947368,0.0,0.0,0.0
+West Ham United,Craig Dawson,30.0,Centre-Back,Watford FC,Summer,1.1,2020/2021,eng ENG,0.5262183235867446,5.0,2.0,14.0,0.6903508771929825,2.0,0.0,6.0
+West Brom,Robert Snodgrass,33.0,Right Winger,West Ham United,Winter,0.11,2020/2021,sct SCO,0.1538011695906432,0.0,0.0,2.0,0.3342105263157894,7.0,12.0,14.0
+West Ham United,Jesse Lingard,28.0,Attacking Midfield,Man Utd,Winter,2.3,2020/2021,eng ENG,0.4154970760233918,9.0,4.0,3.0,0.3256892230576441,20.0,9.0,16.0
+Arsenal FC,Ben White,23.0,Centre-Back,Brighton,Summer,58.5,2021/2022,eng ENG,0.8676900584795322,2.0,5.0,8.0,0.9330409356725148,0.0,0.0,6.0
+Arsenal FC,Aaron Ramsdale,23.0,Goalkeeper,Sheff Utd,Summer,28.0,2021/2022,eng ENG,0.9473684210526316,0.0,0.0,2.0,1.0,0.0,0.0,1.0
+Aston Villa,Danny Ings,29.0,Centre-Forward,Southampton,Summer,29.42,2021/2022,eng ENG,0.397953216374269,13.0,6.0,7.0,0.6460038986354776,41.0,9.0,5.0
+Burnley FC,Connor Roberts,25.0,Right-Back,Swansea City,Summer,2.9,2021/2022,wls WAL,0.4947368421052631,1.0,1.0,2.0,0.0783625730994152,0.0,0.0,0.0
+Crystal Palace,Will Hughes,26.0,Central Midfield,Watford FC,Summer,7.0,2021/2022,eng ENG,0.277046783625731,1.0,2.0,10.0,0.5516569200779727,5.0,8.0,14.0
+Leeds United,Daniel James,23.0,Right Winger,Man Utd,Summer,29.1,2021/2022,wls WAL,0.3748538011695906,4.0,4.0,8.0,0.3238791423001949,6.0,7.0,7.0
+Leicester City,Jannik Vestergaard,29.0,Centre-Back,Southampton,Summer,17.6,2021/2022,dk DEN,0.1657894736842105,0.0,0.0,2.0,0.5943469785575048,4.0,0.0,9.0
+Man City,Jack Grealish,25.0,Left Winger,Aston Villa,Summer,117.5,2021/2022,eng ENG,0.5802631578947368,8.0,10.0,7.0,0.4137426900584794,15.0,17.0,15.0
+Newcastle United,Joe Willock,21.0,Central Midfield,Arsenal FC,Summer,29.4,2021/2022,eng ENG,0.5432748538011696,13.0,6.0,1.0,0.0907163742690058,1.0,1.0,3.0
+Norwich City,Ben Gibson,28.0,Centre-Back,Burnley FC,Summer,9.3,2021/2022,eng ENG,0.7292397660818714,0.0,0.0,6.0,0.0181286549707602,1.0,0.0,1.0
+Norwich City,Angus Gunn,25.0,Goalkeeper,Southampton,Summer,5.85,2021/2022,sct SCO,0.2368421052631578,0.0,0.0,0.0,0.2894736842105263,0.0,0.0,0.0
+Watford FC,Moussa Sissoko,32.0,Central Midfield,Spurs,Summer,3.5,2021/2022,fr FRA,0.9415204678362572,2.0,1.0,5.0,0.5066666666666666,3.0,7.0,19.0
+West Ham United,Kurt Zouma,26.0,Centre-Back,Chelsea FC,Summer,35.0,2021/2022,fr FRA,0.5945906432748538,3.0,0.0,1.0,0.4203508771929824,6.0,1.0,9.0
+West Ham United,Craig Dawson,31.0,Centre-Back,Watford FC,Summer,2.3,2021/2022,eng ENG,0.5262183235867446,5.0,2.0,14.0,0.6903508771929825,2.0,0.0,6.0
+Aston Villa,Lucas Digne,28.0,Left-Back,Everton,Winter,30.0,2021/2022,fr FRA,0.4051169590643274,1.0,4.0,7.0,0.7197368421052631,4.0,18.0,19.0
+Newcastle United,Chris Wood,30.0,Centre-Forward,Burnley FC,Winter,30.0,2021/2022,nz NZL,0.2592105263157894,4.0,0.0,0.0,0.6290643274853801,49.0,7.0,5.0
+Newcastle United,Dan Burn,29.0,Centre-Back,Brighton,Winter,15.0,2021/2022,eng ENG,0.6653508771929825,1.0,1.0,9.0,0.5811890838206627,2.0,0.0,14.0
+Arsenal FC,Gabriel Jesus,25.0,Centre-Forward,Man City,Summer,52.2,2022/2023,br BRA,0.6035087719298246,11.0,6.0,6.0,0.4543859649122807,58.0,29.0,15.0
+Arsenal FC,Oleksandr Zinchenko,25.0,Left-Back,Man City,Summer,35.0,2022/2023,ua UKR,0.6192982456140351,1.0,2.0,3.0,0.3207017543859649,0.0,7.0,5.0
+Aston Villa,Leander Dendoncker,27.0,Defensive Midfield,Wolves,Summer,15.0,2022/2023,be BEL,0.2038011695906433,0.0,0.0,0.0,0.5221637426900585,9.0,2.0,14.0
+Brighton,Billy Gilmour,21.0,Central Midfield,Chelsea FC,Summer,10.4,2022/2023,sct SCO,0.1482456140350877,0.0,1.0,1.0,0.0665204678362573,0.0,0.0,0.0
+Chelsea FC,Wesley Fofana,21.0,Centre-Back,Leicester City,Summer,80.4,2022/2023,fr FRA,0.345906432748538,1.0,0.0,3.0,0.2994152046783625,0.0,0.0,10.0
+Chelsea FC,Marc Cucurella,24.0,Left-Back,Brighton,Summer,65.3,2022/2023,es ESP,0.4885964912280702,0.0,2.0,4.0,0.9032163742690058,1.0,1.0,6.0
+Chelsea FC,Raheem Sterling,27.0,Left Winger,Man City,Summer,56.2,2022/2023,eng ENG,0.5529239766081872,6.0,3.0,4.0,0.714327485380117,91.0,43.0,27.0
+Chelsea FC,Carney Chukwuemeka,18.0,Central Midfield,Aston Villa,Summer,18.0,2022/2023,eng ENG,0.1035087719298245,0.0,0.0,0.0,0.0469298245614034,0.0,1.0,0.0
+Fulham FC,Issa Diop,25.0,Centre-Back,West Ham United,Summer,17.8,2022/2023,fr FRA,0.5883040935672514,1.0,0.0,2.0,0.5906432748538011,6.0,2.0,15.0
+Fulham FC,Andreas Pereira,26.0,Attacking Midfield,Man Utd,Summer,9.5,2022/2023,br BRA,0.7871345029239766,4.0,6.0,8.0,0.1594298245614034,2.0,4.0,10.0
+Fulham FC,Bernd Leno,30.0,Goalkeeper,Arsenal FC,Summer,3.6,2022/2023,de GER,0.9473684210526316,0.0,0.0,3.0,0.6561403508771929,0.0,0.0,3.0
+Man City,Kalvin Phillips,26.0,Defensive Midfield,Leeds United,Summer,49.0,2022/2023,eng ENG,0.087719298245614,0.0,0.0,1.0,0.5883040935672514,1.0,3.0,14.0
+Man Utd,Martin Dúbravka,33.0,Goalkeeper,Newcastle United,Summer,2.31,2022/2023,,,,,,0.5646686159844054,0.0,0.0,2.0
+Newcastle United,Matt Targett,26.0,Left-Back,Aston Villa,Summer,17.5,2022/2023,eng ENG,0.2997076023391812,0.0,0.0,2.0,0.694541910331384,2.0,5.0,13.0
+Newcastle United,Nick Pope,30.0,Goalkeeper,Burnley FC,Summer,11.5,2022/2023,eng ENG,0.9535087719298244,0.0,0.0,4.0,0.9250730994152048,0.0,0.0,6.0
+Nottm Forest,Morgan Gibbs-White,22.0,Attacking Midfield,Wolves,Summer,29.5,2022/2023,eng ENG,0.8687134502923977,5.0,8.0,5.0,0.081578947368421,1.0,1.0,4.0
+Nottm Forest,Neco Williams,21.0,Right-Back,Liverpool FC,Summer,20.0,2022/2023,wls WAL,0.5502923976608187,1.0,0.0,7.0,0.0474658869395711,0.0,1.0,2.0
+Nottm Forest,Emmanuel Dennis,24.0,Centre-Forward,Watford FC,Summer,14.8,2022/2023,ng NGA,0.2105263157894736,2.0,2.0,3.0,0.7546783625730994,10.0,6.0,10.0
+Nottm Forest,Willy Boly,31.0,Centre-Back,Wolves,Summer,2.6,2022/2023,ci CIV,0.2002923976608187,0.0,1.0,2.0,0.5793128654970761,5.0,2.0,10.0
+Spurs,Richarlison,25.0,Centre-Forward,Everton,Summer,58.0,2022/2023,br BRA,0.2953216374269006,1.0,3.0,3.0,0.8127923976608187,43.0,12.0,28.0
+Spurs,Yves Bissouma,25.0,Central Midfield,Brighton,Summer,29.2,2022/2023,ml MLI,0.2953216374269006,0.0,0.0,6.0,0.6034356725146199,3.0,2.0,28.0
+West Ham United,Maxwel Cornet,25.0,Left Winger,Burnley FC,Summer,20.7,2022/2023,ci CIV,0.0716374269005847,0.0,0.0,0.0,0.5163742690058479,9.0,1.0,2.0
+Wolves,Nathan Collins,21.0,Centre-Back,Burnley FC,Summer,24.3,2022/2023,ie IRL,0.5304093567251462,0.0,0.0,3.0,0.4883040935672514,2.0,0.0,3.0
+Arsenal FC,Leandro Trossard,28.0,Left Winger,Brighton,Winter,24.0,2022/2023,be BEL,0.2722222222222222,1.0,10.0,0.0,0.6387426900584795,25.0,13.0,5.0
+Arsenal FC,Jorginho,31.0,Defensive Midfield,Chelsea FC,Winter,11.3,2022/2023,it ITA,0.25,0.0,1.0,0.0,0.6489473684210527,21.0,5.0,29.0
+Man Utd,Wout Weghorst,30.0,Centre-Forward,Burnley FC,Winter,2.96,2022/2023,nl NED,0.2330409356725146,0.0,1.0,1.0,0.4239766081871345,2.0,3.0,3.0
+Newcastle United,Anthony Gordon,21.0,Left Winger,Everton,Winter,45.6,2022/2023,eng ENG,0.1423976608187134,1.0,0.0,1.0,0.285672514619883,7.0,3.0,10.0
+West Ham United,Danny Ings,30.0,Centre-Forward,Aston Villa,Winter,12.0,2022/2023,eng ENG,0.2266081871345029,2.0,2.0,1.0,0.397953216374269,13.0,6.0,7.0
+Wolves,Craig Dawson,32.0,Centre-Back,West Ham United,Winter,3.75,2022/2023,eng ENG,0.4134502923976608,1.0,0.0,4.0,0.5262183235867446,5.0,2.0,14.0

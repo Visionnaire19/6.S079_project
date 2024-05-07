@@ -49,7 +49,7 @@ def get_raw_data():
         # print(len(players))
         # print(data.text)
         # players = pd.read_html(data.text, match= "Player Standard Stats")
-        players.to_csv(f"../data/player_data_{range}.csv", index=False)
+        players.to_csv(f"data/player_data_{range}.csv", index=False)
 
 def clean_data():
     #Limit to players transferred within the premier league
@@ -57,15 +57,69 @@ def clean_data():
     players_names = set(transfers['player_name'].tolist())
     print(players_names)
     for range in year_ranges:
-        path = f"data/player_data_{range}.csv"
+        path = f"data/raw_player_stats/player_data_{range}.csv"
         player_data = pd.read_csv(path)
         filtered = player_data[player_data['Player'].isin(players_names)]
-        # filtered['cards'] = filtered['CrdY'] + filtered['CrdR']
-        # filtered = filtered.drop(columns=['CrdY','CrdR'])
+        filtered['CrdY'] = filtered['CrdY'].astype(int)
+        filtered['CrdR'] = filtered['CrdR'].astype(int)
+        filtered['cards'] = filtered['CrdY'] + filtered['CrdR']
+        filtered = filtered.drop(columns=['CrdY','CrdR'])
         rename_dict = {"Player":"player_name", "Nation":"nation", "Squad":"squad","Min":"minutes_played", "Gls":"goals", "Ast": "assists"}
         columns_to_keep = ["Player", "Nation","Squad","Min", "Gls", "Ast","cards"]
+
         filtered = filtered[columns_to_keep].rename(columns=rename_dict)
+        filtered["minutes_played"]= filtered["minutes_played"].astype(int)
+        filtered["minutes_played"] = filtered["minutes_played"]/ (90*38)
+
         filtered.to_csv(path, index=False)
+
+def normalize_team_name(name):
+    name_equivalence = {"Nott'ham Forest":"Nottm Forest",
+                        "Nottingham Forest":"Nottm Forest",
+                        "Sunderland":"Sunderland AFC", 
+                        "Portsmouth":"Portsmouth FC", 
+                        "Manchester Utd":"Man Utd",
+                        "Manchester United":"Man Utd",
+                        "Liverpool":"Liverpool FC", 
+                        "Brentford":"Brentford FC", 
+                        "Manchester City":"Man City",
+                        "Wimbledon":"Wimbledon FC", 
+                        "Sheffield Weds":"Sheff Utd",
+                        "Sheffield Wednesday":"Sheff Utd",
+                        "Sheffield United":"Sheff Utd",
+                        "Sheffield Utd":"Sheff Utd",
+                        "Tottenham":"Spurs", 
+                        "Tottenham Hotspur":"Spurs",
+                        "Reading":"Reading FC", 
+                        "Barnsley":"Barnsley FC",
+                        "Chelsea":"Chelsea FC", 
+                        "Blackpool":"Blackpool FC", 
+                        "Fulham":"Fulham FC", 
+                        "Bournemouth":"AFC Bournemouth", 
+                        "Middlesbrough":"Middlesbrough FC", 
+                        "Arsenal":"Arsenal FC", 
+                        "Burnley":"Burnley FC",
+                        "Wolverhampton Wanderers":"Wolves",
+                        "Watford":"Watford FC",
+                        "West Ham":"West Ham United",
+                        "Newcastle":"Newcastle United",
+                        "Newcastle Utd":"Newcastle United",
+                        "Blackburn":"Blackburn Rovers",
+                        "Brighton & Hove Albion":"Brighton",
+                        "Queens Park Rangers":"QPR",
+                        "Leeds":"Leeds United",
+                        "West Bromwich Albion":"West Brom",
+                        "Norwich":"Norwich City",
+                        "Huddersfield Town":"Huddersfield",
+                        "Leicester":"Leicester City",
+                        "Cardiff":"Cardiff City",
+                        "Swansea":"Swansea City",
+                        "Bolton Wanderers":"Bolton",
+                        "Charlton Athletic":"Charlton",
+                        "Charlton Ath":"Charlton",
+                        "Derby":"Derby County",
+                        "Ipswich":"Ipswich Town",}
+    return name_equivalence.get(name, name)
 
 def merge_data():
     dataframes = []
@@ -77,12 +131,41 @@ def merge_data():
     df_merged = df_merged[[col for col in df_merged.columns if not col.endswith('_drop')]]  
     df_aggregated = df_merged.groupby(['player_name', 'squad']).agg({
         'nation': 'first',  # Presuming 'nation' does not change
-        'minutes_played': 'sum',
+        'minutes_played': 'mean',
         'goals': 'sum',
         'assists': 'sum',
         'cards': 'sum'}).reset_index()
-    df_aggregated.to_csv("data/aggregate_stats.csv")
+    df_aggregated['squad'] = df_aggregated['squad'].apply(normalize_team_name)
+    df_aggregated.to_csv("data/aggregate_stats.csv",index=False)
+
+
+
+def merge_with_transfer_data():
+    transfers = pd.read_csv("data/prem_transfers_cleaned.csv")
+    aggregate = pd.read_csv("data/aggregate_stats.csv")
+    transfers.rename(columns={"club_name":"squad"}, inplace=True)
+    merged_df = pd.merge(transfers, aggregate, on=['squad', 'player_name'], suffixes=('_1', '_2'), how='left')
+    rename_dict = {"minutes_played":"minutes_played_1", "goals":"goals_1", "assists":"assists_1", "cards":"cards_1"}
+    merged_df = merged_df.rename(columns=rename_dict)
+    merged_df = merged_df.drop(columns=['transfer_movement'])
+   
+
+    #merge for the second team
+    aggregate.rename(columns={"squad":"club_involved_name"}, inplace=True)
+    aggregate = aggregate[['player_name', "club_involved_name",'minutes_played', 'goals', 'assists', 'cards']]
+    merged_df = pd.merge( merged_df,aggregate, on=['player_name', 'club_involved_name'], suffixes=('_1', '_2'),how='left')
+    rename_dict = {"minutes_played":"minutes_played_2", "goals":"goals_2", "assists":"assists_2", "cards":"cards_2"}
+    merged_df = merged_df.rename(columns=rename_dict)
+    merged_df = merged_df[merged_df['minutes_played_2'].notna()]
+    merged_df.to_csv("data/merged_transfer_stats.csv", index=False)
 
 if __name__ == "__main__":
-    merge_data()
+    # get_raw_data()
+    # clean_data()
+    # merge_data()
+    # transfers = pd.read_csv("data/prem_transfers_cleaned.csv")
+    # transfers["club_name"] = transfers["club_name"].apply(normalize_team_name)
+    # transfers["club_involved_name"] = transfers["club_involved_name"].apply(normalize_team_name)
+    # transfers.to_csv('data/prem_transfers_cleaned.csv', index=False)
+    merge_with_transfer_data()
     
