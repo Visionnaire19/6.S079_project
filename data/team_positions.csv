@@ -1,0 +1,52 @@
+club_name,avg_position,position_type
+Man Utd,2,top
+Arsenal FC,4,top
+Chelsea FC,4,top
+Liverpool FC,4,top
+Man City,7,top
+Spurs,7,top
+Newcastle United,9,mid
+Aston Villa,10,mid
+Blackburn Rovers,10,mid
+Everton FC,10,mid
+Leeds United,10,mid
+Brentford FC,11,mid
+Leicester City,11,mid
+West Ham United,11,mid
+Charlton,12,mid
+Sheff Weds,12,mid
+Stoke City,12,mid
+Swansea City,12,mid
+Wimbledon FC,12,mid
+Bolton,13,mid
+Brighton,13,mid
+Fulham FC,13,mid
+Middlesbrough FC,13,mid
+Portsmouth FC,13,mid
+Southampton FC,13,mid
+Wolves,13,mid
+AFC Bournemouth,14,mid
+Birmingham City,14,mid
+Coventry City,14,mid
+Crystal Palace,14,mid
+Derby County,14,mid
+QPR,14,mid
+Wigan Athletic,14,mid
+Burnley FC,15,relegation
+Norwich City,15,relegation
+Nottm Forest,15,relegation
+Reading FC,15,relegation
+Sunderland AFC,15,relegation
+West Brom,15,relegation
+Ipswich Town,16,relegation
+Sheff Utd,16,relegation
+Watford FC,16,relegation
+Hull City,17,relegation
+Bradford City,18,relegation
+Huddersfield,18,relegation
+Barnsley FC,19,relegation
+Blackpool FC,19,relegation
+Cardiff City,19,relegation
+Luton Town,20,relegation
+Oldham Athletic,20,relegation
+Swindon Town,20,relegation

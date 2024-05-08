@@ -28,12 +28,17 @@ TODO
 """
 
 import pandas as pd
+from global_functions import normalize_team_name
 
 prem_transfers_df = pd.read_csv("data/prem_transfers.csv")
-clubs_stadiums_df = pd.read_csv("data/clubs_stadiums.csv")
+clubs_stadiums_df = pd.read_csv("data/prem_clubs.csv")
 
 # only want column headers club_name, player_name, age, position, club_involved_name, transfer_movement, transfer_period, fee_cleaned,  season
 prem_transfers_df = prem_transfers_df[["club_name", "player_name", "age", "position", "club_involved_name", "transfer_movement", "transfer_period", "fee_cleaned", "season"]]
+
+# Normalize team names
+prem_transfers_df['club_name'] = prem_transfers_df['club_name'].apply(normalize_team_name)
+prem_transfers_df['club_involved_name'] = prem_transfers_df['club_involved_name'].apply(normalize_team_name)
 
 # Remove rows where fee_cleaned is NaN or 0 (loan or free transfer)
 prem_transfers_df = prem_transfers_df[prem_transfers_df['fee_cleaned'].notna() & (prem_transfers_df['fee_cleaned'] != 0)]
@@ -41,18 +46,13 @@ prem_transfers_df = prem_transfers_df[prem_transfers_df['fee_cleaned'].notna() &
 # Filter rows to keep only those with transfer_movement equal to "in"
 prem_transfers_df = prem_transfers_df[prem_transfers_df['transfer_movement'] == "in"]
 
+# normalize positions
+prem_transfers_df['position']=prem_transfers_df['position'].replace({'Left Winger': 'Winger', 'Centre-Forward': 'Forward', 'Defensive Midfield': 'Midfielder', 'Central Midfield': 'Midfielder', 'Right-Back': 'Defender', 'Second Striker': 'Striker', 'Centre-Back': 'Centre-Back', 'Left-Back': 'Defender', 'Left Midfield': 'Midfielder', 'Goalkeeper': 'Goalkeeper', 'Right Winger': 'Winger', 'Attacking Midfield': 'Midfielder', 'Right Midfield': 'Midfielder', 'defence': 'Defender'})
+
 # Filter to ensure all 'club_name' and 'club_involved_name' are in 'club_name' from clubs_stadiums_df
 valid_clubs = set(clubs_stadiums_df['club_name'])
 
-# Manually adding additional valid clubs
-valid_clubs.update([
-    "Nottm Forest", "Wolves", "Sunderland AFC", "Portsmouth FC", 
-    "Man Utd", "Liverpool FC", "Brentford FC", "Man City", 
-    "Wimbledon FC", "Watford FC", "Sheff Utd", "Spurs", 
-    "QPR", "AFC Wimbledon", "Reading FC", "Barnsley FC", 
-    "Chelsea FC", "Blackpool FC", "Fulham FC", "AFC Bournemouth", 
-    "Middlesbrough FC", "Arsenal FC", "Sheff Wed", "Burnley FC", "Wimbledon FC"
-])
+prem_transfers_df=prem_transfers_df.rename(columns={'club_name': 'club_joining', 'club_involved_name': 'club_leaving'})
 
 def check_valid_club(club, valid_clubs):
     for vc in valid_clubs:
@@ -61,8 +61,9 @@ def check_valid_club(club, valid_clubs):
     return False
 
 prem_transfers_df = prem_transfers_df[
-    prem_transfers_df['club_name'].apply(lambda x: check_valid_club(x, valid_clubs)) &
-    prem_transfers_df['club_involved_name'].apply(lambda x: check_valid_club(x, valid_clubs))
+    prem_transfers_df['club_joining'].apply(lambda x: check_valid_club(x, valid_clubs)) &
+    prem_transfers_df['club_leaving'].apply(lambda x: check_valid_club(x, valid_clubs))
 ]
 
 prem_transfers_df.to_csv('data/prem_transfers_cleaned.csv', index=False)
+

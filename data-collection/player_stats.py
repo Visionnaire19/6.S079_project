@@ -1,7 +1,7 @@
 """
 This file is used to collect data from the premier league website
 
-https://www.premierleague.com/players?se=1&cl=-1 has data from 1992/93 on players.
+https://fbref.com/en/comps/9/{range}/stats/{range}-Premier-League-Stats has data from 1992/93 on players.
 data is lackluster from seasons before 2005/06 season
 
 can use this to collect player goal, assits, tackles, & clean sheets based on player names
@@ -15,6 +15,7 @@ from bs4 import BeautifulSoup
 from functools import reduce
 import pandas as pd
 import time
+from global_functions import normalize_team_name
 
 # Setup Chrome options
 chrome_options = Options()
@@ -72,54 +73,6 @@ def clean_data():
         filtered["minutes_played"] = filtered["minutes_played"]/ (90*38)
 
         filtered.to_csv(path, index=False)
-
-def normalize_team_name(name):
-    name_equivalence = {"Nott'ham Forest":"Nottm Forest",
-                        "Nottingham Forest":"Nottm Forest",
-                        "Sunderland":"Sunderland AFC", 
-                        "Portsmouth":"Portsmouth FC", 
-                        "Manchester Utd":"Man Utd",
-                        "Manchester United":"Man Utd",
-                        "Liverpool":"Liverpool FC", 
-                        "Brentford":"Brentford FC", 
-                        "Manchester City":"Man City",
-                        "Wimbledon":"Wimbledon FC", 
-                        "Sheffield Weds":"Sheff Utd",
-                        "Sheffield Wednesday":"Sheff Utd",
-                        "Sheffield United":"Sheff Utd",
-                        "Sheffield Utd":"Sheff Utd",
-                        "Tottenham":"Spurs", 
-                        "Tottenham Hotspur":"Spurs",
-                        "Reading":"Reading FC", 
-                        "Barnsley":"Barnsley FC",
-                        "Chelsea":"Chelsea FC", 
-                        "Blackpool":"Blackpool FC", 
-                        "Fulham":"Fulham FC", 
-                        "Bournemouth":"AFC Bournemouth", 
-                        "Middlesbrough":"Middlesbrough FC", 
-                        "Arsenal":"Arsenal FC", 
-                        "Burnley":"Burnley FC",
-                        "Wolverhampton Wanderers":"Wolves",
-                        "Watford":"Watford FC",
-                        "West Ham":"West Ham United",
-                        "Newcastle":"Newcastle United",
-                        "Newcastle Utd":"Newcastle United",
-                        "Blackburn":"Blackburn Rovers",
-                        "Brighton & Hove Albion":"Brighton",
-                        "Queens Park Rangers":"QPR",
-                        "Leeds":"Leeds United",
-                        "West Bromwich Albion":"West Brom",
-                        "Norwich":"Norwich City",
-                        "Huddersfield Town":"Huddersfield",
-                        "Leicester":"Leicester City",
-                        "Cardiff":"Cardiff City",
-                        "Swansea":"Swansea City",
-                        "Bolton Wanderers":"Bolton",
-                        "Charlton Athletic":"Charlton",
-                        "Charlton Ath":"Charlton",
-                        "Derby":"Derby County",
-                        "Ipswich":"Ipswich Town",}
-    return name_equivalence.get(name, name)
 
 def merge_data():
     dataframes = []
