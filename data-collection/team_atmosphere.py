@@ -10,12 +10,11 @@ from bs4 import BeautifulSoup
 import time
 import pandas as pd
 from global_functions import normalize_team_name
+import re
 
 years = ['1992', '1993', '1994', '1995', '1996', '1997', '1998', '1999', '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022']
 
-club_to_stadium = {'AnfieldLiverpool FC': 'Anfield', 'Old TraffordManchester United': 'Old Trafford', 'Villa ParkAston Villa': 'Villa Park', 'Elland RoadLeeds United': 'Elland Road', 'Tottenham Hotspur StadiumTottenham Hotspur': 'Tottenham Hotspur', 'HillsboroughSheffield Wednesday': 'Hillsborough', 'Etihad StadiumManchester City': 'Etihad', 'Emirates StadiumArsenal FC': 'Emirates', 'The City GroundNottingham Forest': 'The City Ground', 'Goodison ParkEverton FC': 'Goodison Park', 'Bramall LaneSheffield United': 'Bramall Lane', 'Stamford BridgeChelsea FC': 'Stamford Bridge', 'Portman RoadIpswich Town': 'Portman Road', 'Riverside StadiumMiddlesbrough FC': 'Riverside', 'Carrow RoadNorwich City': 'Carrow Road', 'Ewood ParkBlackburn Rovers': 'Ewood Park', 'Selhurst ParkCrystal Palace': 'Selhurst Park', 'St Mary\'s StadiumSouthampton FC': 'St Mary\'s', 'Loftus Road StadiumQueens Park Rangers': 'Loftus Road', 'Coventry Building Society ArenaCoventry City': 'Coventry', 'Boundary ParkOldham Athletic': 'Boundary Park', 'Selhurst ParkWimbledon FC (- 2004)': 'Selhurst Park'}
-
-stadium_to_club = {'Anfield' : 'Liverpool FC', 'Old Trafford' : 'Manchester United', 'Villa Park' : 'Aston Villa', 'Elland Road' : 'Leeds United', 'Tottenham Hotspur' : 'Tottenham Hotspur', 'Hillsborough' : 'Sheffield Wednesday', 'Etihad' : 'Manchester City', 'Emirates' : 'Arsenal FC', 'The City Ground' : 'Nottingham Forest', 'Goodison Park' : 'Everton FC', 'Bramall Lane' : 'Sheffield United', 'Stamford Bridge' : 'Chelsea FC', 'Portman Road' : 'Ipswich Town', 'Riverside' : 'Middlesbrough FC', 'Carrow Road' : 'Norwich City', 'Ewood Park' : 'Blackburn Rovers', 'Selhurst Park' : 'Crystal Palace', 'St Mary\'s' : 'Southampton FC', 'Loftus Road' : 'Queens Park Rangers', 'Coventry' : 'Coventry City', 'Boundary Park' : 'Oldham Athletic', 'Selhurst Park' : 'Wimbledon FC'}
+stadium_to_club = {}
 
 
 def getUrl(year):
@@ -37,12 +36,15 @@ def scrape_team_attendance():
         df = pd.read_html(str(table_html))[0]
         df = df.dropna(subset=['#']).reset_index(drop=True)
         df = df.drop(columns=['#'])
-
-        df['Stadium'] = df['Stadium'].map(club_to_stadium)
         df = df.drop(columns=['Spectators'])
-        df['club_name'] = df['Stadium'].map(stadium_to_club)
+
+        # Regex to split stadium and club names
+        df['club_name'] = df['Stadium'].apply(lambda x: re.split(r'(?<=[a-z])(?=[A-Z])', x, 1)[1].strip() if len(re.split(r'(?<=[a-z])(?=[A-Z])', x, 1)) > 1 else '')
+        
+        df['Stadium'] = df['Stadium'].apply(lambda x: re.split(r'(?<=[a-z])(?=[A-Z])', x, 1)[0].strip())
 
         df['club_name'] = df['club_name'].apply(normalize_team_name)
+
         df.rename(columns={'Stadium': 'stadium', 'Capacity': 'capacity', 'Average': 'avg_attendance'}, inplace=True)
 
         df.to_csv(f'data/raw_stadium_attendance/stadium_attendance_{year}.csv', index=False)

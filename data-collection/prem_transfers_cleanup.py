@@ -30,7 +30,7 @@ TODO
 import pandas as pd
 from global_functions import normalize_team_name
 
-prem_transfers_df = pd.read_csv("data/prem_transfers.csv")
+prem_transfers_df = pd.read_csv("data/all_prem_transfers.csv")
 clubs_stadiums_df = pd.read_csv("data/prem_clubs.csv")
 
 # only want column headers club_name, player_name, age, position, club_involved_name, transfer_movement, transfer_period, fee_cleaned,  season
@@ -47,7 +47,7 @@ prem_transfers_df = prem_transfers_df[prem_transfers_df['fee_cleaned'].notna() &
 prem_transfers_df = prem_transfers_df[prem_transfers_df['transfer_movement'] == "in"]
 
 # normalize positions
-prem_transfers_df['position']=prem_transfers_df['position'].replace({'Left Winger': 'Winger', 'Centre-Forward': 'Forward', 'Defensive Midfield': 'Midfielder', 'Central Midfield': 'Midfielder', 'Right-Back': 'Defender', 'Second Striker': 'Striker', 'Centre-Back': 'Centre-Back', 'Left-Back': 'Defender', 'Left Midfield': 'Midfielder', 'Goalkeeper': 'Goalkeeper', 'Right Winger': 'Winger', 'Attacking Midfield': 'Midfielder', 'Right Midfield': 'Midfielder', 'defence': 'Defender'})
+prem_transfers_df['position']=prem_transfers_df['position'].map({'Left Winger': 'Winger', 'Centre-Forward': 'Forward', 'Defensive Midfield': 'Midfielder', 'Central Midfield': 'Midfielder', 'Right-Back': 'Defender', 'Second Striker': 'Striker', 'Centre-Back': 'Centre-Back', 'Left-Back': 'Defender', 'Left Midfield': 'Midfielder', 'Goalkeeper': 'Goalkeeper', 'Right Winger': 'Winger', 'Attacking Midfield': 'Midfielder', 'Right Midfield': 'Midfielder', 'defence': 'Defender'})
 
 # Filter to ensure all 'club_name' and 'club_involved_name' are in 'club_name' from clubs_stadiums_df
 valid_clubs = set(clubs_stadiums_df['club_name'])

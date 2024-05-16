@@ -45,5 +45,6 @@ def normalize_team_name(name):
                         "Derby":"Derby County",
                         "Ipswich":"Ipswich Town",
                         "Everton": "Everton FC", 
-                        "Southampton" : "Southampton FC", }
+                        "Southampton" : "Southampton FC", 
+                        "Wimbledon FC (- 2004)" : "Wimbledon FC"}
         return name_equivalence.get(name, name)

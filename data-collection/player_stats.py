@@ -2,7 +2,6 @@
 This file is used to collect data from the premier league website
 
 https://fbref.com/en/comps/9/{range}/stats/{range}-Premier-League-Stats has data from 1992/93 on players.
-data is lackluster from seasons before 2005/06 season
 
 can use this to collect player goal, assits, tackles, & clean sheets based on player names
 """
@@ -47,9 +46,6 @@ def get_raw_data():
         time.sleep(3)  # give the page time to load JavaScript content
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         players = pd.read_html(str(soup), match="Player Standard Stats")[0]
-        # print(len(players))
-        # print(data.text)
-        # players = pd.read_html(data.text, match= "Player Standard Stats")
         players.to_csv(f"data/player_data_{range}.csv", index=False)
 
 def clean_data():
@@ -110,15 +106,8 @@ def merge_with_transfer_data():
     rename_dict = {"minutes_played":"minutes_played_2", "goals":"goals_2", "assists":"assists_2", "cards":"cards_2"}
     merged_df = merged_df.rename(columns=rename_dict)
     merged_df = merged_df[merged_df['minutes_played_2'].notna()]
-    merged_df.to_csv("data/merged_transfer_stats.csv", index=False)
+    merged_df.to_csv("data/final_data/merged_transfer_stats.csv", index=False)
 
 if __name__ == "__main__":
-    # get_raw_data()
-    # clean_data()
-    # merge_data()
-    # transfers = pd.read_csv("data/prem_transfers_cleaned.csv")
-    # transfers["club_name"] = transfers["club_name"].apply(normalize_team_name)
-    # transfers["club_involved_name"] = transfers["club_involved_name"].apply(normalize_team_name)
-    # transfers.to_csv('data/prem_transfers_cleaned.csv', index=False)
     merge_with_transfer_data()
     

@@ -1,52 +1,52 @@
-club_name,avg_position_x,position_type_x,avg_position_y,position_type_y,stadium
-Man Utd,2,top,2,top,Old Trafford
-Arsenal FC,4,top,4,top,Emirates Stadium
-Chelsea FC,4,top,4,top,Stamford Bridge
-Liverpool FC,4,top,4,top,Anfield
-Man City,7,top,7,top,Etihad Stadium
-Spurs,7,top,7,top,Tottenham Hotspur Stadium
-Newcastle United,9,mid,9,mid,St. James' Park
-Aston Villa,10,mid,10,mid,Villa Park
-Blackburn Rovers,10,mid,10,mid,Ewood Park
-Everton FC,10,mid,10,mid,Goodison Park
-Leeds United,10,mid,10,mid,Elland Road
-Brentford FC,11,mid,11,mid,Gtech Community Stadium
-Leicester City,11,mid,11,mid,King Power Stadium
-West Ham United,11,mid,11,mid,London Stadium
-Charlton,12,mid,12,mid,The Valley
-Sheff Weds,12,mid,12,mid,Hillsborough
-Stoke City,12,mid,12,mid,Britannia Stadium
-Swansea City,12,mid,12,mid,Liberty Stadium
-Wimbledon FC,12,mid,12,mid,Selhurst Park
-Bolton,13,mid,13,mid,Toughsheet Community Stadium
-Brighton,13,mid,13,mid,American Express Stadium
-Fulham FC,13,mid,13,mid,Craven Cottage
-Middlesbrough FC,13,mid,13,mid,Riverside Stadium
-Portsmouth FC,13,mid,13,mid,Fratton Park
-Southampton FC,13,mid,13,mid,St. Mary's Stadium
-Wolves,13,mid,13,mid,Molineux Stadium
-AFC Bournemouth,14,mid,14,mid,Vitality Stadium
-Birmingham City,14,mid,14,mid,St. Andrew's Trillion Trophy Stadium
-Coventry City,14,mid,14,mid,Highfield Road
-Crystal Palace,14,mid,14,mid,Selhurst Park
-Derby County,14,mid,14,mid,Pride Park Stadium
-QPR,14,mid,14,mid,MATRADE Loftus Road Stadium
-Wigan Athletic,14,mid,14,mid,DW Stadium
-Burnley FC,15,relegation,15,relegation,Turf Moor
-Norwich City,15,relegation,15,relegation,Carrow Road
-Nottm Forest,15,relegation,15,relegation,The City Ground
-Reading FC,15,relegation,15,relegation,Madejski Stadium
-Sunderland AFC,15,relegation,15,relegation,Stadium of Light
-West Brom,15,relegation,15,relegation,The Hawthorns
-Ipswich Town,16,relegation,16,relegation,Portman Road
-Sheff Utd,16,relegation,16,relegation,Bramall Lane
-Watford FC,16,relegation,16,relegation,Vicarage Road
-Hull City,17,relegation,17,relegation,KCOM Stadium
-Bradford City,18,relegation,18,relegation,Valley Parade
-Huddersfield,18,relegation,18,relegation,John Smith's Stadium
-Barnsley FC,19,relegation,19,relegation,Oakwell
-Blackpool FC,19,relegation,19,relegation,Bloomfield Road
-Cardiff City,19,relegation,19,relegation,Cardiff City Stadium
-Luton Town,20,relegation,20,relegation,Kenilworth Road
-Oldham Athletic,20,relegation,20,relegation,Boundary Park
-Swindon Town,20,relegation,20,relegation,County Ground
+club_name,stadium
+Arsenal FC,Emirates Stadium
+Aston Villa,Villa Park
+Barnsley FC,Oakwell
+Birmingham City,St. Andrew's Trillion Trophy Stadium
+Blackburn Rovers,Ewood Park
+Blackpool FC,Bloomfield Road
+Bolton,Toughsheet Community Stadium
+AFC Bournemouth,Vitality Stadium
+Bradford City,Valley Parade
+Brentford FC,Gtech Community Stadium
+Brighton,American Express Stadium
+Burnley FC,Turf Moor
+Cardiff City,Cardiff City Stadium
+Charlton,The Valley
+Chelsea FC,Stamford Bridge
+Coventry City,Highfield Road
+Crystal Palace,Selhurst Park
+Derby County,Pride Park Stadium
+Everton FC,Goodison Park
+Fulham FC,Craven Cottage
+Huddersfield,John Smith's Stadium
+Hull City,KCOM Stadium
+Ipswich Town,Portman Road
+Leeds United,Elland Road
+Leicester City,King Power Stadium
+Liverpool FC,Anfield
+Luton Town,Kenilworth Road
+Man City,Etihad Stadium
+Man Utd,Old Trafford
+Middlesbrough FC,Riverside Stadium
+Newcastle United,St. James' Park
+Norwich City,Carrow Road
+Nottm Forest,The City Ground
+Oldham Athletic,Boundary Park
+Portsmouth FC,Fratton Park
+QPR,MATRADE Loftus Road Stadium
+Reading FC,Madejski Stadium
+Sheff Utd,Bramall Lane
+Sheff Weds,Hillsborough
+Southampton FC,St. Mary's Stadium
+Stoke City,Britannia Stadium
+Sunderland AFC,Stadium of Light
+Swansea City,Liberty Stadium
+Swindon Town,County Ground
+Spurs,Tottenham Hotspur Stadium
+Watford FC,Vicarage Road
+West Brom,The Hawthorns
+West Ham United,London Stadium
+Wigan Athletic,DW Stadium
+Wimbledon FC,Selhurst Park
+Wolves,Molineux Stadium

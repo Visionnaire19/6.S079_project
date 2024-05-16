@@ -1,0 +1,52 @@
+club_name,avg_attendance,avg_position,position_type,stadium
+Arsenal FC,0.785229649531519,4,top,Emirates Stadium
+Aston Villa,0.8043998139061631,10,mid,Villa Park
+Barnsley FC,0.7681702694822775,19,relegation,Oakwell
+Birmingham City,0.9261402000359463,14,mid,St. Andrew's Trillion Trophy Stadium
+Blackburn Rovers,0.7523653662908292,10,mid,Ewood Park
+Blackpool FC,0.9728729963008632,19,relegation,Bloomfield Road
+Bolton,0.8226695840106694,13,mid,Toughsheet Community Stadium
+AFC Bournemouth,0.9468326124694736,14,mid,Vitality Stadium
+Bradford City,0.7267663908338639,18,relegation,Valley Parade
+Brentford FC,0.9851304347826085,11,mid,Gtech Community Stadium
+Brighton,0.8259224318658279,13,mid,American Express Stadium
+Burnley FC,0.8220537419296171,15,relegation,Turf Moor
+Cardiff City,0.8839843749999999,19,relegation,Cardiff City Stadium
+Charlton,0.9102744186046511,12,mid,The Valley
+Chelsea FC,0.87889940565821,4,top,Stamford Bridge
+Coventry City,0.560738173851118,14,mid,Highfield Road
+Crystal Palace,0.8344832692550277,14,mid,Selhurst Park
+Derby County,0.8348491999710858,14,mid,Pride Park Stadium
+Everton FC,0.8763382437937199,10,mid,Goodison Park
+Fulham FC,0.8242582684824904,13,mid,Craven Cottage
+Huddersfield,0.9669795918367348,18,relegation,John Smith's Stadium
+Hull City,0.9187524427421246,17,relegation,KCOM Stadium
+Ipswich Town,0.6633707410777476,16,relegation,Portman Road
+Leeds United,0.8911762118412951,10,mid,Elland Road
+Leicester City,0.7925765664614927,11,mid,King Power Stadium
+Liverpool FC,0.7107063838829205,4,top,Anfield
+Luton Town,0.0,20,relegation,Kenilworth Road
+Man City,0.7649558667880274,7,top,Etihad Stadium
+Man Utd,0.8626463597830314,2,top,Old Trafford
+Middlesbrough FC,0.8654793654556592,13,mid,Riverside Stadium
+Newcastle United,0.8703721142245737,9,mid,St. James' Park
+Norwich City,0.8756606959330495,15,relegation,Carrow Road
+Nottm Forest,0.8192314008868452,15,relegation,The City Ground
+Oldham Athletic,0.9408717531266189,20,relegation,Boundary Park
+Portsmouth FC,0.9520909291790963,13,mid,Fratton Park
+QPR,0.873615001556178,14,mid,MATRADE Loftus Road Stadium
+Reading FC,0.9831960597657381,15,relegation,Madejski Stadium
+Sheff Utd,0.6407559170692925,16,relegation,Bramall Lane
+Sheff Weds,0.6646397300484206,12,mid,Hillsborough
+Southampton FC,0.7265329071969695,13,mid,St. Mary's Stadium
+Stoke City,0.9048290072784075,12,mid,Britannia Stadium
+Sunderland AFC,0.8232633399716676,15,relegation,Stadium of Light
+Swansea City,0.9710058530240624,12,mid,Liberty Stadium
+Swindon Town,0.9559384537131231,20,relegation,County Ground
+Spurs,0.5904021351399904,7,top,Tottenham Hotspur Stadium
+Watford FC,0.9276776196876303,16,relegation,Vicarage Road
+West Brom,0.880269302392207,15,relegation,The Hawthorns
+West Ham United,0.5662714074074073,11,mid,London Stadium
+Wigan Athletic,0.7409033939442168,14,mid,DW Stadium
+Wimbledon FC,0.5203209928161465,12,mid,Selhurst Park
+Wolves,0.8150910036401455,13,mid,Molineux Stadium

@@ -4,6 +4,8 @@ use this file to aggregate and clean up team info data sets
 2. team atmosphere from each season --> avg stadium capacity ratio
 """
 import pandas as pd
+from global_functions import normalize_team_name
+
 
 def team_position_avg():
     """
@@ -45,14 +47,52 @@ def team_position_avg():
 
     # Merge the team_position_df with prem_teams_df on 'club_name'
     merged_df = pd.merge(team_position_df, prem_teams_df, on='club_name', how='left')
-    merged_df.to_csv("data/prem_clubs.csv", index=False)
+    merged_df.to_csv("data/final_data/prem_clubs.csv", index=False)
 
 def team_atmosphere_avg():
     """
     go through each file named data/raw_team_atmosphere/team_data_{season}.csv
     """
-    pass
+    years = ['1992', '1993', '1994', '1995', '1996', '1997', '1998', '1999', '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022']
+
+    prem_teams_df = pd.read_csv("data/prem_clubs.csv")
+    all_teams = prem_teams_df['club_name'].tolist()
+
+    team_dict = {}
+
+    for team in all_teams:
+        total_capacity = 0
+        total_attendance = 0
+        number_of_seasons = 0
+        for year in years:
+            team_atmosphere_df = pd.read_csv(f"data/raw_stadium_attendance/stadium_attendance_{year}.csv")
+            if team in team_atmosphere_df['club_name'].values:
+                total_attendance += team_atmosphere_df.loc[team_atmosphere_df['club_name'] == team, 'avg_attendance'].iloc[0]
+                total_capacity += team_atmosphere_df.loc[team_atmosphere_df['club_name'] == team, 'capacity'].iloc[0]
+                number_of_seasons += 1
+        if total_capacity > 0:
+            avg_attendance = total_attendance / total_capacity 
+        else:
+            avg_attendance = 0
+        team_dict[team] = [avg_attendance]
+
+    data = [(team, info[0]) for team, info in team_dict.items()]
+    team_atmosphere_df = pd.DataFrame(data, columns=['club_name', 'avg_attendance'])
+    team_atmosphere_df.to_csv("data/team_atmosphere.csv", index=False)
+
+    position_df = pd.read_csv("data/final_data/prem_clubs.csv")
+
+    merged_df = pd.merge(team_atmosphere_df, position_df, on='club_name', how='left')
+    merged_df.to_csv("data/final_data/prem_clubs.csv", index=False)
+
 
 if __name__ == "__main__":
     team_position_avg()
     team_atmosphere_avg()
+    
+    # Normalize club names in the merged_transfers_stats.csv file
+    merged_transfers_df = pd.read_csv("data/final_data/merged_transfer_stats.csv")
+    merged_transfers_df['club_leaving'] = merged_transfers_df['club_leaving'].apply(normalize_team_name)
+    merged_transfers_df['club_joining'] = merged_transfers_df['club_joining'].apply(normalize_team_name)
+    merged_transfers_df.to_csv("data/final_data/merged_transfer_stats.csv", index=False)
+
